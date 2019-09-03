@@ -1,0 +1,165 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "StripServices",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 675,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ServicesSectionOne",
+                "elementName": "Services.SectionOne",
+                "style": {
+                    "top": 0,
+                    "left": 0,
+                    "width": 280,
+                    "height": 60,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='service_sec_wrap componentElement fullSizeElement' fullSizeElement='1' hight='340' width='100' style='position: absolute;left: 0;top: 0;height: 340px;width: 100%;'> <div class='service_sec_one'> <ul> <li> <img src='[BASEURL]/element_images/service_images/01.jpg'> </li> <li> <h4 class='componentElement' hight='34' width='400' style='position: absolute;left: 40px;top: 70px;text-align: center;width: 400px;height: 34px;'>Title Goes Here</h4> <p class='componentElement' hight='66' width='400' style='position: absolute;left: 40px;top: 140px;text-align: center;margin: 0;color: #fff;width: 400px;height: 66px;;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <button hight='40' width='145' style='position: absolute;left: 167px;top: 250px;width: 145px;height: 40px;' type='button' class='service_learnMore componentElement'>Read More</button> </li> <li> <img src='[BASEURL]/element_images/service_images/02.jpg'> </li> <li> <h4 class='componentElement' hight='34' width='400' style='position: absolute;left: 40px;top: 70px;text-align: center;width: 400px;height: 34px;'>Title Goes Here</h4> <p class='componentElement' hight='66' width='400' style='position: absolute;left: 40px;top: 140px;text-align: center;margin: 0;color: #fff;width: 400px;height: 66px;;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p> <button hight='40' width='145' style='position: absolute;left: 167px;top: 250px;width: 145px;height: 40px;' type='button' class='service_learnMore componentElement'>Read More</button> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ServicesSectionTwo",
+                "elementName": "Services.SectionTwo",
+                "style": {
+                    "top": 63,
+                    "left": 0,
+                    "width": 280,
+                    "height": 95,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='service_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='500' width='100' style='position: absolute;left: 0;top: 0;height: 500px;width: 100%;'> <div class='service_sec_two'> <div class='service_bx text_box'> <h4 class='componentElement' height='22' width='120' style='position: absolute;left: 250px;top: 100px;width: 120px;height: 22px;'>Our Services</h4> <p class='componentElement' height='210' width='350' style='position: absolute;left: 250px;top: 140px;width: 350px;height: 210px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ServicesSectionThree",
+                "elementName": "Services.SectionThree",
+                "style": {
+                    "top": 160,
+                    "left": 0,
+                    "width": 280,
+                    "height": 85,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='service_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='450' width='100' style='position: absolute;left: 0;top: 0;height: 450px;width: 100%;'> <div class='service_sec_three'> <ul><li> <div width='70' height='76' style='position: absolute;left: 205px;top: 70px;width: 70px;height: 76px;' class='componentElement'> <svg version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 654.758 654.758' style='enable-background:new 0 0 654.758 654.758;' xml:space='preserve'><g><path d='M443.398,75.359l17.515-29.437c3.974-7.139,12.732-9.567,19.87-5.593c7.138,3.974,9.567,12.732,5.593,19.87l-17.515,29.437c-2.355,4.784-7.948,7.139-12.732,7.139c-2.355,0-4.784-0.81-7.138-1.619C441.779,91.255,439.424,82.571,443.398,75.359zM185.896,89.71c2.355,4.784,7.948,7.139,12.732,7.139c2.355,0,4.784-0.81,7.139-1.619c7.139-3.974,9.567-12.732,5.593-19.87l-17.515-29.437c-3.974-7.139-12.732-9.567-19.87-5.593s-9.567,12.732-5.593,19.87L185.896,89.71z M327.342,62.701c7.948,0,14.277-6.329,14.277-14.277V14.277C341.619,6.329,335.29,0,327.342,0c-7.948,0-14.277,6.329-14.277,14.277v34.147C312.255,56.299,318.584,62.701,327.342,62.701z M69.84,290.766H35.693c-7.948,0-14.277,6.329-14.277,14.277c0,7.948,6.329,14.277,14.277,14.277H69.84c7.948,0,14.277-6.329,14.277-14.277S77.788,290.766,69.84,290.766z M619.065,290.766h-34.147c-7.948,0-14.277,6.329-14.277,14.277c0,7.948,6.329,14.277,14.277,14.277h34.147c7.948,0,14.277-6.329,14.277-14.277S627.013,290.766,619.065,290.766z M592.792,152.485c-3.974-7.139-12.732-9.567-19.87-5.593l-29.437,17.515c-7.138,3.974-9.567,12.732-5.593,19.87c2.355,4.784,7.948,7.139,12.732,7.139c2.355,0,4.784-0.81,7.138-1.619l29.437-17.515C594.411,168.381,596.766,159.623,592.792,152.485z M514.931,303.498c0,32.602-8.758,64.394-24.654,93.022c-0.809,2.355-1.619,3.974-3.165,5.593l-1.619,2.355c-6.329,9.567-12.732,19.061-20.68,27.009c-27.818,38.931-42.095,72.342-41.359,93.758v0.81c0,1.619,0.81,3.974,0.81,6.329v68.368c0,30.173-24.654,54.017-54.017,54.017h-88.164c-30.173,0-54.017-24.654-54.017-54.017v-68.368c0-1.619,0-2.355,0-3.974c0-0.81,0-2.355,0-3.164c0.81-20.68-13.541-53.281-39.74-91.403c-8.758-9.567-17.515-19.87-23.844-31.792c-0.809-1.619-1.619-2.355-2.355-3.974c-16.706-28.628-25.463-61.229-25.463-93.758c0-104.134,85.074-189.134,189.134-189.134C429.857,114.364,514.931,199.364,514.931,303.498z M394.9,540.32H257.429v27.009H394.9V540.32L394.9,540.32z M394.9,602.359v-5.593H257.429v5.593c1.619,12.732,11.922,22.225,24.654,22.225h88.238C382.978,624.584,393.355,615.091,394.9,602.359zM485.493,303.498c0-88.238-71.532-159.771-159.771-159.771S165.952,215.26,165.952,303.498c0,28.628,7.948,56.446,22.225,81.1l0,0c0,0,0,0,0,0.809c6.329,10.303,13.541,19.87,21.489,28.628c0.81,0.81,0.81,0.81,1.619,1.619c26.199,37.385,41.359,69.177,45.333,95.377H395.71c4.784-32.602,27.009-69.913,46.879-97.732c0-0.81,0.81-0.81,1.619-1.619c7.139-7.139,13.541-15.896,18.251-24.654c0-0.81,0.81-0.81,0.81-1.619c0-0.81,0.81-0.809,0.81-1.619C478.355,359.944,485.493,332.126,485.493,303.498z M111.199,164.407l-29.437-17.515c-7.139-3.974-15.896-1.619-19.87,5.593c-3.974,7.139-1.619,15.896,5.593,19.87l29.437,17.515c2.355,1.619,4.784,1.619,7.139,1.619c4.784,0,10.303-2.355,12.732-7.139C120.693,177.139,118.338,168.381,111.199,164.407z'/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></div><h3 width='175' height='26' class='componentElement' style='position: absolute;left: 152px;top: 180px;width: 175px;height: 26px;text-align: center;'>Branding</h3> <p width='300' height='44' class='componentElement' style='position: absolute;top: 230px;left: 90px;width: 300px;height: 44px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> <a width='95' height='22' class='componentElement' href='!#' style='position: absolute;left: 192px;top: 350px;width: 95px;height: 22px;'>Learn More ></a> </li> <li> <div width='70' height='76' class='componentElement' style='position: absolute;left: 205px;top: 70px;width: 70px;height: 76px;'><svg version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px'viewBox='0 0 399.193 399.193' style='enable-background:new 0 0 399.193 399.193;' xml:space='preserve'><g><path d='M375.337,97.308c-3.136-4.547-9.364-5.691-13.909-2.557c-4.547,3.135-5.692,9.362-2.557,13.909c13.295,19.284,20.322,42.543,20.322,67.264c0,24.627-7.35,48.709-20.694,67.81c-3.163,4.527-2.058,10.762,2.47,13.925c1.744,1.219,3.741,1.804,5.719,1.804c3.155,0,6.262-1.491,8.206-4.273c15.897-22.753,24.3-50.163,24.3-79.265C399.193,147.131,390.943,119.946,375.337,97.308z'/><path d='M342.47,125.562c-3.134-4.547-9.361-5.692-13.909-2.557c-4.547,3.135-5.691,9.362-2.556,13.909c7.72,11.197,11.801,24.726,11.801,39.124c0,14.344-4.268,28.352-12.016,39.443c-3.163,4.527-2.058,10.762,2.47,13.925c1.744,1.218,3.741,1.803,5.719,1.803c3.156,0,6.262-1.49,8.206-4.274c10.22-14.627,15.621-32.228,15.621-50.897C357.806,157.567,352.503,140.113,342.47,125.562z'/><path d='M303.027,20.495c-4.954,0-9.532,2.757-13.586,8.167c-0.328,0.432-33.738,43.425-117.107,69.128c-7.914,2.44-16.663,4.163-16.748,4.18c-1.978,0.386-3.888,1.004-5.707,1.82c-3.508-5.791-9.85-9.681-17.1-9.681H48.635c-11.028,0-20,8.972-20,20v10.979c-1.402-0.22-2.844-0.342-4.317-0.342C10.909,124.746,0,134.272,0,145.98v55.29c0,11.708,10.909,21.234,24.317,21.234c1.474,0,2.915-0.121,4.317-0.342v8.979c0,11.028,8.972,20,20,20h2.704L76.731,356.46c3.007,12.47,15.41,22.238,28.237,22.238h26.873c7.017,0,13.365-2.951,17.417-8.096c4.053-5.145,5.434-12.008,3.789-18.83l-24.262-100.631h3.993c7.253,0,13.597-3.893,17.104-9.687c1.816,0.815,3.724,1.432,5.698,1.818c0.087,0.017,8.836,1.742,16.748,4.186c83.375,25.756,116.782,68.707,117.09,69.11c4.074,5.433,8.651,8.188,13.604,8.188c0,0,0,0,0.001,0c4.896,0,9.178-2.776,11.453-7.425c1.307-2.668,1.941-5.862,1.941-9.763V37.681C316.419,20.977,304.397,20.495,303.027,20.495z M24.317,202.504c-2.463,0-3.935-1.02-4.317-1.5v-54.759c0.383-0.48,1.854-1.5,4.317-1.5s3.935,1.02,4.317,1.5v54.759C28.252,201.485,26.78,202.504,24.317,202.504z M133.604,356.46c0.216,0.896,0.127,1.533-0.058,1.768s-0.783,0.471-1.705,0.471h-26.873c-3.662,0-7.936-3.366-8.794-6.926L71.912,251.141h36.3L133.604,356.46z M48.635,231.141V201.27v-55.29v-31.871h84.145l0,15.539c0,0.004,0,0.007,0,0.011v85.922c0,0.024,0.002,0.047,0.002,0.071l0,15.489H48.635z M296.419,294.556c-15.581-15.585-52.326-45.861-118.187-66.207c-8.957-2.768-18.415-4.627-18.813-4.706c-3.413-0.667-6.64-4.585-6.64-8.063v-85.922c0-3.477,3.227-7.394,6.639-8.06c0.398-0.078,9.853-1.935,18.809-4.697c65.854-20.303,102.604-50.591,118.192-66.192V294.556z'/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></div> <h3 width='175' height='26' class='componentElement' style='position: absolute;left: 152px;top: 180px;width: 175px;height: 26px;text-align: center;'>convincing</h3> <p width='300' height='44' class='componentElement' style='position: absolute;top: 230px;left: 90px;width: 300px;height: 44px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> <a width='95' height='22' class='componentElement' href='!#' style='position: absolute;left: 192px;top: 350px;width: 95px;height: 22px;'>Learn More ></a> </li> <li><div width='70' height='76' class='componentElement' style='position: absolute;left: 205px;top: 70px;width: 70px;height: 76px;'><svg version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px'viewBox='0 0 55.25 55.25' style='enable-background:new 0 0 55.25 55.25;' xml:space='preserve'><path d='M52.618,2.631c-3.51-3.508-9.219-3.508-12.729,0L3.827,38.693C3.81,38.71,3.8,38.731,3.785,38.749c-0.021,0.024-0.039,0.05-0.058,0.076c-0.053,0.074-0.094,0.153-0.125,0.239c-0.009,0.026-0.022,0.049-0.029,0.075c-0.003,0.01-0.009,0.02-0.012,0.03l-3.535,14.85c-0.016,0.067-0.02,0.135-0.022,0.202C0.004,54.234,0,54.246,0,54.259c0.001,0.114,0.026,0.225,0.065,0.332c0.009,0.025,0.019,0.047,0.03,0.071c0.049,0.107,0.11,0.21,0.196,0.296c0.095,0.095,0.207,0.168,0.328,0.218c0.121,0.05,0.25,0.075,0.379,0.075c0.077,0,0.155-0.009,0.231-0.027l14.85-3.535c0.027-0.006,0.051-0.021,0.077-0.03c0.034-0.011,0.066-0.024,0.099-0.039c0.072-0.033,0.139-0.074,0.201-0.123c0.024-0.019,0.049-0.033,0.072-0.054c0.008-0.008,0.018-0.012,0.026-0.02l36.063-36.063C56.127,11.85,56.127,6.14,52.618,2.631zM51.204,4.045c2.488,2.489,2.7,6.397,0.65,9.137l-9.787-9.787C44.808,1.345,48.716,1.557,51.204,4.045z M46.254,18.895l-9.9-9.9l1.414-1.414l9.9,9.9L46.254,18.895z M4.961,50.288c-0.391-0.391-1.023-0.391-1.414,0L2.79,51.045l2.554-10.728l4.422-0.491l-0.569,5.122c-0.004,0.038,0.01,0.073,0.01,0.11c0,0.038-0.014,0.072-0.01,0.11c0.004,0.033,0.021,0.06,0.028,0.092c0.012,0.058,0.029,0.111,0.05,0.165c0.026,0.065,0.057,0.124,0.095,0.181c0.031,0.046,0.062,0.087,0.1,0.127c0.048,0.051,0.1,0.094,0.157,0.134c0.045,0.031,0.088,0.06,0.138,0.084C9.831,45.982,9.9,46,9.972,46.017c0.038,0.009,0.069,0.03,0.108,0.035c0.036,0.004,0.072,0.006,0.109,0.006c0,0,0.001,0,0.001,0c0,0,0.001,0,0.001,0h0.001c0,0,0.001,0,0.001,0c0.036,0,0.073-0.002,0.109-0.006l5.122-0.569l-0.491,4.422L4.204,52.459l0.757-0.757C5.351,51.312,5.351,50.679,4.961,50.288z M17.511,44.809L39.889,22.43c0.391-0.391,0.391-1.023,0-1.414s-1.023-0.391-1.414,0L16.097,43.395l-4.773,0.53l0.53-4.773l22.38-22.378c0.391-0.391,0.391-1.023,0-1.414s-1.023-0.391-1.414,0L10.44,37.738l-3.183,0.354L34.94,10.409l9.9,9.9L17.157,47.992L17.511,44.809z M49.082,16.067l-9.9-9.9l1.415-1.415l9.9,9.9L49.082,16.067z'/><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></div> <h3 width='175' height='26' class='componentElement' style='position: absolute;left: 152px;top: 180px;width: 175px;height: 26px;text-align: center;'>Layout</h3> <p width='300' height='44' class='componentElement' style='position: absolute;top: 230px;left: 90px;width: 300px;height: 44px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> <a width='95' height='22' class='componentElement' href='!#' style='position: absolute;left: 192px;top: 350px;width: 95px;height: 22px;'>Learn More ></a> </li> <li><div width='70' height='76' class='componentElement' style='position: absolute;left: 205px;top: 70px;width: 70px;height: 76px;'><svg version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 60 60' style='enable-background:new 0 0 60 60;' xml:space='preserve'><g><path d='M19,24.506h11c0.552,0,1-0.447,1-1s-0.448-1-1-1H19c-0.552,0-1,0.447-1,1S18.448,24.506,19,24.506z'/><path d='M35,29.506H14c-0.552,0-1,0.447-1,1s0.448,1,1,1h21c0.552,0,1-0.447,1-1S35.552,29.506,35,29.506z'/><path d='M35,36.506H14c-0.552,0-1,0.447-1,1s0.448,1,1,1h21c0.552,0,1-0.447,1-1S35.552,36.506,35,36.506z'/><path d='M45.224,0.494H25.776c-6.448,0-12.132,4.216-14.062,10.322C5.031,12.231,0,18.172,0,25.27v11.345c0,7.732,6.313,14.314,14,14.845v6.48c0,0.676,0.343,1.238,0.894,1.466c0.163,0.067,0.333,0.101,0.503,0.101c0.375,0,0.75-0.159,1.05-0.46l1.521-1.521c3.89-3.89,9.151-6.032,14.813-6.032h1.443c6.599,0,12.198-4.38,14.09-10.403C55.017,39.541,60,33.438,60,26.614V15.27C60,7.122,53.372,0.494,45.224,0.494z M34.224,49.493h-1.443c-6.197,0-11.96,2.351-16.228,6.618L16,56.665v-6.172v-1v-3.154c0-0.553-0.448-1-1-1s-1,0.447-1,1v3.102C7.4,48.915,2,43.262,2,36.614V25.27c0-6.137,4.351-11.274,10.129-12.497l0.52-0.087c0.369-0.062,0.72-0.107,1.06-0.138c0.279-0.023,0.56-0.038,0.844-0.043c0.073-0.001,0.151-0.01,0.223-0.01h19.448C41.269,12.494,47,18.226,47,25.27v11.345c0,0.362-0.025,0.718-0.054,1.072c-0.015,0.171-0.031,0.341-0.053,0.513c-0.013,0.109-0.033,0.215-0.049,0.322c-0.076,0.489-0.175,0.98-0.309,1.471l-0.153,0.565C44.725,45.735,39.904,49.493,34.224,49.493z M58,26.614c0,5.58-3.855,10.615-9.186,12.285c0.013-0.079,0.017-0.158,0.029-0.237c0.035-0.252,0.07-0.503,0.092-0.759C48.975,37.472,49,37.041,49,36.614V25.27c0-1.018-0.104-2.013-0.301-2.974c-1.38-6.727-7.346-11.802-14.475-11.802H14.776c-0.019,0-0.037,0.003-0.057,0.003c-0.26,0.001-0.523,0.008-0.792,0.026c1.917-4.794,6.594-8.028,11.849-8.028h19.448C52.269,2.494,58,8.226,58,15.27V26.614z'/></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg></div> <h3 width='175' height='26' class='componentElement' style='position: absolute;left: 152px;top: 180px;width: 175px;height: 26px;text-align: center;'>Advisor</h3> <p width='300' height='44' class='componentElement' style='position: absolute;top: 230px;left: 90px;width: 300px;height: 44px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> <a width='95' height='22' class='componentElement' href='!#' style='position: absolute;left: 192px;top: 350px;width: 95px;height: 22px;'>Learn More ></a> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ServicesSectionFour",
+                "elementName": "Services.SectionFour",
+                "style": {
+                    "top": 248,
+                    "left": 0,
+                    "width": 280,
+                    "height": 95,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='service_sec_wrap set_after componentElement fullSizeElement' fullSizeElement='1' height='520' width='100' style='position: absolute;left: 0;top: 0;height: 520px;background: #607D8B;width: 100%;'> <div class='service_sec_four' style='position: absolute;left: 0;top: 0;height: 520px;width: 980px;margin-left: calc((100% - 980px) * 0.5)'> <h1 class='componentElement' height='70' width='490' style='position: absolute;left: 245px;top: 80px;width: 490px;height: 70px;'>OUR SERVICES</h1> <ul class='componentElement' height='210' width='980' style='position: absolute;left: 0;top: 200px;width: 980px;height: 210px;'> <li> <h4 class='componentElement' height='30' width='120' style='position: absolute;left: 98px;top: 60px;width: 120px;height: 30px;'>STRATEGY</h4> <a class='componentElement' height='22' width='80' href='!#' style='position: absolute;left: 118px;top: 100px;width: 80px;height: 22px;'>Read More</a> </li> <li> <h4 class='componentElement' height='30' width='120' style='position: absolute;left: 98px;top: 60px;width: 120px;height: 30px;'>BRANDING</h4> <a class='componentElement' height='22' width='80' href='!#' style='position: absolute;left: 118px;top: 100px;width: 80px;height: 22px;'>Read More</a> </li> <li> <h4 class='componentElement' height='30' width='120' style='position: absolute;left: 98px;top: 60px;width: 120px;height: 30px;'>DESIGN</h4> <a class='componentElement' height='22' width='80' href='!#' style='position: absolute;left: 118px;top: 100px;width: 80px;height: 22px;'>Read More</a> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ServicesSectionFive",
+                "elementName": "Services.SectionFive",
+                "style": {
+                    "top": 356,
+                    "left": 0,
+                    "width": 280,
+                    "height": 110,
+                    
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='service_sec_wrap componentElement fullSizeElement' fullSizeElement='1' bakgroundsrc= '[BASEURL]/element_images/service_images/06.jpg' style='position: absolute;left: 0;top: 0;height: 630px;width:100%; background-position: center;background-repeat: no-repeat;background-size: cover;'> <div class='service_sec_five' style='position: absolute;left: 0;top: 0;height: 630px;width:980px;margin-left: calc((100% - 980px) * 0.5);'> <h1 class='componentElement' height='70' width='450' style='position: absolute;left: 265px;top: 80px;width: 450px;height: 70px;'>What We Do</h1> <ul class='componentElement' height='290' width='980' style='position: absolute;left: 0;top: 200px;'> <li> <h1 class='componentElement' height='115' width='100' style='position: absolute;left: 0;top: 50px;height: 115px;width: 100%;text-align: center;'>01</h1> <p class='componentElement' height='22' width='100' style='position: absolute;left: 0;top: 210px;height: 22px;width: 100%;text-align: center;'>BRANDING</p> </li> <li> <h1 class='componentElement' height='115' width='100' style='position: absolute;left: 0;top: 50px;height: 115px;width: 100%;text-align: center;'>02</h1> <p class='componentElement' height='22' width='100' style='position: absolute;left: 0;top: 210px;height: 22px;width: 100%;text-align: center;'>STORYTELLING</p> </li> <li> <h1 class='componentElement' height='115' width='100' style='position: absolute;left: 0;top: 50px;height: 115px;width: 100%;text-align: center;'>03</h1> <p class='componentElement' height='22' width='100' style='position: absolute;left: 0;top: 210px;height: 22px;width: 100%;text-align: center;'>ESIGN</p> </li> <li> <h1 class='componentElement' height='115' width='100' style='position: absolute;left: 0;top: 50px;height: 115px;width: 100%;text-align: center;'>04</h1> <p class='componentElement' height='22' width='100' style='position: absolute;left: 0;top: 210px;height: 22px;width: 100%;text-align: center;'>CONSULTING</p> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "ServicesSectionSix",
+                "elementName": "Services.SectionSix",
+                "style": {
+                    "top": 470,
+                    "left": 0,
+                    "width": 280,
+                    "height": 87,
+                    
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='service_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='450' width='100' style='position: absolute;left: 0;top: 0;height: 450px;width: 100%;'> <div class='service_sec_six'> <ul> <li> <img src='[BASEURL]/element_images/service_images/07.jpg' alt=''> </li> <li> <h2 class='componentElement' height='100' width='260' style='position: absolute;left: 110px;top: 60px;width: 260px;height: 100px;'>Ceremony</h1> <p class='componentElement' height='150' width='400' style='position: absolute;left: 40px;top: 190px;width: 400px;height: 150px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p> <a class='componentElement' height='18' width='105' href='#' style='position: absolute;left: 187px;top: 350px;width: 105px;height: 18px;'>All Ceremony ></a> </li> <li> <img src='[BASEURL]/element_images/service_images/08.jpg' alt=''> </li> <li> <h2 class='componentElement' height='100' width='260' style='position: absolute;left: 110px;top: 60px;width: 260px;height: 100px;'>Dinner</h1> <p class='componentElement' height='150' width='400' style='position: absolute;left: 40px;top: 190px;width: 400px;height: 150px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p> <a class='componentElement' href='#' height='18' width='105' style='position: absolute;left: 187px;top: 350px;width: 105px;height: 18px;'>All Dinner ></a> </li> </ul> </div> </section> ",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "ServicesSectionSeven",
+                "elementName": "Services.SectionSeven",
+                "style": {
+                    "top": 555,
+                    "left": 0,
+                    "width": 280,
+                    "height": 117,
+                    
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='service_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='600' width='100' style='position: absolute;left: 0;top: 0;height: 600px;width: 100%;'> <div class='service_sec_seventh'> <ul> <li> <img src='[BASEURL]/element_images/service_images/09.jpg' alt=''> <button type='button' class='buy_now' style='position: absolute;top: 266px;left: 202px;width: 235px;height: 67px;'>Buy Now</button> </li> <li> <h2 style=' position: absolute;left: 160px;top: 180px;width: 320px;height: 140px;'>Fresh <span>New</span></h1> <a href='#' style='position: absolute;left: 282px;top: 420px;width: 76px;height: 22px;'>See all ></a> </li> <li> <img src='[BASEURL]/element_images/service_images/10.jpg' alt=''> <button type='button' class='buy_now' style='position: absolute;top: 266px;left: 202px;width: 235px;height: 67px;'>Buy Now</button> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

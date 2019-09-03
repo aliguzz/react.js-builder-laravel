@@ -1,0 +1,751 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Button",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 940,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ButtonViewMoreBlack",
+                "elementName": "Button.ViewMoreBlack",
+                "style": {
+                    "top": 7,
+                    "left": 10,
+                    "width": 96,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn light_grey'>Button</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonBacktoTop",
+                "elementName": "Button.BacktoTop",
+                "style": {
+                    "top": 7,
+                    "left": 165,
+                    "width": 96,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn grey'>Button</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonDiscoverMore",
+                "elementName": "Button.DiscoverMore",
+                "style": {
+                    "top": 57,
+                    "left": 15,
+                    "width": 96,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn light_grey brd_none'>Button</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonCallUs",
+                "elementName": "Button.CallUs",
+                "style": {
+                    "top": 57,
+                    "left": 155,
+                    "width": 116,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn view_more_black'>View More</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonContactUs",
+                "elementName": "Button.ContactUs",
+                "style": {
+                    "top": 105,
+                    "left": 0,
+                    "width": 116,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn back_to_top'>Back to Top</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonShop",
+                "elementName": "Button.ShopButton",
+                "style": {
+                    "top": 105,
+                    "left": 147,
+                    "width": 132,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn discover_more'>Discover More</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonGo",
+                "elementName": "Button.GoButton",
+                "style": {
+                    "top": 155,
+                    "left": 0,
+                    "width": 115,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn call_us'>Call Us</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonUpArrowButton",
+                "elementName": "Button.UpArrowButton",
+                "style": {
+                    "top": 155,
+                    "left": 147,
+                    "width": 132,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn contact_btn'>Contact Us</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonBeinTouch",
+                "elementName": "Button.BeinTouch",
+                "style": {
+                    "top": 205,
+                    "left": 10,
+                    "width": 95,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn shop_btn'>Shop</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonJoinUs",
+                "elementName": "Button.JoinUs",
+                "style": {
+                    "top": 203,
+                    "left": 185,
+                    "width": 55,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn text_button go_btn'>Go</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonOrderNow",
+                "elementName": "Button.OrderNow",
+                "style": {
+                    "top": 253,
+                    "left": 25,
+                    "width": 65,
+                    "height": 43,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn up_arrow_btn'>^</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonSend",
+                "elementName": "Button.SendButton",
+                "style": {
+                    "top": 255,
+                    "left": 150,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn be_touch_btn'>Be in Touch</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonViewMorePurple",
+                "elementName": "Button.ViewMorePurple",
+                "style": {
+                    "top": 307,
+                    "left": 5,
+                    "width": 105,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn join_us_btn'>Join us</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonCancelPurple",
+                "elementName": "Button.CancelPurple",
+                "style": {
+                    "top": 307,
+                    "left": 155,
+                    "width": 115,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn order_now_btn'>Order Now</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonSale",
+                "elementName": "Button.Sale",
+                "style": {
+                    "top": 355,
+                    "left": 5,
+                    "width": 115,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn send_btn'>Send</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "Button.PickMe",
+                "elementName": "Button.PickMe",
+                "style": {
+                    "top": 355,
+                    "left": 155,
+                    "width": 115,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn view_more_purple'>View More</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonRSVPButton",
+                "elementName": "Button.RSVPButton",
+                "style": {
+                    "top": 408,
+                    "left": 40,
+                    "width": 45,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn cancel_purple'>X</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonSayHello",
+                "elementName": "Button.SayHello",
+                "style": {
+                    "top": 410,
+                    "left": 180,
+                    "width": 100,
+                    "height": 50,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn sale_btn'>Sale</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonDownload",
+                "elementName": "Button.Download",
+                "style": {
+                    "top": 470,
+                    "left": 25,
+                    "width": 75,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn pcik_me'>Pick me</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonLetsTalk",
+                "elementName": "Button.LetsTalk",
+                "style": {
+                    "top": 470,
+                    "left": 172,
+                    "width": 75,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn rsvp_btn'>RSVP</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonFindOutMore",
+                "elementName": "Button.FindOutMore",
+                "style": {
+                    "top": 515,
+                    "left": 0,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn say_hello'>Say Hello</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonLoadMore",
+                "elementName": "Button.LoadMore",
+                "style": {
+                    "top": 515,
+                    "left": 180,
+                    "width": 60,
+                    "height": 35,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn let_talk'>Let's Talk</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonShopRedButton",
+                "elementName": "Button.ShopRedButton",
+                "style": {
+                    "top": 562,
+                    "left": 0,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn find_out_more'>Find out More</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonReadMoreOrange",
+                "elementName": "Button.ReadMoreOrange",
+                "style": {
+                    "top": 562,
+                    "left": 150,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn LoadMore'>Load More</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonScroll",
+                "elementName": "Button.Scroll",
+                "style": {
+                    "top": 610,
+                    "left": 0,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn shop_red_btn'>Shop</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonTryMe",
+                "elementName": "Button.TryMe",
+                "style": {
+                    "top": 610,
+                    "left": 150,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn read_more_orange'>Read More</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonGoUpButton",
+                "elementName": "Button.GoUpButton",
+                "style": {
+                    "top": 660,
+                    "left": 0,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn read_more_orange'>Read More</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonViewOurWork",
+                "elementName": "Button.ViewOurWork",
+                "style": {
+                    "top": 660,
+                    "left": 150,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn ScrollBtn'>Scroll</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonAddItem",
+                "elementName": "Button.AddItem",
+                "style": {
+                    "top": 707,
+                    "left": 0,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn try_me_btn'>Try Me</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonSeeOurServices",
+                "elementName": "Button.SeeOurServices",
+                "style": {
+                    "top": 707,
+                    "left": 145,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn go_up'>Go Up</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonDonateNow",
+                "elementName": "Button.DonateNow",
+                "style": {
+                    "top": 760,
+                    "left": 5,
+                    "width": 135,
+                    "height": 42,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn view_our_work'>View our Work</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonTakeTour",
+                "elementName": "Button.TakeTour",
+                "style": {
+                    "top": 760,
+                    "left": 195,
+                    "width": 45,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn add_item'>+</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ButtonStartSquare",
+                "elementName": "Button.StartSquare",
+                "style": {
+                    "top": 810,
+                    "left": 0,
+                    "width": 145,
+                    "height": 37,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn see_our_services'>See our Services</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },          
+            {
+                "name": "ButtonStartSquare",
+                "elementName": "Button.StartSquare",
+                "style": {
+                    "top": 810,
+                    "left": 155,
+                    "width": 125,
+                    "height": 37,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn donate_now'>Donate Now!</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },          
+            {
+                "name": "ButtonStartSquare",
+                "elementName": "Button.StartSquare",
+                "style": {
+                    "top": 855,
+                    "left": 10,
+                    "width": 125,
+                    "height": 40,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn take_tour'>Take a Tour</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },          
+            {
+                "name": "ButtonStartSquare",
+                "elementName": "Button.StartSquare",
+                "style": {
+                    "top": 855,
+                    "left": 155,
+                    "width": 125,
+                    "height": 37,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<button class='componentElement btn start_square'>Start</button>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }            
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

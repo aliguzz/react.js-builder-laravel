@@ -1,0 +1,88 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "PandaVideos",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 310,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "PandaVideosSectionOne",
+                "elementName": "PandaVideos.SectionOne",
+                "style": {
+                    "top": 0,
+                    "left": 0,
+                    "width": 280,
+                    "height": 123,
+                    "transform": {
+ 
+                    }
+                },
+                "html": "<video deletable='1' cpandavideo='1' videojsslider='1' class='componentElement' controls width='640' height='264px' src='https://controlpanda.com/element_images/video-images/video02.mp4'> <source src='https://controlpanda.com/element_images/video-images/video02.mp4' type='video/mp4'></video>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "PandaVideosSectionThree",
+                "elementName": "PandaVideos.SectionThree",
+                "style": {
+                    "top": 120,
+                    "left": 0,
+                    "width": 135,
+                    "height": 85,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' width='500' height='500' cpandavideo='1' class='video_wrap' style='position: absolute;left: 0;top: 0;'> <div class='overlay' style='background: url(https://controlpanda.com/element_images/video-images/img_overlay.gif);position: absolute;left: 0;right: 0;top: 0;bottom: 0;opacity: 0.2;'></div> <video id='bVideo' width='500' poster='https://controlpanda.com/element_images/video-images/video_poster.jpg'> <source src='https://controlpanda.com/element_images/video-images/video.mp4' type='video/mp4'> </video> <button onclick='$(this).prev()[0].play()' style='position: absolute;left: 50%;top: 50%;transform: translate(-50%,-50%) rotate(45deg);' type='button' id='play_video' ><i class='fa fa-play'></i></button> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "PandaVideosSectionFive",
+                "elementName": "PandaVideos.SectionFive",
+                "style": {
+                    "top": 120,
+                    "left": 155,
+                    "width": 115,
+                    "height": 95,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='500' height='500' cpandavideo='1' class='componentElement video_wrap' style='position: absolute;left: 0;top: 0;border-radius: 50%;overflow: hidden;height: 500px;width: 500px;'> <video id='vid' playsinline autoplay muted loop width='500' height='500' style='object-fit: cover;'> <source src='https://controlpanda.com/element_images/video-images/vedio.mp4' type='video/mp4'> </video> </div>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

@@ -1,0 +1,603 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Shapes",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 441,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ShapesHorizontal1",
+                "elementName": "Shapes.Horizontal1",
+                "style": {
+                    "top": 0,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line1 componentElement\" width='284' height='8' style=\"position: absolute;top:225%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal2",
+                "elementName": "Shapes.Horizontal2",
+                "style": {
+                    "top": 0,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line2 componentElement\" width='284' height='8' style=\"position: absolute;top:225%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal3",
+                "elementName": "Shapes.Horizontal3",
+                "style": {
+                    "top": 23,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line3 componentElement\" width='284' height='8' style=\"position: absolute;top:228%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal4",
+                "elementName": "Shapes.Horizontal4",
+                "style": {
+                    "top": 23,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line4 componentElement\" width='284' height='8' style=\"position: absolute;top:228%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal5",
+                "elementName": "Shapes.Horizontal5",
+                "style": {
+                    "top": 49,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line5 componentElement\" width='284' height='8' style=\"position: absolute;top:231%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal6",
+                "elementName": "Shapes.Horizontal6",
+                "style": {
+                    "top": 49,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line6 componentElement\" width='284' height='8' style=\"position: absolute;top:231%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal7",
+                "elementName": "Shapes.Horizontal7",
+                "style": {
+                    "top": 76,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line7 componentElement\" width='284' height='8' style=\"position: absolute;top:234%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal8",
+                "elementName": "Shapes.Horizontal8",
+                "style": {
+                    "top": 76,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line8 componentElement\" width='284' height='8' style=\"position: absolute;top:234%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal9",
+                "elementName": "Shapes.Horizontal9",
+                "style": {
+                    "top": 98,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line9 componentElement\" width='284' height='8' style=\"position: absolute;top:237%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal10",
+                "elementName": "Shapes.Horizontal10",
+                "style": {
+                    "top": 98,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line10 componentElement\" width='284' height='8' style=\"position: absolute;top:237%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal11",
+                "elementName": "Shapes.Horizontal11",
+                "style": {
+                    "top": 125,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line11 componentElement\" width='284' height='8' style=\"position: absolute;top:240%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal12",
+                "elementName": "Shapes.Horizontal12",
+                "style": {
+                    "top": 125,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line12 componentElement\" width='284' height='8' style=\"position: absolute;top:240%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal13",
+                "elementName": "Shapes.Horizontal13",
+                "style": {
+                    "top": 152,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line13 componentElement\" width='284' height='8' style=\"position: absolute;top:243%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal14",
+                "elementName": "Shapes.Horizontal14",
+                "style": {
+                    "top": 152,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line14 componentElement\" width='284' height='8' style=\"position: absolute;top:243%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal15",
+                "elementName": "Shapes.Horizontal15",
+                "style": {
+                    "top": 185,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line15 componentElement\" width='284' height='8' style=\"position: absolute;top:246%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal16",
+                "elementName": "Shapes.Horizontal16",
+                "style": {
+                    "top": 185,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line16 componentElement\" width='284' height='8' style=\"position: absolute;top:246%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal17",
+                "elementName": "Shapes.Horizontal17",
+                "style": {
+                    "top": 215,
+                    "left": 3,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line17 componentElement\" width='284' height='8' style=\"position: absolute;top:249%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal18",
+                "elementName": "Shapes.Horizontal18",
+                "style": {
+                    "top": 215,
+                    "left": 141,
+                    "width": 137,
+                    "height": 26,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line18 componentElement\" width='284' height='8' style=\"position: absolute;top:249%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal19",
+                "elementName": "Shapes.Horizontal19",
+                "style": {
+                    
+                    "top": 240,
+                    "left": 0,
+                    "width": 138,
+                    "height": 20,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line19 componentElement\" width='284' height='8' style=\"position: absolute;top:252%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal20",
+                "elementName": "Shapes.Horizontal20",
+                "style": {
+                    "top": 240,
+                    "left": 142,
+                    "width": 138,
+                    "height": 20,
+                   
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line20 componentElement\" width='284' height='8' style=\"position: absolute;top:252%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal21",
+                "elementName": "Shapes.Horizontal21",
+                "style": {
+                    "top": 270,
+                    "left": 0,
+                    "width": 140,
+                    "height": 20,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line21 componentElement\" width='284' height='8' style=\"position: absolute;top:255%;left:30%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal22",
+                "elementName": "Shapes.Horizontal22",
+                "style": {
+                    "top": 270,
+                    "left": 145,
+                    "width": 130,
+                    "height": 20,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line22 componentElement\" width='284' height='8' style=\"position: absolute;top:255%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal23",
+                "elementName": "Shapes.Horizontal23",
+                "style": {
+                    "top": 296,
+                    "left": 0,
+                    "width": 138,
+                    "height": 20,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line23 componentElement\" width='284' height='8' style=\"position: absolute;top:258%;left:30%;\"> <div class=\"bottom-line23-1\"><\/div> <div class=\"bottom-line23-2\"><\/div> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal24",
+                "elementName": "Shapes.Horizontal24",
+                "style": {
+                    "top": 296,
+                    "left": 142,
+                    "width": 138,
+                    "height": 20,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line24 componentElement\" width='284' height='8' style=\"position: absolute;top:258%;left:50%;\"> <div class=\"bottom-line24-1\"><\/div> <div class=\"bottom-line24-2\"><\/div> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal25",
+                "elementName": "Shapes.Horizontal25",
+                "style": {
+                    "top": 323,
+                    "left": 0,
+                    "width": 138,
+                    "height": 30,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line25 componentElement\" width='284' height='8' style=\"position: absolute;top:261%;left:30%;\"> <div class=\"bottom-line25-1\"><\/div> <div class=\"bottom-line25-2\"><\/div> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal26",
+                "elementName": "Shapes.Horizontal26",
+                "style": {
+                    "top": 323,
+                    "left": 142,
+                    "width": 138,
+                    "height": 30,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line26 componentElement\" width='284' height='8' style=\"position: absolute;top:261%;left:50%;\"> <div class=\"bottom-line26-1\"><\/div> <div class=\"bottom-line26-2\"><\/div> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal27",
+                "elementName": "Shapes.Horizontal27",
+                "style": {
+                    "top": 362,
+                    "left": 0,
+                    "width": 138,
+                    "height": 30,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line27 componentElement\" width='284' height='8' style=\"position: absolute;top:264%;left:30%;\"> <div class=\"bottom-line27-1\"> <div class=\"bottom-line27-2\"><\/div> <\/div> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal28",
+                "elementName": "Shapes.Horizontal28",
+                "style": {
+                    "top": 362,
+                    "left": 142,
+                    "width": 138,
+                    "height": 30,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line28 componentElement\" width='284' height='8' style=\"position: absolute;top:265%;left:50%;\"><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal29",
+                "elementName": "Shapes.Horizontal29",
+                "style": {
+                    "top": 398,
+                    "left": 0,
+                    "width": 138,
+                    "height": 30,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line29 componentElement\" width='284' height='8' style=\"position: absolute;top:270%;left:30%;\"> <div class=\"bottom-line29-1\"> <div class=\"bottom-line29-2\"><\/div> <\/div> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesHorizontal30",
+                "elementName": "Shapes.Horizontal30",
+                "style": {
+                    "top": 398,
+                    "left": 142,
+                    "width": 138,
+                    "height": 30,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class=\"bottom-line30 componentElement\" width='284' height='8' style=\"position: absolute;top:270%;left:50%;\"> <div class=\"bottom-line30-1\"> <div class=\"bottom-line30-2\"> <div class=\"bottom-line30-3\"><\/div> <div class=\"bottom-line30-4\"><\/div> <div class=\"bottom-line30-5\"><\/div> <\/div> <\/div> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

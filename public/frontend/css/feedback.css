@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.eot");
+    src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/Flaticon.woff") format("woff"),
+        url("../fonts/Flaticon.ttf") format("truetype"),
+        url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+      font-family: "Flaticon";
+      src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+    }
+  }
+
+  [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+  [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+    font-family: Flaticon;
+    font-size: 20px;
+    font-style: normal;
+    color: #aa4dc8;
+  }
+
+  .flaticon-garbage:before { content: "\f100"; }
+  .flaticon-move-arrows:before { content: "\f101"; }
+  .flaticon-smiling:before { content: "\f102"; }
+  @import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
+  body{padding: 0;margin: 0;font-family: 'Roboto', sans-serif;}
+   .round_DotCirlce{z-index: 9999999;height: 10px;width: 10px;border-radius: 50%;box-shadow: 0 0 0 5px #aa4dc8, 0 0 0 7px #fff, 0 0 4px 6px rgba(0, 0, 0, 0.5490196078431373);background: #fff;margin: 20px;display: inline-block;}
+    .comment_box{width: 285px;min-height: auto;background: #fff;box-shadow: 0 0 10px #333;border-radius: 8px;box-shadow: 0 0 20px 0px #eaeaea;padding: 15px 15px;}
+    .comment_box:before{content: "";position: absolute;left: 49%;top: 55px;height: 20px;width: 20px;background: #fff;transform: rotate(45deg) translateX(-50%);}
+    .comment_box .head{display: flex;align-items: flex-start;}
+    .comment_box .head p{margin-top: 0;text-align: left;padding-left: 15px;font-size: 14px;color: #656565;}
+    .comment_box .form_group{display: flex;margin-bottom: 10px;}
+    .comment_box .form_group input{min-height: 35px;border: 1px solid #eeb7ff;border-radius: 7px;background: #fff;padding: 0 10px;outline: none;min-width: 210px;}
+    .comment_box .form_group input:focus{border: 1px solid #aa4dc8;}
+  .flaticon-smiling{margin-left: 15px;}
+  .flaticon-smiling:before{font-size: 37px;}
+    .comment_box .form_group textarea{min-height: 120px;border: 1px solid #eeb7ff;border-radius: 7px;background: #fff;padding:10px;outline: none;min-width: 210px;text-align: left;}
+    .comment_box .form_group textarea:focus{border: 1px solid #aa4dc8;}
+  .send_btn{float: left;background: #ccc;border: 1px solid #ccc;padding: 3px 15px;border-radius: 50px;color: #fff;font-size: 14px;cursor: pointer;outline: none;}
+  .delete_btn{float: right;background: none;border: none;padding: 0;cursor: pointer;outline: none;}
+  .feedbackContainerCommon{
+    clear: both;
+    text-align: center;
+    z-index: 9999999;
+  }
+  .bottom{display: inline-block;width: 100%;}
+  .feedback-field.has-error {
+    border-color: #b71111 !important;
+    box-shadow: 0px 1px 9px 2px #b71111;
+}
+.heading{margin-top: 15px;}
+.heading b{display: block;line-height: 1;text-align: left;}
+.discription{text-align: left;}
+.edit_btn{    float: left;
+  background: #ccc;
+  border: 1px solid #ccc;
+  padding: 3px 15px;
+  border-radius: 50px;
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  outline: none;}
+  
+.round_DotCirlce.resolved:after {
+    content: "\f00c";
+    font-family: "FontAwesome";
+    position: relative;
+    left: -2px;
+    top: -7px;
+    color: #fbfcfb;
+}
+.round_DotCirlce.resolved {
+  box-shadow: 0 0 0 5px #a86ec5, 0 0 0 7px #fff, 0 0 4px 6px rgba(0, 0, 0, 0.5490196078431373);
+  background: #a86ec5;
+}
+.round_DotCirlce.submitted {
+  box-shadow: 0 0 0 5px #0fa513, 0 0 0 7px #fff, 0 0 4px 6px rgba(0, 0, 0, 0.5490196078431373);
+  background: #70c624;
+}

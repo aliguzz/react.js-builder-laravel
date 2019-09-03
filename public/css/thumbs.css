@@ -1,0 +1,41 @@
+﻿
+#thumbs {
+    text-align: center;
+    padding: 40px 0;
+}
+
+#thumbs > span {
+    width: 230px;
+    display: inline-block;
+    /* margin: 0 20px; */
+    position: relative;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: border 0.8s;
+    font-size: 0;
+    height: 160px;
+}
+
+#thumbs > span:hover {
+    border:2px solid #ddd;
+}
+
+#thumbs img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#thumbs .playvideo {
+    position: absolute;
+    background: transparent url(playvideo.png) no-repeat center center;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    opacity: 0.8;
+    filter: alpha(opacity=40);
+    text-align: center;
+    color: white;
+    font-size: 0.7em;
+}

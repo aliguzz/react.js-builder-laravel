@@ -1,0 +1,88 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "LightBoxContact",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 600,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "LightBoxContactSectionOne",
+                "elementName": "LightBoxContact.SectionOne",
+                "style": {
+                    "top": 7,
+                    "left": 0,
+                    "width": 280,
+                    "height": 205,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='lightBox_contact_sec componentElement' height='460' width='880' style='position: absolute;left: 0;width: 880px;height: 460px;'> <div class='lightBox_contact_sec_one'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='50' style='position: absolute;left: 800px;top: 0;width: 50px;height: 40px;'> <span class='bar'></span> <span class='bar'></span> </div> <img class='componentElement' height='68' width='60' style='position: absolute;left: 410px;top: 20px;width: 60px;height: 68px;' width='60' src='[BASEURL]/element_images/lightbox-images/05.svg' alt=''> <h1 class='componentElement' height='60' width='100' style='position: absolute;left: 0;top: 113px;text-align: center;height: 60px;width: 100%;'>Any Issues? Contact Us</h1> <div class='social_address_wrap'> <div class='address componentElement' height='22' width='430' style='position: absolute;left: 235px;top: 200px;width: 430px;height: 22px;'> <span>Tel: 123-456-9898</span> | <span>Fax: 123-456-9898</span> | <span>Info@mysite.com</span> </div> </div> <div class='social componentElement' height='23' width='56' style='position: absolute;left: 412px;top: 240px;width: 56px;height: 23px;'> <a href='#'><i class='fa fa-facebook'></i></a> <a href='#'><i class='fa fa-twitter'></i></a> <a href='#'><i class='fa fa-instagram'></i></a> </div> <form class='componentElement' height='160' width='450' style='position: absolute;top: 270px;left: 215px;width: 450px;height: 160px;'> <ul> <li> <input type='text' placeholder='Name'> <input type='email' placeholder='Email'> </li> <li> <textarea placeholder='Message'></textarea> </li> </ul> <button type='submit'>SEND</button> </form> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxContactSectionTwo",
+                "elementName": "LightBoxContact.SectionTwo",
+                "style": {
+                    "top": 215,
+                    "left": 0,
+                    "width": 280,
+                    "height": 220,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='lightBox_contact_sec' style='position: fixed;right: 0;top: 0;bottom: 0; width: 400px;height: 100%;'> <div class='lightBox_contact_sec_two'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='39' style='position: absolute;left: 345px;top: 0;height: 40px;width: 39px;'> <span class='bar'></span> <span class='bar'></span> </div> <h1 height='85' width='300' style='position: absolute;left: 50px;top: 250px;width: 300px;height: 85px;'>Get In Touch With Us</h1> <p height='50' width='250' style='position: absolute;left: 50px;top: 340px;width: 250px;height: 50px;'></p> <form height='270' width='300' style='position: absolute;left: 50px;top: 450px;width: 300px;height: 270px;'> <input type='text' placeholder='Name'> <input type='email' placeholder='Email Address'> <textarea placeholder='Message' rows='6'></textarea> <button type='submit'>Submit</button> </form> <div height='30' width='105' class='botttom_social' style='position: absolute;left: 148px;top: 890px;width: 105px;height: 30px;'> <a href='#'><i class='fa fa-twitter'></i></a> <a href='#'><i class='fa fa-instagram'></i></a> <a href='#'><i class='fa fa-facebook'></i></a> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxContactSectionThree",
+                "elementName": "LightBoxContact.SectionThree",
+                "style": {
+                    "top": 440,
+                    "left": 0,
+                    "width": 280,
+                    "height": 145,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='lightBox_contact_sec sec-three componentElement' height='360' width='700' style='position: absolute;left: 0;top: 0; width: 700px;height: 360px;background: #fff;'> <div class='lightBox_contact_sec_three' bakgroundsrc='[BASEURL]/element_images/lightbox-images/06.jpg' style='background: url('images/lightbox-contact-img/06.jpg') no-repeat center;background-size: cover;'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='40' style='position: absolute;left:645px;top: 0;height: 40px;width: 40px;'> <span class='bar'></span> <span class='bar'></span> </div> <h1 class='componentElement' height='30' width='100' style='position: absolute;left: 0;top: 80px;width: 100%;height: 30px;'>Get In Touch With Us</h1> <div class='botttom_social componentElement' height='30' width='105' style='position: absolute;left: 298px;top: 120px;width: 105px;height: 30px;'> <a href='#'><i class='fa fa-twitter'></i></a> <a href='#'><i class='fa fa-instagram'></i></a> <a href='#'><i class='fa fa-facebook'></i></a> </div> <form class='componentElement' height='185' width='530' style='position: absolute;left: 85px;top: 150px;width: 530px;height: 185px;'> <ul> <li> <input type='text' placeholder='Name'> <input type='email' placeholder='Email'> </li> <li> <textarea placeholder='Message'></textarea> </li> </ul> <div class='text-center'> <button type='submit'>Send</button> </div> </form> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

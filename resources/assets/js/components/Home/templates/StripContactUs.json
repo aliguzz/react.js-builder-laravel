@@ -1,0 +1,144 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "StripContactUs",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 1045,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ContactUsSectionOne",
+                "elementName": "ContactUs.SectionOne",
+                "style": {
+                    "top": 0,
+                    "left": 0,
+                    "width": 280,
+                    "height": 160,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<div class='componentElement contact_form_one' style='position: absolute;left: 40px;width: 980px;min-height: 550px;text-align: center;'> <h1 class='componentElement' style='position: absolute;left: 0;top: 0;width: 100%;'>Get In Touch</h1> <p class='componentElement' style='position: absolute;left: 345px;top: 80px;width: 290px;'>Lorem ipsum dolor sit amet</p> <div class='contact_box_wrap' style='position: absolute;top:200px;'> <div class='contact_bx bx_one'> <img src='[BASEURL]/element_images/GetInTouch_images/GetInTouch01.jpg' /> <div class='overlay' style='position: absolute;top: 0;bottom: 0;left: 0;right: 0;background-color: rgba(39, 39, 39, 0.8);;'> <i class='fa fa-send' style='position: absolute;left: 6px;top: 140px;margin-left: calc((100% - 67px) * 0.5);width: 55px;'></i> <p style='position: absolute;left: 0;text-align: center;top: 210px;width: 100%;'>info@example.com</p> </div> </div> <div class='contact_bx bx_two'> <img src='[BASEURL]/element_images/GetInTouch_images/GetInTouch01.jpg' /> <div class='overlay' style='position: absolute;top: 0;bottom: 0;left: 0;right: 0;background-color:rgba(2, 166, 242, 0.75);'> <i class='fa fa-mobile' style='position: absolute;left: 22px;top: 140px;margin-left: calc((100% - 74px) * 0.5);width: 30px;'></i> <p style='position: absolute;left: 0;text-align: center;top: 210px;width: 100%;'>124-55-768</p> </div> </div> <div class='contact_bx bx_three'> <img src='[BASEURL]/element_images/GetInTouch_images/GetInTouch01.jpg' /> <div class='overlay' style='position: absolute;top: 0;bottom: 0;left: 0;right: 0;background-color: rgba(4, 81, 132, 0.8);'> <i class='fa fa-facebook' style='position: absolute;left: 22px;top: 140px;margin-left: calc((100% - 74px) * 0.5);width: 30px;'></i> <p style='position: absolute;left: 0;text-align: center;top: 210px;width: 100%;'>Find out on Facebook</p> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactUsSectionTwo",
+                "elementName": "ContactUs.SectionTwo",
+                "style": {
+                    "top": 160,
+                    "left": 0,
+                    "width": 280,
+                    "height": 160,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='componentElement fullSizeElement contact_sec' fullSizeElement='1' style='position: absolute;top:0;left: 0;height: 600px;width: 100%;z-index:999;'> <div class='contact_form_two'> <div class='left_side_text'> <h1 class='componentElement' style='position: absolute;left: 50%;margin-left: -127px;top: 70px;font-size: 45px;color: #bc9b5d;'>Get in Touch</h1> <p class='componentElement' style='width: 500px;text-align: center;position: absolute;left: 50%;top: 150px;margin-left: -235px;'>500 Terry Francois Street, San Francisco, CA 94158 info@mysite.com / Tel. 123-456-7890</p> <form class='componentElement' style='position: absolute;left: 50%;top: 230px;width: 400px;margin-left: -200px;'> <div class='form-group col-50'> <input type='text' placeholder='Name'/> </div> <div class='form-group col-50'> <input type='text' placeholder='Email'/> </div> <div class='form-group col-100'> <input type='text' placeholder='Subject'/> </div> <div class='form-group col-100'> <textarea rows='5' placeholder='Message'></textarea> </div> <div class='form-group col-100 text-center'> <button type='submit' class='send_btn'>Send</button> </div> </form> </div> <div class='right_img'> <img src='[BASEURL]/element_images/GetInTouch_images/GetInTouchTwo.jpg' /> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactUsSectionThree",
+                "elementName": "ContactUs.SectionThree",
+                "style": {
+                    "top": 325,
+                    "left": 0,
+                    "width": 280,
+                    "height": 120,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement fullSizeElement' fullSizeElement='1' style='position: absolute;left: 0;top:0;height: 500px;width: 100%;'> <div class='contact_form_three'> <div class='boxes_wrap'> <div class='box box_one'> <ul class='componentElement' style='position: absolute;left: 0;top: 186px;width: 241px;margin-left: calc((100% - 241px) * 0.5);'> <li> <h6><i class='fa fa-clock-o'></i> OPENING HOURS</h6> </li> <li> <span>MONDAY - FRIDAY 11:00 - 18:30 </span> </li> <li> <span>SATURDAY 11:00 - 17:00 </span> </li> <li> <span>SUNDAY 12:30 - 16:30 </span> </li> </ul> </div> <div class='box box_three'> <img src='[BASEURL]/element_images/aboutStrip_images/flower.jpg' /> </div> <div class='box box_two'> <ul class='componentElement' style='position: absolute;left: 0;top: 186px;width: 241px;margin-left: calc((100% - 241px) * 0.5);'> <li> <h6><i class='fa fa-map-marker'></i> ADDRESS</h6> </li> <li> <span>500 TERRY FRANCOIS STREET</span> </li> <li> <span>SAN FRANCISCO, CA 94158 </span> </li> <li> <span>INFO@MYSITE.COM | TEL.123-456-7890</span> </li> </ul> </div> </div> </div> </section> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactUsSectionFour",
+                "elementName": "ContactUs.SectionFour",
+                "style": {
+                    "top": 450,
+                    "left": 0,
+                    "width": 280,
+                    "height": 140,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement fullSizeElement' fullSizeElement='1' style='position: absolute;left: 0;top:0;height: 600px;width: 100%;'> <div class='contact_form_four' style='position: absolute;left: 0;right: 0;height: 600px;'> <div class='right_img'> <img src='[BASEURL]/element_images/GetInTouch_images/contact_back.jpg' /> <div class='img_text'> <h2 class='componentElement' style='position: absolute;top: 0;left: 50%;margin-left: -145px;height: 54px;width: 291px;'>CONTACT US</h2> <p class='componentElement' style='position: absolute;top: 90px;left: 50%;margin-left: -185px;height: 22px;width: 370px;'>500 Terry Francois Street, San Francisco, CA 94158</p> </div> </div> <div class='left_side_text'> <form class='componentElement' style='position: absolute;left: 0;right:0;top: 120px;max-width: 500px;margin: 0 auto;'> <div class='form-group col-50'> <input type='text' placeholder='Name'/> </div> <div class='form-group col-50'> <input type='text' placeholder='Email'/> </div> <div class='form-group col-100'> <input type='text' placeholder='Subject'/> </div> <div class='form-group col-100'> <textarea rows='6' placeholder='Message'></textarea> </div> <div class='form-group col-100'> <button type='submit' class='send_btn'>Send</button> </div> </form> <div class='form_social_icon componentElement' style='position: absolute;left: 50%;margin-left: -87px;top: 480px;'> <a href='#'><i class='fa fa-linkedin'></i></a> <a href='#'><i class='fa fa-facebook'></i></a> <a href='#'><i class='fa fa-twitter'></i></a> <a href='#'><i class='fa fa-google-plus'></i></a> <a href='#'><i class='fa fa-instagram'></i></a> </div> </div> </div> </section> ",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactUsSectionFive",
+                "elementName": "ContactUs.SectionFive",
+                "style": {
+                    "top": 595,
+                    "left": 0,
+                    "width": 280,
+                    "height": 325,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='componentElement contact_sec fullSizeElement' fullSizeElement='1' style='position: absolute;left: 0;top:0;height: 750px;width: 100%;'> <div class='contact_form_five' style='position: absolute;left: 0;right: 0;height: 750px;'> <div class='contact_form_five_inner'> <h2 class='componentElement' style='position: absolute;left: 119px;top: 70px;width: 260px;margin: 33px 0;margin-left: calc((100% - 490px) * 0.5);'>Contact Me</h2> <p class='componentElement' style='position: absolute;left: 20px;top: 175px;margin-left: calc((100% - 490px) * 0.5);'>500 Terry Francois Street, San Francisco, CA 94158 info@mysite.com | Tel: 123-456-7890</p> <div class='form_social_icon componentElement' style='position: absolute;left: 172px;top: 260px;width: 145px;margin-left: calc((100% - 490px) * 0.5);'> <a href='#'><i class='fa fa-facebook'></i></a> <a href='#'><i class='fa fa-twitter'></i></a> <a href='#'><i class='fa fa-google-plus'></i></a> <a href='#'><i class='fa fa-instagram'></i></a> </div> <form class='componentElement' style='position: absolute;left: 0;top: 320px;width: 500px;margin-left: calc((100% - 490px) * 0.5);'> <div class='form-group'> <input type='text' placeholder='Name'/> </div> <div class='form-group'> <input type='text' placeholder='Email'/> </div> <div class='form-group'> <input type='text' placeholder='Subject'/> </div> <div class='form-group'> <textarea rows='7' placeholder='Message'></textarea> </div> <div class='form-group text-right'> <button type='submit' class='send_btn'>Send</button> </div> </form> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "ContactUsSectionSix",
+                "elementName": "ContactUs.SectionSix",
+                "style": {
+                    "top": 925,
+                    "left": 0,
+                    "width": 280,
+                    "height": 115,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec contact_form_six_wrap componentElement fullSizeElement' fullSizeElement='1' height='500' width='100' style='position: absolute;left: 0;height: 500px;width: 100%;'> <div class='contact_form_three contact_form_six' height='500' width='100' style='position: absolute;left: 0;height: 500px;width: 100%;'> <div class='boxes_wrap'> <div class='box box_one'> <h2 class='componentElement' height='40' width='365' style='position: absolute;left: 0;top: 60px;height: 40px;width: 365px;margin-left: calc((100% - 365px) * 0.5);'>Contact <span>us</span></h2> <ul class='componentElement' height='96' width='443' style='position: absolute;left: 0;top: 210px;margin-left: calc((100% - 443px) * 0.5);width: 443px;height: 96px;'> <li> <span>Tel. 123-456-7890</span> </li> <li> <span>Fax. 123-456-7890</span> </li> <li> <span>500 Terry Francois Street, San Francisco, CA 94158</span> </li> </ul> </div> <div class='box box_three'> <h2 class='componentElement' height='40' width='365' style='position: absolute;left: 0;top: 60px;height: 40px;width: 365px;margin-left: calc((100% - 365px) * 0.5);'>Tell <span>us</span></h2> <form class='componentElement' height='265' width='630' style='position: absolute;left: 0;top: 175px;width: 630px;height:265px;margin-left: calc((100% - 630px) * 0.5);'> <div class='left_side'> <input type='text' placeholder='Name'> <input type='text' placeholder='Email'> <input type='text' placeholder='Subject'> <textarea rows='6' placeholder='Message'></textarea> </div> <button type='submit'>Send</button> </form> </div> </div> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

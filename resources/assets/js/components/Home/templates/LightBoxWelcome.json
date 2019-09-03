@@ -1,0 +1,107 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "LightBoxWelcome",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 860,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "LightBoxWelcomeSectionOne",
+                "elementName": "LightBoxWelcome.SectionOne",
+                "style": {
+                    "top": 7,
+                    "left": 0,
+                    "width": 280,
+                    "height": 220,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section fullSizeElement='1' class='fullSizeElement lightBox_sec componentElement' width='100' height='100' style='background: rgba(45, 191, 100, 54);position: fixed;left: 0; width: 100%; top: 0;bottom: 0;'> <div class='lightBox_sec_one' style='width: 980px; margin:0 auto;'> <div class='Close_Btn' style='position: absolute; left:1020px; margin: 50px;'> <span class='bar'></span> <span class='bar'></span> </div> <div class='box_text'> <h1 class='componentElement' style='position: absolute; left: 480px; top: 180px; min-height: 107px;'><span>Welcome</span> to Inifinity key!</h1> <p class='componentElement' style='position: absolute; left: 480px; top: 285px;'>Add a punch line to give a strong first impression to your visitors</p> <div class='lightBox_button componentElement'style='position: absolute; left: 480px; top: 363px;'><button type='button'>click here</button></div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxWelcomeSectionTwo",
+                "elementName": "LightBoxWelcome.SectionTwo",
+                "style": {
+                    "top": 232,
+                    "left": 0,
+                    "width": 280,
+                    "height": 255,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section fullSizeElement='1' class='fullSizeElement lightBox_sec componentElement' bakgroundsrc='[BASEURL]/element_images/lightbox-welcome-img/07.jpg' height='100' width='100' style='position: absolute;left: 0;width:100%; top: 0; height: 100%;background: url('[BASEURL]/element_images/lightbox-welcome-img/07.jpg') no-repeat center;background-size: cover;'> <div class='lightBox_sec_two componentElement' style='width: 980px; margin:0px auto; height: 100%;'> <div class='box_text'> <h1 class='componentElement' style='position: absolute; top: 150px;'><span>Welcome</span> to Inifinity key!</h1> <p class='componentElement' style='position: absolute; top: 244px;'>Add a punch line to give a strong first impression to your visitors</p> <button type='button' class='componentElement' style='position: absolute; top: 342px;'>Go to Site</button> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxWelcomeSectionThree",
+                "elementName": "LightBoxWelcome.SectionThree",
+                "style": {
+                    "top": 490,
+                    "left": 0,
+                    "width": 280,
+                    "height": 200,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section fullSizeElement='1' class='fullSizeElement lightBox_sec componentElement'  bakgroundsrc='[BASEURL]/element_images/lightbox-welcome-img/08.jpg' style='position: absolute;left: 0;width:100%; top: 0; height: 100%;background: url('images/lightbox-welcome-img/08.jpg') no-repeat center;background-size: cover;'> <div class='lightBox_sec_three'> <div class='Close_Btn componentElement' style='position: absolute;left:1020px;margin: 50px;'> <span class='bar'></span> <span class='bar'></span> </div> <div class='box_text componentElement' style='position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);width: 980px;height: 383px;border: 6px solid #fff;'> <h1 class='componentElement' style='position: absolute;left: 50%;transform: translateX(-50%);top: 39px;'>DreamyTitle</h1> <p class='componentElement' style='position: absolute;left: 250px; width: 100%; top: 140px;'>Add a punch line to give a strong first impression to your visitors</p> <button type='button' class='componentElement' style='position: absolute;left: 50%;transform: translateX(-50%);top: 260px;'>Dive In</button> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxWelcomeSectionFour",
+                "elementName": "LightBoxWelcome.SectionFour",
+                "style": {
+                    "top": 690,
+                    "left": 0,
+                    "width": 280,
+                    "height": 165,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section fullSizeElement='1' class='fullSizeElement lightBox_sec componentElement' bakgroundsrc='[BASEURL]/element_images/lightbox-welcome-img/09.jpg' width='100' height='100' style='position: absolute;left: 0;width:100%;top: 0; height: 100%; background: url('images/lightbox-welcome-img/09.jpg') no-repeat center;background-size: cover;'> <div class='lightBox_sec_four'> <div class='box_text' style='position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);width: 600px;height: 360px;'> <div class='Close_Btn' style='position: absolute; left: 547px; top: -45px;'> <span class='bar'></span> <span class='bar'></span> </div> <iframe src='https://player.vimeo.com/video/277938321' width='100%' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

@@ -1,0 +1,112 @@
+
+.fs_points{margin: 0;padding: 0;}
+#msform {
+    text-align: center;
+/*    margin: 35px 0 50px;*/
+    padding-top: 144px;
+    margin: 35px 0 35px 0;
+}
+#msform fieldset {
+   background: rgba(255,255,255,0.7);
+    border: 0 none;
+    border-radius: 0px;
+    box-shadow: none;
+    padding: 20px 30px;
+    box-sizing: border-box;
+    width: 100%;
+    position: relative;
+    color: #000;
+    border-top: 10px solid #7ab428 !important;
+    border-radius: 10px;
+    border: 1px solid #7ab428;
+}
+h4.fs-subtitle.user-name {
+    font-weight: 600 !important;
+}
+
+/*Hide all except first fieldset*/
+#msform fieldset:not(:first-of-type) {
+    display: none;
+}
+
+/*inputs*/
+#msform input, #msform textarea, #msform select {
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif !important;
+    color: #2C3E50;
+    font-size: 13px;
+}
+
+#msform input:focus, #msform textarea:focus {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #d60e16;
+    outline-width: 0;
+    transition: All 0.5s ease-in;
+    -webkit-transition: All 0.5s ease-in;
+    -moz-transition: All 0.5s ease-in;
+    -o-transition: All 0.5s ease-in;
+}
+
+/*buttons*/
+#msform .action-button {
+    width: 160px;
+    background: #f20627;
+    font-weight: normal;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 8px 15px;
+    margin: 10px 5px;
+    transition: all 0.5s;
+    float: right;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+#msform .action-button:hover, #msform .action-button:focus {
+    box-shadow: none;
+    background: #fff;
+    color: #d60e16;
+    border:1px solid #d60e16;
+}
+
+#msform .action-button-previous {
+    width: 100px;
+    background: #C5C5F1;
+    font-weight: bold;
+    color: white;
+    border: 0 none;
+    border-radius: 25px;
+    cursor: pointer;
+    padding: 10px 5px;
+    margin: 10px 5px;
+}
+
+#msform .action-button-previous:hover, #msform .action-button-previous:focus {
+    box-shadow: 0 0 0 2px white, 0 0 0 3px #C5C5F1;
+}
+
+@media screen and (max-width:1200px) {
+  
+#msform h4 {
+    font-size: 17px;
+    text-align: left;
+    line-height: 25px;
+    font-weight: 400;
+}
+#msform h4, #msform h3{color:#000;}
+
+@media screen and (max-width:767px){
+#msform {
+    padding-top:50px;
+}
+
+}

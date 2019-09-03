@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Multiple Instance Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">  
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,600,800' rel='stylesheet' type='text/css'>
+    <link href="http://34.217.146.254/public/cb/assets/default/content.css" rel="stylesheet" type="text/css" />
+
+    <link href="scripts/contentbuilder.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<br />
+<br />
+<br />
+
+
+<div class="container" style="max-width:100%">
+    <div class="clearfix">
+        <div id="contentarea" class="column half">
+            <!-- Left Area -->
+            <div class="clearfix">
+                <div class="column full">
+                    <h1>Heading 1 Text Goes Here</h1>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+            </div>
+            <div class="clearfix">
+                <div class="column half">
+                    <h3>Lorem Ipsum is simply dummy text</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+                <div class="column half center">
+                    <img src="http://34.217.146.254/public/cb/assets/default/04.jpg" class="circle" alt="">
+                </div>
+            </div>
+        </div>
+        <div id="contentarea2" class="column half">
+            <!-- Right Area -->
+            <div class="clearfix">
+                <div class="column full">
+                    <h1>Heading 1 Text Goes Here</h1>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+            </div>
+            <div class="clearfix">
+                <div class="column half flow-opposite">
+                    <h3>Lorem Ipsum is simply dummy text</h3>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                </div>
+                <div class="column half center">
+                    <img src="http://34.217.146.254/public/cb/assets/default/03.jpg" class="circle" alt="">
+                </div>
+            </div>
+       </div>
+    </div>
+</div>
+
+<script src="scripts/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="scripts/jquery-ui.min.js" type="text/javascript"></script>
+<script src="scripts/contentbuilder.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+
+        $("#contentarea,#contentarea2").contentbuilder({
+            zoom: 0.85, 
+            snippetFile: 'http://34.217.146.254/public/cb/assets/default/snippets.html'
+        });
+
+    });
+
+    function view() {
+        var sHTML = $('#contentarea').data('contentbuilder').html();
+        alert(sHTML);
+    }
+</script>
+
+</body>
+</html>

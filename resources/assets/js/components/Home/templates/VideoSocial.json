@@ -1,0 +1,88 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "SocialVideos",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 135,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "VideoSocial1",
+                "elementName": "Video.Social1",
+                "style": {
+                    "top": 17,
+                    "left": 6,
+                    "width": 81,
+                    "height": 81,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='SocialVideo-1 componentElement' youtube='1' videoelem='1' width='560' height='315' style='position: absolute;'><iframe width='560' height='315' src='https://www.youtube.com/embed/8LVN7WVgx0c' frameborder='0' allow='autoplay; encrypted-media' allowfullscreen></iframe></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "VideoSocial2",
+                "elementName": "Video.Social2",
+                "style": {
+                    "top": 17,
+                    "left": 99,
+                    "width": 81,
+                    "height": 81,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='SocialVideo-2 componentElement' vimoe='1' videoelem='1' width='550' height='250' style='position: absolute;'><iframe src='https://player.vimeo.com/video/125510925' width='500' height='281' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "VideoSocial3",
+                "elementName": "Video.Social3",
+                "style": {
+                    "top": 17,
+                    "left": 192,
+                    "width": 81,
+                    "height": 81,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='SocialVideo-3 componentElement' dailymotion='1' videoelem='1' width='560' height='315' style='position: absolute;'><iframe frameborder='0' width='480' height='270' src='//www.dailymotion.com/embed/video/x6phbyr' allowfullscreen allow='autoplay'></iframe></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

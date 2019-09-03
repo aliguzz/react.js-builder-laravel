@@ -1,0 +1,525 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Shapes",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 300,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ShapesVertical1",
+                "elementName": "Shapes.Vertical1",
+                "style": {
+                    "top": 5,
+                    "left": 1,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line31 componentElement' width='5' height='284' style='position: absolute;top:275%;left:30%;'><div class='bottom-line31-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical2",
+                "elementName": "Shapes.Vertical2",
+                "style": {
+                    "top": 5,
+                    "left": 21,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line32 componentElement' width='5' height='284' style='position: absolute;top:275%;left:32%;'><div class='bottom-line32-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical3",
+                "elementName": "Shapes.Vertical3",
+                "style": {
+                    "top": 5,
+                    "left": 43,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line33 componentElement' width='5' height='284' style='position: absolute;top:275%;left:34%;'><div class='bottom-line33-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical4",
+                "elementName": "Shapes.Vertical4",
+                "style": {
+                    "top": 5,
+                    "left": 63,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line34 componentElement' width='5' height='284' style='position: absolute;top:275%;left:36%;'><div class='bottom-line34-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical5",
+                "elementName": "Shapes.Vertical5",
+                "style": {
+                    "top": 5,
+                    "left": 84,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line35 componentElement' width='5' height='284' style='position: absolute;top:275%;left:38%;'><div class='bottom-line35-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical6",
+                "elementName": "Shapes.Vertical6",
+                "style": {
+                    "top": 5,
+                    "left": 104,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line36 componentElement' width='5' height='284' style='position: absolute;top:275%;left:40%;'><div class='bottom-line36-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical7",
+                "elementName": "Shapes.Vertical7",
+                "style": {
+                    "top": 5,
+                    "left": 124,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line37 componentElement' width='5' height='284' style='position: absolute;top:275%;left:42%;'><div class='bottom-line37-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical8",
+                "elementName": "Shapes.Vertical8",
+                "style": {
+                    "top": 5,
+                    "left": 146,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line38 componentElement' width='5' height='284' style='position: absolute;top:275%;left:44%;'><div class='bottom-line38-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical9",
+                "elementName": "Shapes.Vertical9",
+                "style": {
+                    "top": 5,
+                    "left": 167,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line39 componentElement' width='5' height='284' style='position: absolute;top:275%;left:46%;'><div class='bottom-line39-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical10",
+                "elementName": "Shapes.Vertical10",
+                "style": {
+                    "top": 5,
+                    "left": 188,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line40 componentElement' width='5' height='284' style='position: absolute;top:275%;left:48%;'><div class='bottom-line40-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical11",
+                "elementName": "Shapes.Vertical11",
+                "style": {
+                    "top": 5,
+                    "left": 213,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line41 componentElement' width='5' height='284' style='position: absolute;top:275%;left:50%;'><div class='bottom-line41-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical12",
+                "elementName": "Shapes.Vertical12",
+                "style": {
+                    "top": 5,
+                    "left": 235,
+                    "width": 18,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line42 componentElement' width='5' height='284' style='position: absolute;top:275%;left:52%;'><div class='bottom-line42-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical13",
+                "elementName": "Shapes.Vertical13",
+                "style": {
+                    "top": 5,
+                    "left": 258,
+                    "width": 18,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line43 componentElement' width='5' height='284' style='position: absolute;top:275%;left:54%;'><div class='bottom-line43-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical14",
+                "elementName": "Shapes.Vertical14",
+                "style": {
+                    "top": 155,
+                    "left": 1,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line44 componentElement' width='5' height='284' style='position: absolute;top:330%;left:30%;'><div class='bottom-line44-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical15",
+                "elementName": "Shapes.Vertical15",
+                "style": {
+                    "top": 155,
+                    "left": 21,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line45 componentElement' width='5' height='284' style='position: absolute;top:330%;left:32%;'><div class='bottom-line45-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical16",
+                "elementName": "Shapes.Vertical16",
+                "style": {
+                    "top": 155,
+                    "left": 42,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line46 componentElement' width='5' height='284' style='position: absolute;top:330%;left:34%;'><div class='bottom-line46-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical17",
+                "elementName": "Shapes.Vertical17",
+                "style": {
+                    "top": 155,
+                    "left": 63,
+                    "width": 15,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line47 componentElement' width='5' height='284' style='position: absolute;top:330%;left:36%;'><div class='bottom-line47-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical18",
+                "elementName": "Shapes.Vertical18",
+                "style": {
+                    "top": 155,
+                    "left": 83,
+                    "width": 17,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line48 componentElement' width='5' height='284' style='position: absolute;top:330%;left:38%;'><div class='bottom-line48-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical19",
+                "elementName": "Shapes.Vertical19",
+                "style": {
+                    "top": 155,
+                    "left": 102,
+                    "width": 17,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line49 componentElement' width='5' height='284' style='position: absolute;top:330%;left:40%;'><div class='bottom-line49-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical20",
+                "elementName": "Shapes.Vertical20",
+                "style": {
+                    "top": 155,
+                    "left": 123,
+                    "width": 17,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line50 componentElement' width='5' height='284' style='position: absolute;top:330%;left:42%;'><div class='bottom-line50-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical21",
+                "elementName": "Shapes.Vertical21",
+                "style": {
+                    "top": 155,
+                    "left": 145,
+                    "width": 17,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line51 componentElement' width='5' height='284' style='position: absolute;top:330%;left:44%;'><div class='bottom-line51-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical22",
+                "elementName": "Shapes.Vertical22",
+                "style": {
+                    "top": 155,
+                    "left": 165,
+                    "width": 17,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line52 componentElement' width='5' height='284' style='position: absolute;top:330%;left:46%;'><div class='bottom-line52-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical23",
+                "elementName": "Shapes.Vertical23",
+                "style": {
+                    "top": 155,
+                    "left": 187,
+                    "width": 17,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line53 componentElement' width='5' height='284' style='position: absolute;top:330%;left:48%;'><div class='bottom-line53-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical24",
+                "elementName": "Shapes.Vertical24",
+                "style": {
+                    "top": 155,
+                    "left": 212,
+                    "width": 17,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line54 componentElement' width='5' height='284' style='position: absolute;top:330%;left:50%;'><div class='bottom-line54-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical25",
+                "elementName": "Shapes.Vertical25",
+                "style": {
+                    "top": 155,
+                    "left": 235,
+                    "width": 19,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line55 componentElement' width='5' height='284' style='position: absolute;top:330%;left:52%;'><div class='bottom-line55-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesVertical26",
+                "elementName": "Shapes.Vertical26",
+                "style": {
+                    "top": 155,
+                    "left": 257,
+                    "width": 19,
+                    "height": 137,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='bottom-line56 componentElement' width='5' height='284' style='position: absolute;top:330%;left:54%;'><div class='bottom-line56-1'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

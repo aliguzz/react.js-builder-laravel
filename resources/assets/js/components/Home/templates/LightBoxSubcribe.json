@@ -1,0 +1,107 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "LightBoxSubcribe",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 570,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "LightBoxSubcribeSectionOne",
+                "elementName": "LightBoxSubcribe.SectionOne",
+                "style": {
+                    "top": 7,
+                    "left": 0,
+                    "width": 280,
+                    "height": 175,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='subscribe_sec componentElement' bakgroundsrc='[BASEURL]/element_images/lightbox-images/02.jpg' height='380' width='620' style='position: absolute;left: 180px;top: 200px;width: 620px;height: 380px;background: url('images/02.jpg') no-repeat center;background-size: cover;margin-left: calc((100% - 980px) * 0.5);'> <div class='subscribe_sec_one'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='50' style='position: absolute;left: 518px;top: 0;height: 40px;width: 50px;'> <span class='bar'></span> <span class='bar'></span> </div> <h1 class='componentElement' height='35' width='500' style='position: absolute;left: 42px;top: 90px;width: 500px;height: 35px;'>Get Connected to Our Mailing Scheme </h1> <form class='componentElement' height='40' width='474' style='position: absolute;left: 55px;top: 195px;width: 474px;height: 40px;'> <input type='email' placeholder='Email Address'> <button type='submit'>Subscribe</button> </form> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxSubcribeSectionTwo",
+                "elementName": "LightBoxSubcribe.SectionTwo",
+                "style": {
+                    "top": 180,
+                    "left": 0,
+                    "width": 280,
+                    "height": 87,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section fullSizeElement='1' class='fullSizeElement subscribe_sec sub-sec-two componentElement' height='220' width='100' style='position: absolute;left: 0;right: 0;top: 0; width: 100%;height: 220px;'> <div class='subscribe_sec_two'> <div class='box_text'> <div class='Close_Btn' style='position: absolute;left:930px;top: 0;'> <span class='bar'></span> <span class='bar'></span> </div> <h1 class='componentElement' height='42' width='100' style='position: absolute;left: 0;top: 60px;text-align: center;width: 100%;height: 42px;;'>Subscribe For Latest Updates </h1> <form class='componentElement' height='40' width='448' style='position: absolute;left: 266px;top: 140px;width: 448px;height: 40px;'> <input type='email' placeholder='Email Address'> <button type='submit'>Submit</button> </form> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxSubcribeSectionThree",
+                "elementName": "LightBoxSubcribe.SectionThree",
+                "style": {
+                    "top": 267,
+                    "left": 0,
+                    "width": 280,
+                    "height": 205,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='subscribe_sec componentElement' style='position: fixed;right: 0;top: 0;bottom: 0; width: 555px;height: 100vh;'> <div class='subscribe_sec_three '> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='40' style='position: absolute;top: 0;height: 40px;width: 40px;left: 500px;'> <span class='bar'></span> <span class='bar'></span> </div> <div class='text-Wrap componentElement' height='330' width='400' style='height: 330px;width: 400px;position: absolute;left: 77px;top: 300px;'> <h1 class='componentElement' height='84' width='300' style='position: absolute;left: 50px;top: 30px;text-align: center;width: 300px;height: 84px;font-size: 33px;font-weight: bold;'>Get Connected to Our Mailing Scheme</h1> <p class='componentElement' height='30' width='100' style='position: absolute;left: 0;text-align: center;top: 160px;width: 100%;height: 30px;'>and never miss an update</p> <form class='componentElement' height='40' width='337' style='position: absolute;left: 31px;top: 250px;width: 337px;height: 40px;'> <input type='email' placeholder='Email Address'> <button type='submit'>Subscribe</button> </form> </div> </div> </div> </section> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxSubcribeSectionFour",
+                "elementName": "LightBoxSubcribe.SectionFour",
+                "style": {
+                    "top": 484,
+                    "left": 0,
+                    "width": 280,
+                    "height": 79,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section fullSizeElement='1' class='fullSizeElement subscribe_sec componentElement' style='position:absolute;left: 0;right: 0; width: 100%;height: 252px;'> <div class='subscribe_sec_four'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='40' style=' position: absolute;left: 880px;top: 0;width: 40px;height: 40px;'> <span class='bar'></span> <span class='bar'></span> </div> <h1 class='componentElement' height='50' width='100' style='position: absolute;left: 0;top: 69px;text-align: center;height: 50px;width: 100%;'>Get In Touch With Updates</h1> <form class='componentElement' height='40' width='618' style='position: absolute;left: 181px;top: 160px;width: 618px;height: 40px;'> <input type='email' placeholder='Email Address'> <button type='submit'>Submit</button> </form> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

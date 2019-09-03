@@ -1,0 +1,107 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "StripTeam",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 400,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "TeamSectionOne",
+                "elementName": "Team.SectionOne",
+                "style": {
+                    "top": 0,
+                    "left": 0,
+                    "width": 280,
+                    "height": 115,
+                    "transform": {
+ 
+                    }
+                },
+                "html": "<section class='team_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='680' width='100' bakgroundsrc= '[BASEURL]/element_images/team_images/team01_bg.png' style='position: absolute;left: 0;top: 0;height: 680px;width:100%;background: #fafafa;background-position: center;background-repeat: repeat;'> <div class='team_sec_one' style='position: absolute;left: 0;top: 0;height: 680px;width:980px;margin-left: calc((100% - 980px) * 0.5)'> <h1 class='componentElement' height='54' width='100' style='position: absolute;left: 0;top:70px;width: 100%;height: 54px;'>Meet Our Team</h1> <ul class='componentElement' height='470' width='980' style='position: absolute;left: 0;top: 200px;width: 980px;height: 470px;'> <li> <div class='team_box_wrap'> <div class='img_wrap componentElement' height='215' width='215' style='position: absolute;left: 48px;top: 20px;'> <img src='[BASEURL]/element_images/team_images/01.jpg' alt=''> </div> <h4 height='23' width='93' class='name componentElement' style='position: absolute;top: 240px;left: 110px;width: 93px;height: 23px;'>Amelia joy</h4> <a height='35' width='20' href='#' class='fa fa-facebook componentElement' style='position: absolute;left: 145px;top: 280px;width: 20px;height: 35px;'></a> <p class='componentElement' height='38' width='220' style='position: absolute;left: 45px;top: 340px;width: 220px;height: 38px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> </div> </li> <li> <div class='team_box_wrap'> <div class='img_wrap componentElement' height='215' width='215' style='position: absolute;left: 48px;top: 20px;'> <img src='[BASEURL]/element_images/team_images/02.jpg' alt=''> </div> <h4 height='23' width='93' class='name componentElement' style='position: absolute;top: 240px;left: 110px;width: 93px;height: 23px;'>Eliza Beth1 </h4> <a height='35' width='20' href='#' class='fa fa-facebook componentElement' style='position: absolute;left: 145px;top: 280px;width: 20px;height: 35px;'></a> <p class='componentElement' height='38' width='220' style='position: absolute;left: 45px;top: 340px;width: 220px;height: 38px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> </div> </li> <li> <div class='team_box_wrap'> <div class='img_wrap' height='215' width='215' style='position: absolute;left: 48px;top: 20px;'> <img src= '[BASEURL]/element_images/team_images/03.jpg' alt=''> </div> <h4 height='23' width='93' class='name componentElement' style='position: absolute;top: 240px;left: 110px;width: 93px;height: 23px;'>John Doe</h4> <a height='35' width='20' href='#' class='fa fa-facebook componentElement' style='position: absolute;left: 145px;top: 280px;width: 20px;height: 35px;'></a> <p class='componentElement' height='38' width='220' style='position: absolute;left: 45px;top: 340px;width: 220px;height: 38px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p> </div> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "TeamSectionTwo",
+                "elementName": "Team.SectionTwo",
+                "style": {
+                    "top": 120,
+                    "left": 0,
+                    "width": 280,
+                    "height": 95,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='team_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='515' width='100' style='position: absolute;left: 0;top: 0;height: 515px;width: 100%;'> <div class='team_sec_two'> <ul> <li> <div class='team_box_wrap'> <div class='img_wrap'> <img src='[BASEURL]/element_images/team_images/04.jpg' alt=''> </div> </div> </li> <li> <div class='team_box_wrap'> <h1 height='120' width='315' class='name componentElement' style='position: absolute;top: 60px;left: 157px;width: 315px;height: 120px;'>Our <span>Team</span></h1> <p class='componentElement' height='120' width='220' style='position: absolute;left: 205px;top: 280px;width: 220px;height: 120px;'>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. </p> <a class='componentElement' height='19' width='68' href='#' style='position: absolute;left: 280px;top: 440px;width: 68px;height: 19px;'>Read More</a> </div> </li> <li> <div class='team_box_wrap'> <div class='img_wrap'> <img src='[BASEURL]/element_images/team_images/05.jpg' alt=''> </div> </div> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "TeamSectionThree",
+                "elementName": "Team.SectionThree",
+                "style": {
+                    "top": 213,
+                    "left": 0,
+                    "width": 280,
+                    "height": 98,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section class='team_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='515' width='100' style='position: absolute;left: 0;top: 0;height: 515px;width: 100%;'> <div class='team_sec_three'> <div class='team_box_wrap left_side'> <img src='[BASEURL]/element_images/team_images/07.jpg' alt=''> <div class='' style='position: absolute;left: 0;top: 0;height: 515px;width: 980px;margin-left: calc((100% - 980px) * 0.5)'> <h1 class='componentElement' height='75' width='445' style='position: absolute;left: 267px;z-index: 999;top: 100px;width: 445px;height: 75px;'>The Team</h1> <p class='componentElement' height='90' width='100' style='position: absolute;left: 0;z-index: 999;top: 200px;height: 90px;width: 100%;'>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.</p> <div class='social_icons componentElement' height='35' width='115' style=' position: absolute;left: 432px;top: 350px;z-index: 999;width: 115px;height: 35px;'> <a href='#'><i class='fa fa-facebook'></i></a> <a href='#'><i class='fa fa-linkedin'></i></a> <a href='#'><i class='fa fa-twitter'></i></a> </div> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "TeamSectionFour",
+                "elementName": "Team.SectionFour",
+                "style": {
+                    "top": 310,
+                    "left": 0,
+                    "width": 280,
+                    "height": 85,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='team_sec_wrap componentElement fullSizeElement' fullSizeElement='1' style='position: absolute;left: 0;top: 0;height: 450px;width:100%;'> <div class='team_sec_four'> <ul> <li> <div class='team_box_wrap'> <h1 class='name componentElement' style='position:absolute;top: 70px;left: 160px;width: 155px;'>Jessica Lake</h1> <p class='componentElement' style='position:absolute;left: 127px;top: 140px;width: 220px;'>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. </p> <a class='componentElement' href='#' style='position: absolute;left: 221px;top: 350px;width: 32px;'><i class='fa fa-twitter'></i></a> </div> </li> <li> <div class='team_box_wrap'> <div class='img_wrap'> <img src='[BASEURL]/element_images/team_images/09.jpg' alt=''> </div> </div> </li> <li> <div class='team_box_wrap'> <h1 class='name componentElement' style='position:absolute;top: 70px;left: 160px;width: 155px;'>Rick Landry</h1> <p class='componentElement' style='position:absolute;left: 127px;top: 140px;width: 220px;'>I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. </p> <a class='componentElement' href='#' style='position: absolute;left: 221px;top: 350px;width: 32px;'><i class='fa fa-twitter'></i></a> </div> </li> <li> <div class='team_box_wrap'> <div class='img_wrap'> <img src='[BASEURL]/element_images/team_images/10.jpg' alt=''> </div> </div> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

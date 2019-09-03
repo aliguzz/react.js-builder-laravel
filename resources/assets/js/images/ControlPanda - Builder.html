@@ -1,0 +1,1322 @@
+<!DOCTYPE html>
+<!-- saved from url=(0022)http://localhost:8082/ -->
+<html lang="en" class="gr__localhost"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style id="react-tooltip">.__react_component_tooltip{border-radius:3px;display:inline-block;font-size:13px;left:-999em;opacity:0;padding:8px 21px;position:fixed;pointer-events:none;transition:opacity 0.3s ease-out;top:-999em;visibility:hidden;z-index:999}.__react_component_tooltip:before,.__react_component_tooltip:after{content:"";width:0;height:0;position:absolute}.__react_component_tooltip.show{opacity:0.9;margin-top:0px;margin-left:0px;visibility:visible}.__react_component_tooltip.type-dark{color:#fff;background-color:#222}.__react_component_tooltip.type-dark.place-top:after{border-top-color:#222;border-top-style:solid;border-top-width:6px}.__react_component_tooltip.type-dark.place-bottom:after{border-bottom-color:#222;border-bottom-style:solid;border-bottom-width:6px}.__react_component_tooltip.type-dark.place-left:after{border-left-color:#222;border-left-style:solid;border-left-width:6px}.__react_component_tooltip.type-dark.place-right:after{border-right-color:#222;border-right-style:solid;border-right-width:6px}.__react_component_tooltip.type-dark.border{border:1px solid #fff}.__react_component_tooltip.type-dark.border.place-top:before{border-top:8px solid #fff}.__react_component_tooltip.type-dark.border.place-bottom:before{border-bottom:8px solid #fff}.__react_component_tooltip.type-dark.border.place-left:before{border-left:8px solid #fff}.__react_component_tooltip.type-dark.border.place-right:before{border-right:8px solid #fff}.__react_component_tooltip.type-success{color:#fff;background-color:#8DC572}.__react_component_tooltip.type-success.place-top:after{border-top-color:#8DC572;border-top-style:solid;border-top-width:6px}.__react_component_tooltip.type-success.place-bottom:after{border-bottom-color:#8DC572;border-bottom-style:solid;border-bottom-width:6px}.__react_component_tooltip.type-success.place-left:after{border-left-color:#8DC572;border-left-style:solid;border-left-width:6px}.__react_component_tooltip.type-success.place-right:after{border-right-color:#8DC572;border-right-style:solid;border-right-width:6px}.__react_component_tooltip.type-success.border{border:1px solid #fff}.__react_component_tooltip.type-success.border.place-top:before{border-top:8px solid #fff}.__react_component_tooltip.type-success.border.place-bottom:before{border-bottom:8px solid #fff}.__react_component_tooltip.type-success.border.place-left:before{border-left:8px solid #fff}.__react_component_tooltip.type-success.border.place-right:before{border-right:8px solid #fff}.__react_component_tooltip.type-warning{color:#fff;background-color:#F0AD4E}.__react_component_tooltip.type-warning.place-top:after{border-top-color:#F0AD4E;border-top-style:solid;border-top-width:6px}.__react_component_tooltip.type-warning.place-bottom:after{border-bottom-color:#F0AD4E;border-bottom-style:solid;border-bottom-width:6px}.__react_component_tooltip.type-warning.place-left:after{border-left-color:#F0AD4E;border-left-style:solid;border-left-width:6px}.__react_component_tooltip.type-warning.place-right:after{border-right-color:#F0AD4E;border-right-style:solid;border-right-width:6px}.__react_component_tooltip.type-warning.border{border:1px solid #fff}.__react_component_tooltip.type-warning.border.place-top:before{border-top:8px solid #fff}.__react_component_tooltip.type-warning.border.place-bottom:before{border-bottom:8px solid #fff}.__react_component_tooltip.type-warning.border.place-left:before{border-left:8px solid #fff}.__react_component_tooltip.type-warning.border.place-right:before{border-right:8px solid #fff}.__react_component_tooltip.type-error{color:#fff;background-color:#BE6464}.__react_component_tooltip.type-error.place-top:after{border-top-color:#BE6464;border-top-style:solid;border-top-width:6px}.__react_component_tooltip.type-error.place-bottom:after{border-bottom-color:#BE6464;border-bottom-style:solid;border-bottom-width:6px}.__react_component_tooltip.type-error.place-left:after{border-left-color:#BE6464;border-left-style:solid;border-left-width:6px}.__react_component_tooltip.type-error.place-right:after{border-right-color:#BE6464;border-right-style:solid;border-right-width:6px}.__react_component_tooltip.type-error.border{border:1px solid #fff}.__react_component_tooltip.type-error.border.place-top:before{border-top:8px solid #fff}.__react_component_tooltip.type-error.border.place-bottom:before{border-bottom:8px solid #fff}.__react_component_tooltip.type-error.border.place-left:before{border-left:8px solid #fff}.__react_component_tooltip.type-error.border.place-right:before{border-right:8px solid #fff}.__react_component_tooltip.type-info{color:#fff;background-color:#337AB7}.__react_component_tooltip.type-info.place-top:after{border-top-color:#337AB7;border-top-style:solid;border-top-width:6px}.__react_component_tooltip.type-info.place-bottom:after{border-bottom-color:#337AB7;border-bottom-style:solid;border-bottom-width:6px}.__react_component_tooltip.type-info.place-left:after{border-left-color:#337AB7;border-left-style:solid;border-left-width:6px}.__react_component_tooltip.type-info.place-right:after{border-right-color:#337AB7;border-right-style:solid;border-right-width:6px}.__react_component_tooltip.type-info.border{border:1px solid #fff}.__react_component_tooltip.type-info.border.place-top:before{border-top:8px solid #fff}.__react_component_tooltip.type-info.border.place-bottom:before{border-bottom:8px solid #fff}.__react_component_tooltip.type-info.border.place-left:before{border-left:8px solid #fff}.__react_component_tooltip.type-info.border.place-right:before{border-right:8px solid #fff}.__react_component_tooltip.type-light{color:#222;background-color:#fff}.__react_component_tooltip.type-light.place-top:after{border-top-color:#fff;border-top-style:solid;border-top-width:6px}.__react_component_tooltip.type-light.place-bottom:after{border-bottom-color:#fff;border-bottom-style:solid;border-bottom-width:6px}.__react_component_tooltip.type-light.place-left:after{border-left-color:#fff;border-left-style:solid;border-left-width:6px}.__react_component_tooltip.type-light.place-right:after{border-right-color:#fff;border-right-style:solid;border-right-width:6px}.__react_component_tooltip.type-light.border{border:1px solid #222}.__react_component_tooltip.type-light.border.place-top:before{border-top:8px solid #222}.__react_component_tooltip.type-light.border.place-bottom:before{border-bottom:8px solid #222}.__react_component_tooltip.type-light.border.place-left:before{border-left:8px solid #222}.__react_component_tooltip.type-light.border.place-right:before{border-right:8px solid #222}.__react_component_tooltip.place-top{margin-top:-10px}.__react_component_tooltip.place-top:before{border-left:10px solid transparent;border-right:10px solid transparent;bottom:-8px;left:50%;margin-left:-10px}.__react_component_tooltip.place-top:after{border-left:8px solid transparent;border-right:8px solid transparent;bottom:-6px;left:50%;margin-left:-8px}.__react_component_tooltip.place-bottom{margin-top:10px}.__react_component_tooltip.place-bottom:before{border-left:10px solid transparent;border-right:10px solid transparent;top:-8px;left:50%;margin-left:-10px}.__react_component_tooltip.place-bottom:after{border-left:8px solid transparent;border-right:8px solid transparent;top:-6px;left:50%;margin-left:-8px}.__react_component_tooltip.place-left{margin-left:-10px}.__react_component_tooltip.place-left:before{border-top:6px solid transparent;border-bottom:6px solid transparent;right:-8px;top:50%;margin-top:-5px}.__react_component_tooltip.place-left:after{border-top:5px solid transparent;border-bottom:5px solid transparent;right:-6px;top:50%;margin-top:-4px}.__react_component_tooltip.place-right{margin-left:10px}.__react_component_tooltip.place-right:before{border-top:6px solid transparent;border-bottom:6px solid transparent;left:-8px;top:50%;margin-top:-5px}.__react_component_tooltip.place-right:after{border-top:5px solid transparent;border-bottom:5px solid transparent;left:-6px;top:50%;margin-top:-4px}.__react_component_tooltip .multi-line{display:block;padding:2px 0px;text-align:center}</style>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="http://localhost:8082/images/fav.png">
+  <link rel="stylesheet" href="./ControlPanda - Builder_files/main.css">
+  <link rel="stylesheet" href="./ControlPanda - Builder_files/custom.css">
+  <link href="./ControlPanda - Builder_files/ionicons.min.css" rel="stylesheet" type="text/css">
+  <link href="./ControlPanda - Builder_files/css" rel="stylesheet" type="text/css">
+
+  <link rel="stylesheet" href="./ControlPanda - Builder_files/font-awesome.min.css">
+
+  <title>ControlPanda - Builder</title>
+<style type="text/css">.Dropdown-root {
+  position: relative;
+}
+
+.Dropdown-control {
+  position: relative;
+  overflow: hidden;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #333;
+  cursor: default;
+  outline: none;
+  padding: 8px 52px 8px 10px;
+  -webkit-transition: all 200ms ease;
+  -o-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+
+.Dropdown-control:hover {
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+}
+
+.Dropdown-arrow {
+  border-color: #999 transparent transparent;
+  border-style: solid;
+  border-width: 5px 5px 0;
+  content: ' ';
+  display: block;
+  height: 0;
+  margin-top: -ceil(2.5);
+  position: absolute;
+  right: 10px;
+  top: 14px;
+  width: 0
+}
+
+.is-open .Dropdown-arrow {
+  border-color: transparent transparent #999;
+  border-width: 0 5px 5px;
+}
+
+.Dropdown-menu {
+  background-color: white;
+  border: 1px solid #ccc;
+  -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+          box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin-top: -1px;
+  max-height: 200px;
+  overflow-y: auto;
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  z-index: 1000;
+  -webkit-overflow-scrolling: touch;
+}
+
+.Dropdown-menu .Dropdown-group > .Dropdown-title{
+  padding: 8px 10px;
+  color: rgba(51, 51, 51, 1);
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.Dropdown-option {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: rgba(51, 51, 51, 0.8);
+  cursor: pointer;
+  display: block;
+  padding: 8px 10px;
+}
+
+.Dropdown-option:last-child {
+  border-bottom-right-radius: 2px;
+   border-bottom-left-radius: 2px;
+}
+
+.Dropdown-option:hover {
+  background-color: #f2f9fc;
+  color: #333;
+}
+
+.Dropdown-option.is-selected {
+  background-color: #f2f9fc;
+  color: #333;
+}
+
+.Dropdown-noresults {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: #ccc;
+  cursor: default;
+  display: block;
+  padding: 8px 10px;
+}
+</style><style type="text/css">.PopupMenu_PopupMenu__8TfA4 {
+  position: relative; }
+
+.PopupMenu_button__20m_Y {
+  padding: 5px;
+  border-radius: 2px;
+  width: 30px;
+  height: 30px;
+  transition: background 0.25s ease-in-out; }
+  .PopupMenu_button__20m_Y:hover, .PopupMenu_button__20m_Y.active {
+    background: rgba(0, 0, 0, 0.1); }
+
+.PopupMenu_popover__3hd_Z {
+  background: white;
+  position: absolute;
+  width: calc(200px - 10px);
+  height: calc(200px - 10px);
+  left: calc(-100px + 50%);
+  top: 60px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+  padding: 5px;
+  z-index: 1; }
+  .PopupMenu_popover__3hd_Z.active {
+    opacity: 1; }
+  .PopupMenu_popover__3hd_Z:hover + .PopupMenu_button__20m_Y {
+    background: rgba(0, 0, 0, 0.1); }
+  .PopupMenu_popover__3hd_Z:before {
+    content: "";
+    position: absolute;
+    display: block;
+    top: -20px;
+    left: calc(50% - 10px);
+    border: 10px solid white;
+    border-color: transparent transparent white transparent; }
+
+.PopupMenu_direction-top__1oqgB .PopupMenu_popover__3hd_Z {
+  top: auto;
+  bottom: 60px; }
+  .PopupMenu_direction-top__1oqgB .PopupMenu_popover__3hd_Z:before {
+    top: auto;
+    bottom: -20px;
+    border-color: white transparent transparent transparent; }
+
+.PopupMenu_direction-left__mSrJK .PopupMenu_popover__3hd_Z {
+  top: -100px;
+  left: auto !important;
+  right: 60px; }
+  .PopupMenu_direction-left__mSrJK .PopupMenu_popover__3hd_Z:before {
+    left: auto;
+    right: -20px;
+    top: calc(50% - 10px);
+    border-color: transparent transparent transparent white; }
+
+.PopupMenu_direction-right__yrXfz .PopupMenu_popover__3hd_Z {
+  top: -100px;
+  right: auto !important;
+  left: 60px !important; }
+  .PopupMenu_direction-right__yrXfz .PopupMenu_popover__3hd_Z:before {
+    right: auto;
+    left: -20px;
+    top: calc(50% - 10px);
+    border-color: transparent white transparent transparent; }
+</style><style type="text/css">.PopupTable_PopupTable__3fGcX {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: calc(200px - 10px);
+  flex-flow: row wrap; }
+
+.PopupTable_item__1j75h {
+  padding: 5px;
+  border-radius: 2px;
+  transition: background 0.15s ease-in-out; }
+  .PopupTable_item__1j75h:hover {
+    background: rgba(0, 0, 0, 0.1); }
+
+.PopupTable_placeholder__CKltF {
+  padding: 0px;
+  height: 10px;
+  display: block;
+  border-radius: 2px;
+  visibility: hidden; }
+</style><style type="text/css" data-jss="" data-meta="Modal, Unthemed, Static">
+.Modal-overlay-0-1-1 {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  padding: 1.2rem;
+  display: flex;
+  position: fixed;
+  overflow-y: auto;
+  overflow-x: hidden;
+  background: rgba(0, 0, 0, 0.75);
+  align-items: flex-start;
+  justify-content: center;
+}
+.Modal-overlayLittle-0-1-2 {
+  align-items: center;
+}
+.Modal-modal-0-1-3 {
+  padding: 1.2rem;
+  position: relative;
+  max-width: 800px;
+  background: #ffffff;
+  box-shadow: 0 12px 15px 0 rgba(0,0,0,0.25);
+  background-clip: padding-box;
+}
+.Modal-closeIcon-0-1-4 {
+  top: 14px;
+  right: 14px;
+  cursor: pointer;
+  position: absolute;
+}
+.Modal-transitionEnter-0-1-5 {
+  opacity: 0.01;
+}
+.Modal-transitionEnterActive-0-1-6 {
+  opacity: 1;
+  transition: opacity 500ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+.Modal-transitionExit-0-1-7 {
+  opacity: 1;
+}
+.Modal-transitionExitActive-0-1-8 {
+  opacity: 0.01;
+  transition: opacity 500ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+</style></head>
+
+<body data-gr-c-s-loaded="true">
+  
+  <div id="root" style="opacity: 1;"><div data-reactroot=""><div><div class="top-img"><i class="fa fa-chevron-up"></i></div><nav class="navbar navbar-light"><div><div class="logo_bg_curve" style="background-image: url(&quot;data:image/png;base64,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&quot;);"><a class="navbar-brand" href="http://localhost:8082/"><img alt="" src="data:image/png;base64,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"></a></div><ul class="nav navbar-nav pull-xs-left"><li class="nav-item"><span><!-- react-text: 13 -->Home <!-- /react-text --><i class="flaticon-down-arrow"></i></span></li><li class="nav-item"><!-- react-text: 16 -->Site<!-- /react-text --></li><li class="nav-item"><!-- react-text: 18 -->Code<!-- /react-text --></li><li class="nav-item"><!-- react-text: 20 -->Help<!-- /react-text --></li></ul><ul class="nav navbar-nav pull-xs-right"><li class="nav-item"><a class="navbar-brand" href="http://localhost:8082/"><img alt="" src="./ControlPanda - Builder_files/reorder.59a8e90c.svg"><!-- react-text: 25 --> <!-- /react-text --></a></li><li class="nav-item"><a class="navbar-brand" href="http://localhost:8082/"><img alt="" src="./ControlPanda - Builder_files/undo.c648067e.svg"><!-- react-text: 29 --> <!-- /react-text --></a></li><li class="nav-item"><a class="navbar-brand" href="http://localhost:8082/"><img alt="" src="./ControlPanda - Builder_files/redo.edcd78f9.svg"><!-- react-text: 33 --> <!-- /react-text --></a></li><li class="nav-item pad_0"><div class="nav_icon"><i class="flaticon-desktop"></i></div></li><li class="nav-item pad_0"><div class="nav_icon"><i class="flaticon-technology"></i></div></li><li class="nav-item"><i class="flaticon-tick-inside-circle"></i></li><li class="nav-item"><i class="flaticon-eye"></i></li><li class="nav-item"><div class="preview_bg_curve" style="background-image: url(&quot;data:image/png;base64,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&quot;);"><span>Publish</span></div></li></ul></div></nav><!-- react-empty: 47 --></div><div class="home-page"><div class="page"><div class="inspictor"><div class="react-tabs" data-tabs="true"><ul class="react-tabs__tab-list" role="tablist"><li class="dummy-tab" role="tab" id="react-tabs-0" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-1"></li><li class="menu-pages react-tabs__tab--selected" role="tab" id="react-tabs-2" aria-selected="true" aria-disabled="false" aria-controls="react-tabs-3" tabindex="0"><i class="flaticon-menu-button-of-three-horizontal-lines"></i><span> Menu &amp; Pages</span></li><li class="my-uploads" role="tab" id="react-tabs-4" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-5"><!-- react-text: 58 --> <!-- /react-text --><i class="flaticon-upload"></i><span>My Uploads</span></li><li class="add" role="tab" id="react-tabs-6" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-7"><i class="flaticon-mathematical-addition-sign"></i><!-- react-text: 63 --> <!-- /react-text --><span>Add Data</span></li><li class="add-apps" role="tab" id="react-tabs-8" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-9"><i class="flaticon-add"></i><!-- react-text: 67 --> <!-- /react-text --><span>Select CP Apps</span></li><li class="background" role="tab" id="react-tabs-10" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-11"><i class="flaticon-background"></i><!-- react-text: 71 --> <!-- /react-text --><span>Background</span></li><li class="schedule" role="tab" id="react-tabs-12" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-13"><i class="flaticon-time-left"></i><!-- react-text: 75 --> <!-- /react-text --><span>Schedule</span></li><li class="start-bloging" role="tab" id="react-tabs-14" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-15"><i class="flaticon-blogger-logo"></i><!-- react-text: 79 --> <!-- /react-text --><span>Create CP Blog</span></li><li class="upgrade" role="tab" id="react-tabs-16" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-17"><i class="flaticon-up-arrow"></i><!-- react-text: 83 --> <!-- /react-text --><span>Upgrade</span></li><li class="tools" role="tab" id="react-tabs-18" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-19"><i class="flaticon-settings"></i><!-- react-text: 87 --> <!-- /react-text --><span>Tools</span></li></ul><div class="dummy-tab-pannel" role="tabpanel" id="react-tabs-1" aria-labelledby="react-tabs-0"></div><div class="left_panel_wrap menu_panel_wrap react-tabs__tab-panel--selected" role="tabpanel" id="react-tabs-3" aria-labelledby="react-tabs-2"><div class="react-tabs" data-tabs="true"><ul class="react-tabs__tab-list" role="tablist"><li class="site-menu react-tabs__tab--selected" role="tab" id="react-tabs-20" aria-selected="true" aria-disabled="false" aria-controls="react-tabs-21" tabindex="0">Site Menu</li><li class="store-page" role="tab" id="react-tabs-22" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-23">Store Pages</li><li class="page-transations" role="tab" id="react-tabs-24" aria-selected="false" aria-disabled="false" aria-controls="react-tabs-25">Page Transitions</li></ul><div class="react-tabs__tab-panel react-tabs__tab-panel--selected" role="tabpanel" id="react-tabs-21" aria-labelledby="react-tabs-20"><div class="tab-panel-head"><!-- react-text: 291 -->Site Menu<!-- /react-text --><span class="modal_btn pull-right"><button class="btn">?</button><button class="btn">X</button></span></div><div class="tab-panel-body"><div class="pages-tiles"><!-- react-text: 297 -->Home<!-- /react-text --><button class="btn"><div class="PopupMenu_PopupMenu__8TfA4 PopupMenu_direction-right__yrXfz"><div class="PopupMenu_button__20m_Y"><span aria-hidden="true" class="fa fa-ellipsis-h"></span></div><div class="PopupMenu_popover__3hd_Z" style="width: calc(180px); height: auto; left: calc(-95px + 50%);"><div class="PopupTable_PopupTable__3fGcX" style="width: calc(180px);"><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><p> setting </p></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div></div></div></div></button></div><div class="pages-tiles"><!-- react-text: 305 -->Contact Us<!-- /react-text --><button class="btn"><div class="PopupMenu_PopupMenu__8TfA4 PopupMenu_direction-right__yrXfz"><div class="PopupMenu_button__20m_Y"><span aria-hidden="true" class="fa fa-ellipsis-h"></span></div><div class="PopupMenu_popover__3hd_Z" style="width: calc(180px); height: auto; left: calc(-95px + 50%); visibility: hidden;"><div class="PopupTable_PopupTable__3fGcX" style="width: calc(180px);"><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><p> setting </p></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div></div></div></div></button></div><div class="pages-tiles"><!-- react-text: 313 -->About Us<!-- /react-text --><button class="btn"><div class="PopupMenu_PopupMenu__8TfA4 PopupMenu_direction-right__yrXfz"><div class="PopupMenu_button__20m_Y"><span aria-hidden="true" class="fa fa-ellipsis-h"></span></div><div class="PopupMenu_popover__3hd_Z" style="width: calc(180px); height: auto; left: calc(-95px + 50%); visibility: hidden;"><div class="PopupTable_PopupTable__3fGcX" style="width: calc(180px);"><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><p> setting </p></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div></div></div></div></button></div><div class="pages-tiles"><!-- react-text: 321 -->Thankyou<!-- /react-text --><button class="btn"><div class="PopupMenu_PopupMenu__8TfA4 PopupMenu_direction-right__yrXfz"><div class="PopupMenu_button__20m_Y"><span aria-hidden="true" class="fa fa-ellipsis-h"></span></div><div class="PopupMenu_popover__3hd_Z" style="width: calc(180px); height: auto; left: calc(-95px + 50%); visibility: hidden;"><div class="PopupTable_PopupTable__3fGcX" style="width: calc(180px);"><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><p> setting </p></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div class="PopupTable_item__1j75h"><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div></div></div></div></button></div></div><div class="tab-panel-footer"><button class="btn theme_btn">Add Page</button><button class="btn theme_btn">Share</button><button class="btn theme_btn">Add Folder</button></div></div><div class="react-tabs__tab-panel" role="tabpanel" id="react-tabs-23" aria-labelledby="react-tabs-22"></div><div class="react-tabs__tab-panel" role="tabpanel" id="react-tabs-25" aria-labelledby="react-tabs-24"></div></div></div><div class="left_panel_wrap page_bg_panel" role="tabpanel" id="react-tabs-5" aria-labelledby="react-tabs-4"></div><div class="left_panel_wrap add_data_wrap" role="tabpanel" id="react-tabs-7" aria-labelledby="react-tabs-6"></div><div class="left_panel_wrap panda_app_wrap" role="tabpanel" id="react-tabs-9" aria-labelledby="react-tabs-8"></div><div class="My_Upload" role="tabpanel" id="react-tabs-11" aria-labelledby="react-tabs-10"></div><div class="left_panel_wrap" role="tabpanel" id="react-tabs-13" aria-labelledby="react-tabs-12"></div><div class="left_panel_wrap blog_panel_wrap" role="tabpanel" id="react-tabs-15" aria-labelledby="react-tabs-14"></div><div class="left_panel_wrap upgrade_panel_wrap" role="tabpanel" id="react-tabs-17" aria-labelledby="react-tabs-16"></div><div class="left_panel_wrap tool_panel_wrap" role="tabpanel" id="react-tabs-19" aria-labelledby="react-tabs-18"></div></div></div><div class="playground"><div id="playground-editor" class="gjs-editor-cont" style="width: 100%; height: 100%;"><div class="gjs-editor gjs-one-bg gjs-two-color"><div class="gjs-cv-canvas"><iframe allowfullscreen="allowfullscreen" class="gjs-frame" src="./ControlPanda - Builder_files/saved_resource.html"></iframe>
+      <div id="gjs-tools" style="pointer-events:none">
+        <div class="gjs-highlighter" style="left: 0px; top: 110px; height: 58px; width: 720px; display: none;"></div>
+        <div class="gjs-badge" style="display: none; top: 86px; left: 0px;">Text</div>
+        <div class="gjs-placeholder">
+          <div class="gjs-placeholder-int"></div>
+        </div>
+        <div class="gjs-ghost"></div>
+        <div class="gjs-toolbar" style="pointer-events: all; display: none; opacity: 0;"></div>
+        <div class="gjs-resizer"></div>
+        <div class="gjs-offset-v" style="display: none;"></div>
+        <div class="gjs-offset-fixed-v"></div>
+      <div class="gjs-rte-toolbar gjs-one-bg" style="pointer-events: all; top: -100px; left: -100px; display: none;"><div class="gjs-rte-actionbar"><span class="gjs-rte-action" title="Bold"><b>B</b></span><span class="gjs-rte-action" title="Italic"><i>I</i></span><span class="gjs-rte-action" title="Underline"><u>U</u></span><span class="gjs-rte-action" title="Strike-through"><strike>S</strike></span><span class="gjs-rte-action" style="font-size:1.4rem;padding:0 4px 2px;" title="Link"><span style="transform:rotate(45deg)">⫘</span></span></div></div></div>
+    </div><div class="gjs-pn-panels"><div class="gjs-pn-panel gjs-pn-commands gjs-one-bg gjs-two-color"><div class="gjs-pn-buttons"><span class="gjs-pn-btn"></span></div></div><div class="gjs-pn-panel gjs-pn-options gjs-one-bg gjs-two-color"><div class="gjs-pn-buttons"><span title="View components" class="gjs-pn-btn fa fa-square-o gjs-pn-active gjs-four-color"></span><span title="Preview" class="gjs-pn-btn fa fa-eye"></span><span title="Fullscreen" class="gjs-pn-btn fa fa-arrows-alt"></span><span title="View code" class="gjs-pn-btn fa fa-code"></span></div></div><div class="gjs-pn-panel gjs-pn-views gjs-one-bg gjs-two-color"><div class="gjs-pn-buttons"><span title="Open Style Manager" class="gjs-pn-btn fa fa-paint-brush gjs-pn-active gjs-four-color"></span><span title="Settings" class="gjs-pn-btn fa fa-cog"></span><span title="Open Layer Manager" class="gjs-pn-btn fa fa-bars"></span><span title="Open Blocks" class="gjs-pn-btn fa fa-th-large"></span></div></div><div class="gjs-pn-panel gjs-pn-devices-c gjs-one-bg gjs-two-color"><div class="gjs-devices-c">
+    <div class="gjs-device-label">Device</div>
+    <div class="gjs-field gjs-select">
+      <span id="gjs-input-holder">
+        <select class="gjs-devices"><option value="Desktop">Desktop</option><option value="Tablet">Tablet</option><option value="Mobile landscape">Mobile landscape</option><option value="Mobile portrait">Mobile portrait</option></select>
+      </span>
+      <div class="gjs-sel-arrow">
+        <div class="gjs-d-s-arrow"></div>
+      </div>
+    </div>
+    <button style="display:none" class="gjs-add-trasp">+</button></div></div><div class="gjs-pn-panel gjs-pn-views-container gjs-one-bg gjs-two-color"><div><div style="display: none;"><div class="gjs-clm-tags gjs-one-bg gjs-two-color">
+  <div id="gjs-clm-up">
+    <div id="gjs-clm-label">Classes</div>
+    <div id="gjs-clm-status-c">
+      <span id="gjs-clm-input-c">
+        <div class="gjs-field gjs-select">
+          <span id="gjs-input-holder">
+            <select id="gjs-clm-states">
+              <option value="">- State -</option>
+            <option value="hover">Hover</option><option value="active">Click</option><option value="nth-of-type(2n)">Even/Odd</option></select>
+          </span>
+          <div class="gjs-sel-arrow">
+            <div class="gjs-d-s-arrow"></div>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+  <div id="gjs-clm-tags-field" class="gjs-field">
+    <div id="gjs-clm-tags-c"></div>
+    <input id="gjs-clm-new">
+    <span id="gjs-clm-add-tag" class="fa fa-plus"></span>
+  </div>
+  <div id="gjs-clm-sel-help">
+    <div id="gjs-clm-label">Selected</div>
+    <div id="gjs-clm-sel"></div>
+    <div style="clear:both"></div>
+  </div></div><div class="gjs-sm-sectors gjs-one-bg gjs-two-color"><div id="gjs-sm-general" class="gjs-sm-sector no-select">
+  <div class="gjs-sm-title" data-sector-title="">
+    <i id="gjs-sm-caret" class="fa fa-caret-right"></i>
+    General
+  </div><div class="gjs-sm-properties" style="display: none;"><div id="gjs-sm-float" class="gjs-sm-property gjs-sm-radio">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Float
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-radio"><div class="gjs-radio-items">
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="float-none" name="float" value="none">
+              <label class="gjs-radio-item-label" for="float-none">none</label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="float-left" name="float" value="left">
+              <label class="gjs-radio-item-label" for="float-left">left</label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="float-right" name="float" value="right">
+              <label class="gjs-radio-item-label" for="float-right">right</label>
+            </div>
+          </div></div>
+    
+      </div>
+    </div><div id="gjs-sm-display" class="gjs-sm-property gjs-sm-select">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Display
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-select">
+        <span id="gjs-sm-input-holder"><select><option value="block">block</option><option value="inline">inline</option><option value="inline-block">inline-block</option><option value="none">none</option></select></span>
+        <div class="gjs-sel-arrow">
+          <div class="gjs-d-s-arrow"></div>
+        </div>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-position" class="gjs-sm-property gjs-sm-radio">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Position
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-radio"><div class="gjs-radio-items">
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="position-static" name="position" value="static">
+              <label class="gjs-radio-item-label" for="position-static">static</label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="position-relative" name="position" value="relative">
+              <label class="gjs-radio-item-label" for="position-relative">relative</label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="position-absolute" name="position" value="absolute">
+              <label class="gjs-radio-item-label" for="position-absolute">absolute</label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="position-fixed" name="position" value="fixed">
+              <label class="gjs-radio-item-label" for="position-fixed">fixed</label>
+            </div>
+          </div></div>
+    
+      </div>
+    </div><div id="gjs-sm-top" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Top
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-right" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Right
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-left" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Left
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-bottom" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Bottom
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div></div></div><div id="gjs-sm-dimension" class="gjs-sm-sector no-select">
+  <div class="gjs-sm-title" data-sector-title="">
+    <i id="gjs-sm-caret" class="fa fa-caret-right"></i>
+    Dimension
+  </div><div class="gjs-sm-properties" style="display: none;"><div id="gjs-sm-width" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Width
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="auto"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-height" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Height
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="auto"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-max-width" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Max width
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="auto"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-min-height" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Min height
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="auto"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-margin" class="gjs-sm-property gjs-sm-composite">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Margin
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-composite">
+        <span id="gjs-sm-input-holder"><div class="gjs-sm-properties"><div id="gjs-sm-margin-top" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Margin top
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-margin-right" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Margin right
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-margin-bottom" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Margin bottom
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-margin-left" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Margin left
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div></div></span>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-padding" class="gjs-sm-property gjs-sm-composite">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Padding
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-composite">
+        <span id="gjs-sm-input-holder"><div class="gjs-sm-properties"><div id="gjs-sm-padding-top" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Padding top
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-padding-right" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Padding right
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-padding-bottom" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Padding bottom
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-padding-left" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Padding left
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div></div></span>
+      </div>
+    
+      </div>
+    </div></div></div><div id="gjs-sm-typography" class="gjs-sm-sector no-select">
+  <div class="gjs-sm-title" data-sector-title="">
+    <i id="gjs-sm-caret" class="fa fa-caret-right"></i>
+    Typography
+  </div><div class="gjs-sm-properties" style="display: none;"><div id="gjs-sm-font-family" class="gjs-sm-property gjs-sm-select">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Font family
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-select">
+        <span id="gjs-sm-input-holder"><select><option value="Arial, Helvetica, sans-serif">Arial</option><option value="Arial Black, Gadget, sans-serif">Arial Black</option><option value="Brush Script MT, sans-serif">Brush Script MT</option><option value="Comic Sans MS, cursive, sans-serif">Comic Sans MS</option><option value="Courier New, Courier, monospace">Courier New</option><option value="Georgia, serif">Georgia</option><option value="Helvetica, serif">Helvetica</option><option value="Impact, Charcoal, sans-serif">Impact</option><option value="Lucida Sans Unicode, Lucida Grande, sans-serif">Lucida Sans Unicode</option><option value="Tahoma, Geneva, sans-serif">Tahoma</option><option value="Times New Roman, Times, serif">Times New Roman</option><option value="Trebuchet MS, Helvetica, sans-serif">Trebuchet MS</option><option value="Verdana, Geneva, sans-serif">Verdana</option></select></span>
+        <div class="gjs-sel-arrow">
+          <div class="gjs-d-s-arrow"></div>
+        </div>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-font-size" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Font size
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="medium"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>em</option><option>rem</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-font-weight" class="gjs-sm-property gjs-sm-select">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Font weight
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-select">
+        <span id="gjs-sm-input-holder"><select><option value="100">Thin</option><option value="200">Extra-Light</option><option value="300">Light</option><option value="400">Normal</option><option value="500">Medium</option><option value="600">Semi-Bold</option><option value="700">Bold</option><option value="800">Extra-Bold</option><option value="900">Ultra-Bold</option></select></span>
+        <div class="gjs-sel-arrow">
+          <div class="gjs-d-s-arrow"></div>
+        </div>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-letter-spacing" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Letter spacing
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="normal"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>em</option><option>rem</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-color" class="gjs-sm-property gjs-sm-color">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Color
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-color">
+      <div class="gjs-input-holder"><input type="text" placeholder="black"></div>
+      <div class="gjs-field-colorp">
+        <div class="gjs-field-colorp-c" data-colorp-c="">
+          <div class="gjs-checker-bg"></div>
+        <div class="gjs-field-color-picker" style="background-color: black;"></div></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-line-height" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Line height
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="normal"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>em</option><option>rem</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-text-align" class="gjs-sm-property gjs-sm-radio">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Text align
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-radio"><div class="gjs-radio-items">
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="text-align-left" name="text-align" value="left">
+              <label class="fa fa-align-left gjs-sm-icon gjs-radio-item-label" for="text-align-left"></label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="text-align-center" name="text-align" value="center">
+              <label class="fa fa-align-center gjs-sm-icon gjs-radio-item-label" for="text-align-center"></label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="text-align-right" name="text-align" value="right">
+              <label class="fa fa-align-right gjs-sm-icon gjs-radio-item-label" for="text-align-right"></label>
+            </div>
+          
+            <div class="gjs-radio-item">
+              <input type="radio" class="gjs-sm-radio" id="text-align-justify" name="text-align" value="justify">
+              <label class="fa fa-align-justify gjs-sm-icon gjs-radio-item-label" for="text-align-justify"></label>
+            </div>
+          </div></div>
+    
+      </div>
+    </div><div id="gjs-sm-text-shadow" class="gjs-sm-property gjs-sm-stack">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Text shadow
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-stack">
+        <button type="button" id="gjs-sm-add" data-add-layer="">+</button>
+        <div data-layers-wrapper=""><div class="gjs-sm-layers gjs-field"></div></div>
+      </div>
+    
+      </div>
+    </div></div></div><div id="gjs-sm-decorations" class="gjs-sm-sector no-select">
+  <div class="gjs-sm-title" data-sector-title="">
+    <i id="gjs-sm-caret" class="fa fa-caret-right"></i>
+    Decorations
+  </div><div class="gjs-sm-properties" style="display: none;"><div id="gjs-sm-border-radius" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border radius
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-background-color" class="gjs-sm-property gjs-sm-color">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Background color
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-color">
+      <div class="gjs-input-holder"><input type="text" placeholder="none"></div>
+      <div class="gjs-field-colorp">
+        <div class="gjs-field-colorp-c" data-colorp-c="">
+          <div class="gjs-checker-bg"></div>
+        <div class="gjs-field-color-picker"></div></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-border-radius" class="gjs-sm-property gjs-sm-composite">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border radius
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-composite">
+        <span id="gjs-sm-input-holder"><div class="gjs-sm-properties"><div id="gjs-sm-border-top-left-radius" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border top left radius
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-border-top-right-radius" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border top right radius
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-border-bottom-left-radius" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border bottom left radius
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-border-bottom-right-radius" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border bottom right radius
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>%</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div></div></span>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-border" class="gjs-sm-property gjs-sm-composite">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-composite">
+        <span id="gjs-sm-input-holder"><div class="gjs-sm-properties"><div id="gjs-sm-border-width" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border width
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="medium"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option><option>em</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-border-style" class="gjs-sm-property gjs-sm-select">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border style
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-select">
+        <span id="gjs-sm-input-holder"><select><option value="none">none</option><option value="solid">solid</option><option value="dotted">dotted</option><option value="dashed">dashed</option><option value="double">double</option><option value="groove">groove</option><option value="ridge">ridge</option><option value="inset">inset</option><option value="outset">outset</option></select></span>
+        <div class="gjs-sel-arrow">
+          <div class="gjs-d-s-arrow"></div>
+        </div>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-border-color" class="gjs-sm-property gjs-sm-color">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Border color
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-color">
+      <div class="gjs-input-holder"><input type="text" placeholder="black"></div>
+      <div class="gjs-field-colorp">
+        <div class="gjs-field-colorp-c" data-colorp-c="">
+          <div class="gjs-checker-bg"></div>
+        <div class="gjs-field-color-picker" style="background-color: black;"></div></div>
+      </div>
+    </div></div>
+    </div></div></span>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-box-shadow" class="gjs-sm-property gjs-sm-stack">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Box shadow
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-stack">
+        <button type="button" id="gjs-sm-add" data-add-layer="">+</button>
+        <div data-layers-wrapper=""><div class="gjs-sm-layers gjs-field"></div></div>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-background" class="gjs-sm-property gjs-sm-stack">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Background
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-stack">
+        <button type="button" id="gjs-sm-add" data-add-layer="">+</button>
+        <div data-layers-wrapper=""><div class="gjs-sm-layers gjs-field"></div></div>
+      </div>
+    
+      </div>
+    </div></div></div><div id="gjs-sm-extra" class="gjs-sm-sector no-select">
+  <div class="gjs-sm-title" data-sector-title="">
+    <i id="gjs-sm-caret" class="fa fa-caret-right"></i>
+    Extra
+  </div><div class="gjs-sm-properties" style="display: none;"><div id="gjs-sm-transition" class="gjs-sm-property gjs-sm-stack">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transition
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-stack">
+        <button type="button" id="gjs-sm-add" data-add-layer="">+</button>
+        <div data-layers-wrapper=""><div class="gjs-sm-layers gjs-field"></div></div>
+      </div>
+    
+      </div>
+    </div><div id="gjs-sm-perspective" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Perspective
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">px</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-transform" class="gjs-sm-property gjs-sm-composite">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transform
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-sm-field gjs-sm-composite">
+        <span id="gjs-sm-input-holder"><div class="gjs-sm-properties"><div id="gjs-sm-transform-rotate-x" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transform rotate x
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">deg</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-transform-rotate-y" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transform rotate y
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">deg</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-transform-rotate-z" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transform rotate z
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="0"></span>
+      <span class="gjs-field-units"><select class="input-unit"><option selected="">deg</option></select></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-transform-scale-x" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transform scale x
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="1"></span>
+      <span class="gjs-field-units"></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-transform-scale-y" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transform scale y
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="1"></span>
+      <span class="gjs-field-units"></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div><div id="gjs-sm-transform-scale-z" class="gjs-sm-property gjs-sm-integer">
+      <div class="gjs-sm-label">
+        
+      <span class="gjs-sm-icon " title="">
+        Transform scale z
+      </span>
+      <b class="gjs-sm-clear" data-clear-style="" style="display: none;">⨯</b>
+    
+      </div>
+      <div class="gjs-fields">
+        
+      <div class="gjs-field gjs-field-integer">
+      <span class="gjs-input-holder"><input type="text" placeholder="1"></span>
+      <span class="gjs-field-units"></span>
+      <div class="gjs-field-arrows" data-arrows="">
+        <div class="gjs-field-arrow-u" data-arrow-up=""></div>
+        <div class="gjs-field-arrow-d" data-arrow-down=""></div>
+      </div>
+    </div></div>
+    </div></div></span>
+      </div>
+    
+      </div>
+    </div></div></div></div></div><div class="gjs-sm-header" style="display: block;">Select an element before using Style Manager</div></div></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-initial-disabled gjs-one-bg gjs-two-color"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"><div class="sp-cf sp-palette-row sp-palette-row-0"></div><div class="sp-cf sp-palette-row sp-palette-row-selection"></div></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="display: block; top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="display: block; top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0));"><div class="sp-alpha-handle" style="display: block; left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="http://localhost:8082/#">⨯</a><button type="button" class="sp-choose">Ok</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-initial-disabled gjs-one-bg gjs-two-color"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"><div class="sp-cf sp-palette-row sp-palette-row-0"></div><div class="sp-cf sp-palette-row sp-palette-row-selection"></div></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="display: block; top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="display: block; top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0));"><div class="sp-alpha-handle" style="display: block; left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="http://localhost:8082/#">⨯</a><button type="button" class="sp-choose">Ok</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-initial-disabled gjs-one-bg gjs-two-color"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"><div class="sp-cf sp-palette-row sp-palette-row-0"></div><div class="sp-cf sp-palette-row sp-palette-row-selection"></div></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="display: block; top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="display: block; top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0));"><div class="sp-alpha-handle" style="display: block; left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="http://localhost:8082/#">⨯</a><button type="button" class="sp-choose">Ok</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-initial-disabled gjs-one-bg gjs-two-color"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"><div class="sp-cf sp-palette-row sp-palette-row-0"></div><div class="sp-cf sp-palette-row sp-palette-row-selection"></div></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="display: block; top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="display: block; top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0));"><div class="sp-alpha-handle" style="display: block; left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="http://localhost:8082/#">⨯</a><button type="button" class="sp-choose">Ok</button></div></div></div><div class="sp-container sp-hidden sp-light sp-input-disabled sp-alpha-enabled sp-palette-buttons-disabled sp-initial-disabled gjs-one-bg gjs-two-color"><div class="sp-palette-container"><div class="sp-palette sp-thumb sp-cf"><div class="sp-cf sp-palette-row sp-palette-row-0"></div><div class="sp-cf sp-palette-row sp-palette-row-selection"></div></div><div class="sp-palette-button-container sp-cf"><button type="button" class="sp-palette-toggle">less</button></div></div><div class="sp-picker-container"><div class="sp-top sp-cf"><div class="sp-fill"></div><div class="sp-top-inner"><div class="sp-color" style="background-color: rgb(255, 0, 0);"><div class="sp-sat"><div class="sp-val"><div class="sp-dragger" style="display: block; top: 0px; left: 0px;"></div></div></div></div><div class="sp-clear sp-clear-display" title="Clear Color Selection" style="display: none;"></div><div class="sp-hue"><div class="sp-slider" style="display: block; top: 0px;"></div></div></div><div class="sp-alpha"><div class="sp-alpha-inner" style="background: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(0, 0, 0));"><div class="sp-alpha-handle" style="display: block; left: 0px;"></div></div></div></div><div class="sp-input-container sp-cf"><input class="sp-input" type="text" spellcheck="false"></div><div class="sp-initial sp-thumb sp-cf"></div><div class="sp-button-container sp-cf"><a class="sp-cancel" href="http://localhost:8082/#">⨯</a><button type="button" class="sp-choose">Ok</button></div></div></div><div class="gjs-mdl-container" style="display: none;"><div class="gjs-mdl-dialog gjs-one-bg gjs-two-color">
+      <div class="gjs-mdl-header">
+        <div class="gjs-mdl-title"></div>
+        <div class="gjs-mdl-btn-close">⨯</div>
+      </div>
+      <div class="gjs-mdl-content">
+        <div id="gjs-mdl-c"></div>
+        <div style="clear:both"></div>
+      </div>
+    </div>
+    <div class="gjs-mdl-backlayer"></div>
+    <div class="gjs-mdl-collector" style="display: none"></div></div></div></div></div></div></div></div>
+<script type="text/javascript" src="./ControlPanda - Builder_files/bundle.js"></script><div style="position: absolute; left: -999999px;"><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><p> setting </p></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-facebook-official fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-spotify fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google-plus-square fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-google fa-2x"></span></div><div><span aria-hidden="true" class="fa fa-twitter-square fa-2x"></span></div></div>
+
+</body></html>

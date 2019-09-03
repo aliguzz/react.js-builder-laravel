@@ -1,0 +1,730 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Boxes",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 1040,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "BoxThemed1",
+                "elementName": "Box.Themed1",
+                "style": {
+                    "top": 13,
+                    "left": 3,
+                    "width": 136,
+                    "height": 65,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-1' style='position: absolute;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed2",
+                "elementName": "Box.Themed2",
+                "style": {
+                    "top": 13,
+                    "left": 144,
+                    "width": 62,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-2' style='position: absolute;left: 53%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed3",
+                "elementName": "Box.Themed3",
+                "style": {
+                    "top": 13,
+                    "left": 214,
+                    "width": 62,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-3' style='position: absolute;left:78%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed4",
+                "elementName": "Box.Themed4",
+                "style": {
+                    "top": 92,
+                    "left": 3,
+                    "width": 78,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-4' style='position: absolute;top:35%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed5",
+                "elementName": "Box.Themed5",
+                "style": {
+                    "top": 92,
+                    "left": 87,
+                    "width": 97,
+                    "height": 64,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-5' style='position: absolute;top:35%;left:33%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed6",
+                "elementName": "Box.Themed6",
+                "style": {
+                    "top": 92,
+                    "left": 189,
+                    "width": 88,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-6' style='position: absolute;top:35%;left:67%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed7",
+                "elementName": "Box.Themed7",
+                "style": {
+                    "top": 170,
+                    "left": 3,
+                    "width": 88,
+                    "height": 68,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-7' style='position: absolute;top:67%;left:0%;'><div class='bottom-arrow' style='top: 100%;left: 45%;'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed8",
+                "elementName": "Box.Themed8",
+                "style": {
+                    "top": 170,
+                    "left": 96,
+                    "width": 181,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-8' style='position: absolute;top:67%;left: 33%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed9",
+                "elementName": "Box.Themed9",
+                "style": {
+                    "top": 248,
+                    "left": 3,
+                    "width": 70,
+                    "height": 70,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-9' style='position: absolute;top:100%;left:0%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed10",
+                "elementName": "Box.Themed10",
+                "style": {
+                    "top": 250,
+                    "left": 74,
+                    "width": 132,
+                    "height": 62,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-10' style='position: absolute;top:100%;left:25%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed11",
+                "elementName": "Box.Themed11",
+                "style": {
+                    "top": 250,
+                    "left": 213,
+                    "width": 64,
+                    "height": 70,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-11' style='position: absolute;top:100%;left:74%;'><div class='bottom-arrow' style='top:98%;left:0%;'></div></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed12",
+                "elementName": "Box.Themed12",
+                "style": {
+                    "top": 327,
+                    "left": 3,
+                    "width": 64,
+                    "height": 63,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-12' style='position: absolute;left:0%;top:38%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed13",
+                "elementName": "Box.Themed13",
+                "style": {
+                    "top": 327,
+                    "left": 73,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-13' style='position: absolute;top:38%;left:25%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed14",
+                "elementName": "Box.Themed14",
+                "style": {
+                    "top": 327,
+                    "left": 143,
+                    "width": 135,
+                    "height": 70,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-14' style='position: absolute;top:38%;left:59%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed15",
+                "elementName": "Box.Themed15",
+                "style": {
+                    "top": 406,
+                    "left": 3,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-15' style='position: absolute;top:70%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed16",
+                "elementName": "Box.Themed16",
+                "style": {
+                    "top": 406,
+                    "left": 73,
+                    "width": 134,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-16' style='position: absolute;top:70%;left: 25%;'> <b class='curve-div-1' style='top:0%;left:0%'></b> <b class='curve-div-2' style='left: 50%'></b> <b class='curve-div-3' style='top: 40%;'></b> <b class='curve-div-4' style='top: 40%;left: 50%'></b> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed17",
+                "elementName": "Box.Themed17",
+                "style": {
+                    "top": 406,
+                    "left": 214,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-17' style='position: absolute;left:77%;top:70%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed18",
+                "elementName": "Box.Themed18",
+                "style": {
+                    "top": 486,
+                    "left": 3,
+                    "width": 64,
+                    "height": 141,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-18' style='position: absolute;left:0%;top:6%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed19",
+                "elementName": "Box.Themed19",
+                "style": {
+                    "top": 486,
+                    "left": 74,
+                    "width": 134,
+                    "height": 62,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-19' style='position: absolute;left:25%;top:6%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed20",
+                "elementName": "Box.Themed20",
+                "style": {
+                    "top": 486,
+                    "left": 214,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-20' style='position: absolute;left:77%;top:6%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed21",
+                "elementName": "Box.Themed21",
+                "style": {
+                    "top": 564,
+                    "left": 74,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-21' style='position: absolute;left:25%;top:45%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed22",
+                "elementName": "Box.Themed22",
+                "style": {
+                    "top": 564,
+                    "left": 144,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-22' style='position: absolute;left:51%;top:45%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed23",
+                "elementName": "Box.Themed23",
+                "style": {
+                    "top": 564,
+                    "left": 214,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-23' style='position: absolute;left:77%;top:45%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed24",
+                "elementName": "Box.Themed24",
+                "style": {
+                    "top": 642,
+                    "left": 3,
+                    "width": 153,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-24' style='position: absolute;left:0%;top:85%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed25",
+                "elementName": "Box.Themed25",
+                "style": {
+                    "top": 642,
+                    "left": 162,
+                    "width": 115,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-25' style='position: absolute;left:52%;top:85%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed26",
+                "elementName": "Box.Themed26",
+                "style": {
+                    "top": 720,
+                    "left": 3,
+                    "width": 63,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-26' style='position: absolute;left:0%;top:27%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed27",
+                "elementName": "Box.Themed27",
+                "style": {
+                    "top": 720,
+                    "left": 73,
+                    "width": 63,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-27' style='position: absolute;left:25%;top:27%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed28",
+                "elementName": "Box.Themed28",
+                "style": {
+                    "top": 720,
+                    "left": 142,
+                    "width": 136,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-28' style='position: absolute;left:52%;top:27%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed29",
+                "elementName": "Box.Themed29",
+                "style": {
+                    "top": 799,
+                    "left": 3,
+                    "width": 136,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-29' style='position: absolute;left:0%;top:68%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed30",
+                "elementName": "Box.Themed30",
+                "style": {
+                    "top": 799,
+                    "left": 143,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-30' style='position: absolute;left:52%;top:68%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed31",
+                "elementName": "Box.Themed31",
+                "style": {
+                    "top": 799,
+                    "left": 213,
+                    "width": 64,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-31' style='position: absolute;left:78%;top:68%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed32",
+                "elementName": "Box.Themed32",
+                "style": {
+                    "top": 877,
+                    "left": 3,
+                    "width": 115,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-32' style='position: absolute;left:0%;top:108%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed33",
+                "elementName": "Box.Themed33",
+                "style": {
+                    "top": 877,
+                    "left": 125,
+                    "width": 150,
+                    "height": 64,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-33' style='position: absolute;left:51%;top:108%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed34",
+                "elementName": "Box.Themed34",
+                "style": {
+                    "top": 956,
+                    "left": 3,
+                    "width": 143,
+                    "height": 70,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-34' style='position: absolute;left:0%;top:150%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed35",
+                "elementName": "Box.Themed35",
+                "style": {
+                    "top": 956,
+                    "left": 143,
+                    "width": 134,
+                    "height": 70,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                 "html": "<div deletable='1'  width='747' height='220'  class='componentElement container-box-35' style='position: absolute;left:51%;top:150%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

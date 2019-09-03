@@ -1,0 +1,450 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "MusicPanda",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 735,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "MusicPandaPlayer1",
+                "elementName": "MusicPanda.Player1",
+                "style": {
+                    "top": 15,
+                    "left": 0,
+                    "width": 190,
+                    "height": 46,
+                    "transform": {
+ 
+                    }
+                },
+                "html": "<div deletable='1' width='54' height='54' musicelem='1' class='componentElement player-1' style='position: absolute;top: 20%;left: 30%;'> <audio controls='controls'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/ogg' /> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg' /> Your browser does not support the audio element. </audio> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "MusicPandaPlayer2",
+                "elementName": "MusicPanda.Player2",
+                "style": {
+                    "top": 15,
+                    "left": 193,
+                    "width": 37,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-2' style='position: absolute;top: 20%;left: 52%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "MusicPandaPlayer3",
+                "elementName": "MusicPanda.Player3",
+                "style": {
+                    "top": 15,
+                    "left": 231,
+                    "width": 37,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-3' style='position: absolute;top: 20%;left: 57%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "MusicPandaPlayer4",
+                "elementName": "MusicPanda.Player4",
+                "style": {
+                    "top": 65,
+                    "left": 0,
+                    "width": 280,
+                    "height": 155,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusictheme='1' class='componentElement player-4' style='position: absolute;top: 35%;left: 30%;'> <div class='cpandaaudioplayer'> <ul class='playlist'> <li data-cover='http://digital.akauk.com/utils/musicPlayer/data/acousticbreeze.jpg' data-artist='Sam Doe'> <a href='[BASEURL]/panda_music/meooowwwwww-41110.mp3'>Acoustic Breeze</a> </li> <li data-cover='http://digital.akauk.com/utils/musicPlayer/data/dubstep.jpg' data-artist='Jane Doe'><a href='[BASEURL]/panda_music/meooowwwwww-41110.mp3'></a>Dubstep</li> </ul> </div> </div>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "MusicPandaPlayer5",
+                "elementName": "MusicPanda.Player5",
+                "style": {
+                    "top": 221,
+                    "left": 0,
+                    "width": 280,
+                    "height": 302,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusictheme='1' class='componentElement player-5' style='position: absolute;top: 35%;left: 60%;'> <div class='cpandaaudioplayer'> <ul class='playlist'> <li data-cover='http://digital.akauk.com/utils/musicPlayer/data/acousticbreeze.jpg' data-artist='Sam Doe'> <a href='[BASEURL]/panda_music/meooowwwwww-41110.mp3'>1. Acoustic Breeze</a> </li> <li data-cover='http://digital.akauk.com/utils/musicPlayer/data/dubstep.jpg' data-artist='Jane Doe'><a href='[BASEURL]/panda_music/meooowwwwww-41110.mp3'></a>2. Dubstep</li> <li data-cover='http://digital.akauk.com/utils/musicPlayer/data/dubstep.jpg' data-artist='Jane Doe'><a href='[BASEURL]/panda_music/meooowwwwww-41110.mp3'></a>3. Ali khurram</li> </ul> </div> </div>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer6",
+                "elementName": "MusicPanda.Player6",
+                "style": {
+                    "top": 531,
+                    "left": 4,
+                    "width": 45,
+                    "height": 45,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-6' style='position: absolute;top: 70%;left:30%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer7",
+                "elementName": "MusicPanda.Player7",
+                "style": {
+                    "top": 531,
+                    "left": 50,
+                    "width": 45,
+                    "height": 45,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-7' style='position: absolute;top: 70%;left:35%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer8",
+                "elementName": "MusicPanda.Player8",
+                "style": {
+                    "top": 531,
+                    "left": 98,
+                    "width": 83,
+                    "height": 44,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-8' style='position: absolute;top: 70%;left:40%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer9",
+                "elementName": "MusicPanda.Player9",
+                "style": {
+                    "top": 531,
+                    "left": 185,
+                    "width": 43,
+                    "height": 44,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-9' style='position: absolute;top: 70%;left:48%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer10",
+                "elementName": "MusicPanda.Player10",
+                "style": {
+                    "top": 531,
+                    "left": 231,
+                    "width": 43,
+                    "height": 44,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-10' style='position: absolute;top: 70%;left:53%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer11",
+                "elementName": "MusicPanda.Player11",
+                "style": {
+                    "top": 575,
+                    "left": 5,
+                    "width": 82,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-11' style='position: absolute;top:80%;left:30%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer12",
+                "elementName": "MusicPanda.Player12",
+                "style": {
+                    "top": 575,
+                    "left": 85,
+                    "width": 52,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-12' style='position: absolute;top:80%;left:38%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer13",
+                "elementName": "MusicPanda.Player13",
+                "style": {
+                    "top": 575,
+                    "left": 136,
+                    "width": 75,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-13' style='position: absolute;top:80%;left:43%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer14",
+                "elementName": "MusicPanda.Player14",
+                "style": {
+                    "top": 575,
+                    "left": 210,
+                    "width": 55,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-14' style='position: absolute;top:80%;left:51%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer15",
+                "elementName": "MusicPanda.Player15",
+                "style": {
+                    "top": 618,
+                    "left": 5,
+                    "width": 50,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-15' style='position: absolute;top:90%;left:30%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer16",
+                "elementName": "MusicPanda.Player16",
+                "style": {
+                    "top": 618,
+                    "left": 53,
+                    "width": 45,
+                    "height": 45,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-16' style='position: absolute;top:90%;left:35%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer17",
+                "elementName": "MusicPanda.Player17",
+                "style": {
+                    "top": 618,
+                    "left": 100,
+                    "width": 82,
+                    "height": 45,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-17' style='position: absolute;top:90%;left:40%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer18",
+                "elementName": "MusicPanda.Player18",
+                "style": {
+                    "top": 618,
+                    "left": 183,
+                    "width": 45,
+                    "height": 45,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-18' style='position: absolute;top:90%;left:48%;'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer19",
+                "elementName": "MusicPanda.Player19",
+                "style": {
+                    "top": 665,
+                    "left": 6,
+                    "width": 45,
+                    "height": 45,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-19' style='position: absolute;top:100%;left:30%;'> <div class='clr-effect-1'> <div class='clr-effect-2'> <div class='clr-effect-3'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div> </div> </div> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer20",
+                "elementName": "MusicPanda.Player20",
+                "style": {
+                    "top": 665,
+                    "left": 52,
+                    "width": 60,
+                    "height": 50,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-20' style='position: absolute;top:100%;left:35%;'> <div class='clr-effect-1'> <div class='clr-effect-2'> <div class='clr-effect-3'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div> </div> </div> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer21",
+                "elementName": "MusicPanda.Player21",
+                "style": {
+                    "top": 665,
+                    "left": 132,
+                    "width": 43,
+                    "height": 50,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-21' style='position: absolute;top:100%;left:43%;'> <div class='clr-effect-1'> <div class='clr-effect-2'> <div class='clr-effect-3'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div> </div> </div> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer22",
+                "elementName": "MusicPanda.Player22",
+                "style": {
+                    "top": 665,
+                    "left": 177,
+                    "width": 43,
+                    "height": 50,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-22' style='position: absolute;top:100%;left:48%;'> <div class='clr-effect-1'> <div class='clr-effect-2'> <div class='clr-effect-3'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div> </div> </div> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "MusicPandaPlayer23",
+                "elementName": "MusicPanda.Player23",
+                "style": {
+                    "top": 665,
+                    "left": 223,
+                    "width": 43,
+                    "height": 50,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  width='54' height='54' musicelem='1' triggermusic='1' class='componentElement player-23' style='position: absolute;top:100%;left:53%;'> <div class='clr-effect-1'> <div class='clr-effect-2'> <div class='clr-effect-3'> <audio controls class='iru-tiny-player' data-title='Sample Audio File'> <source src='[BASEURL]/panda_music/meooowwwwww-41110.mp3' type='audio/mpeg'> </audio> </div> </div> </div> </div>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

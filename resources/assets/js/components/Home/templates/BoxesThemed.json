@@ -1,0 +1,107 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Boxes",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 135,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "BoxThemed1",
+                "elementName": "Box.Themed1",
+                "style": {
+                    "top": -3,
+                    "left": -1,
+                    "width": 141,
+                    "height": 69,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='box-1 componentElement' width='550' height='250' style='position: absolute;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed2",
+                "elementName": "Box.Themed2",
+                "style": {
+                    "top": -3,
+                    "left": 141,
+                    "width": 141,
+                    "height": 69,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='box-2 componentElement' width='550' height='250'  style='position: absolute;left: 50%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed3",
+                "elementName": "Box.Themed3",
+                "style": {
+                    "top": 68,
+                    "left": -1,
+                    "width": 141,
+                    "height": 69,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='box-3 componentElement' width='550' height='250'  style='position: absolute;left:1%;top:35%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "BoxThemed4",
+                "elementName": "Box.Themed4",
+                "style": {
+                    "top": 68,
+                    "left": 141,
+                    "width": 141,
+                    "height": 69,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  class='box-4 componentElement' width='550' height='250'  style='position: absolute;left:50%;top:35%;'></div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "InteractiveSlider",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 1620,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+       "boxes": [
+            {
+                "name": "InteractiveAboutElegent",
+                "elementName": "Interactive.AboutElegent",
+                "style": {
+                    "top": 10,
+                    "left": 1,
+                    "width": 280,
+                    "height": 236,
+                    "zIndex": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider about_elegant componentElement' width='500' height='380' style='position: absolute;top:0;bottom: 0;left: 0;right: 0;max-width: 500px;margin: auto;height: 380px;background: #6b6b6b;'> <div class='owl-carousel owl-theme'> <div class='item'> <div class='Img_Wrap'> <img 'slider-images/1.jpg'> </div> <div class='slide_right_text slide_right_textbg-1'> <div class='slide_text_inner'> <h3 style='position: absolute;left: 0;top: 50px;margin-top: 0;'>Add Your Title</h3> <h5 style='position: absolute;left: 0;top: 80px;'>Your tagline fit here...</h5> <p style='position: absolute;left: 0; color: #fff; top: 110px;'>Tell customers more about you. Add a few words and a stunning pic to grab their attention and get them to click</p> </div> </div> <div class='upper_layer_img'> <img 'slider-images/2.jpg'> </div> </div> <div class='item'> <div class='Img_Wrap'> <img 'slider-images/3.jpg'> </div> <div class='slide_right_text slide_right_textbg-2'> <div class='slide_text_inner'> <h3 style='position: absolute;left: 0;top: 50px;margin-top: 0;'>Choose a Header</h3> <h5 style='position: absolute;left: 0;top: 120px;'>Now add here more info...</h5> <p style='position: absolute;left: 0;color: #fff;top: 150px;'>Tell customers more about you. Add a few words and a stunning pic to grab their attention and get them to click</p> </div> </div> <div class='upper_layer_img'> <img 'slider-images/4.jpg'> </div> </div> <div class='item'> <div class='Img_Wrap'> <img 'slider-images/2.jpg'> </div> <div class='slide_right_text slide_right_textbg-3'> <div class='slide_text_inner'> <h3 style='position: absolute;left: 0;top: 50px;margin-top: 0;'>Add Your Title</h3> <h5 style='position: absolute;left: 0;top: 80px;'>Your tagline fit here...</h5> <p style='position: absolute;color: #fff;left: 0;top: 110px;'>Tell customers more about you. Add a few words and a stunning pic to grab their attention and get them to click</p> </div> </div> <div class='upper_layer_img'> <img 'slider-images/1.jpg'> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "InteractiveAboutMoverShaker",
+                "elementName": "Interactive.AboutMoverShaker",
+                "style": {
+                    "top": 263,
+                    "left": 1,
+                    "width": 280,
+                    "height": 127,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider' style='position: absolute;top:0;bottom: 0;left: 0;right: 0;'> <div class='owl-carousel owl-theme'> <div class='item'> <img 'slider-images/1.jpg'> <div class='slider_text'> <h5>We are</h5> <h4>Mover and Shaker</h4> </div> </div> <div class='item'> <img 'slider-images/2.jpg'> <div class='slider_text'> <h5>Make</h5> <h4>It Happen</h4> </div> </div> <div class='item'> <img 'slider-images/3.jpg'> <div class='slider_text'> <h5>Share</h5> <h4>Your Passion</h4> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "InteractiveEventClassic",
+                "elementName": "Interactive.EventClassic",
+                "style": {
+                    "top": 410,
+                    "left": 1,
+                    "width": 280,
+                    "height": 202,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider event_classic componentElement' width='800' height='500' style='position: absolute;top:0;bottom: 0;left: 0;right: 0;max-width: 800px;margin: auto;background: #ebebeb;height: 500px;padding: 40px;'> <div class='owl-carousel owl-theme'> <div class='item'> <div class='slide_left_img'> <img 'intractive-img/event01.jpg'> </div> <div class='slider_text slide_right_txt '> <div style='padding: 0 80px;position: relative;height: 100%;'> <h5 style='position: absolute;left: 0;right: 0;top:80px;text-align: center;'>Title</h5> <h4 style='position: absolute;left: 0;right: 0;text-align: center;top: 180px;'>13/08/2012</h4> <p style='position: absolute;left: 0;right: 0;text-align: center;top: 260px;padding: 0 80px;'>Describe your event here. where's it happening, and when does it start?</p> <button type='button' style='position: absolute;left: 0;right: 0;top: 360px;margin: 0 auto; color: #fff;border-color: #fff;'>RSVP</button> </div> </div> </div> <div class='item'> <div class='slide_left_img'> <img 'intractive-img/event02.jpg'> </div> <div class='slider_text slide_right_txt slidebg1'> <div style='padding: 0 80px;position: relative;height: 100%;'> <h5 style='position: absolute;left: 0;right: 0;top:80px;text-align: center;'>Title</h5> <h4 style='position: absolute;left: 0;right: 0;text-align: center;top: 180px;'>13/08/2012</h4> <p style='position: absolute;left: 0;right: 0;text-align: center;top: 260px;padding: 0 80px;'>Describe your event here. where's it happening, and when does it start?</p> <button type='button' style='position: absolute;left: 0;right: 0;top: 360px;margin: 0 auto;color: #fff;border-color: #fff;'>RSVP</button> </div> </div> </div> <div class='item'> <div class='slide_left_img' style='float: none;width: 100%;'> <img 'intractive-img/event03.jpg'> </div> <div class='slider_text slide_right_txt slidebg2' style='position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;background: rgba(89, 194, 77, 0.5);height: 300px;'> <div style='padding: 0 80px;position: relative;height: 100%;'> <h5 style='position: absolute;left: 0;right: 0;top:60px;text-align: center;'>Title</h5> <h4 style='position: absolute;left: 0;right: 0;text-align: center;top: 110px;'>13/08/2012</h4> <button type='button' style='position: absolute;left: 0;right: 0;top: 210px;margin: 0 auto;color: #fff;border-color: #fff;'>RSVP</button> </div> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "InteractiveOurProductsMenswear",
+                "elementName": "Interactive.OurProductsMenswear",
+                "style": {
+                    "top": 633,
+                    "left": 1,
+                    "width": 280,
+                    "height": 127,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider componentElement' widht='100' height='100' style='position: absolute;top:0;bottom: 0;left: 0; width: 100%;'> <div class='owl-carousel owl-theme'> <div class='item'> <img 'slider-images/1.jpg'> <div class='slider_tex_Products'> <h4>Text Goes Here</h4> <button type='button'>View Collection</button> </div> </div> <div class='item'> <img 'slider-images/2.jpg'> <div class='slider_tex_Products Productsbg'> <h4>It Happen</h4> <h5>Make</h5> </div> </div> <div class='item'> <img 'slider-images/3.jpg'> <div class='slider_tex_Products Productsbg1'> <h5>Share</h5> <h4>Your Passion</h4> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "InteractivePortfolioPanorama",
+                "elementName": "Interactive.PortfolioPanorama",
+                "style": {
+                    "top": 762,
+                    "left": 1,
+                    "width": 280,
+                    "height": 127,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider componentElement' widht='100' height='100' style='position: absolute;top:0;bottom: 0;left: 0; width: 100%;'> <div class='owl-carousel owl-theme'> <div class='item'> <img 'slider-images/1.jpg'> <div class='slider_text'> <div class='title_box'> <h5>Title</h5> </div> </div> </div> <div class='item'> <img 'slider-images/2.jpg'> <div class='slider_text'> <div class='title_box bg1'> <h5>Title</h5> </div> </div> </div> <div class='item'> <img 'slider-images/3.jpg'> <div class='slider_text'> <div class='title_box bg2'> <h5>Title</h5> </div> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "InteractivePromoSpringSale",
+                "elementName": "Interactive.PromoSpringSale",
+                "style": {
+                    "top": 899,
+                    "left": 1,
+                    "width": 280,
+                    "height": 188,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider componentElement' width='800' height='100' style='position: absolute;top:0;bottom: 0;left: 20%; width: 100%; max-width: 800px;margin: auto;'> <div class='owl-carousel owl-theme'> <div class='item'> <div class='slide_left_img'> <img 'fashion/01.jpg'> </div> <div class='slider_text slide_right_txt'> <h5>Spring</h5> <h4>Sale</h4> <div class='upto'>Sale Upto 50%</div> <button type='button'>Buy me</button> </div> </div> <div class='item'> <div class='slide_left_img'> <img 'fashion/02.jpg'> </div> <div class='slider_text slide_right_txt slide_right_txt1'> <h5>Spring</h5> <h4>Sale</h4> <div class='upto upto1'>Sale Upto 50%</div> <button type='button' class='slider_text-btn'>Buy me</button> </div> </div> <div class='item'> <div class='slide_left_img'> <img 'fashion/03.jpg'> </div> <div class='slider_text slide_right_txt slide_right_txt2'> <h5>Spring</h5> <h4>Sale</h4> <div class='upto upto2'>Sale Upto 50%</div> <button type='button' class='slider_text-btn1'>Buy me</button> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "InteractiveTestimonialModern",
+                "elementName": "Interactive.TestimonialModern",
+                "style": {
+                    "top": 1105,
+                    "left": 1,
+                    "width": 280,
+                    "height": 170,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider testimonial_modern componentElement' width='100' height='100' style='position: absolute;top:0;bottom: 0;left: 0; width: 100%; height: 650px;'> <div class='owl-carousel owl-theme'> <div class='item'> <img style='height: 160%;' 'intractive-img/modern-slide01.jpg'> <div class='slider_text' style='top: 100px;left: 400px;'> <h5 style='position: absolute;left: 0;top: 0;'>What people say</h5> <div class='after_style' style='position: absolute;top: 35px;left: 0;'></div> <h4 style='position: absolute;top: 70px;left: 0;'>“Testimonials work great. Showing your reviews in quote marks has a powerful effect on customers and makes them more likely to trust you.” </h4> <p style='position: absolute;top: 280px;font-size: 18px;font-style: italic;'>— Name, Title</p> </div> </div> <div class='item'> <img 'intractive-img/modern-slide02.jpg'> <div class='slider_text' style='top: 100px;left: 900px;'> <h5 style='position: absolute;left: 0;top: 0;'>TITLE GOES HERE</h5> <div class='after_style' style='position: absolute;top: 35px;left: 0;'></div> <h4 style='position: absolute;top: 70px;left: 0;'>“Share the amazing things customers are saying about your business. Double click, or click Edit Text to make it yours.”​ </h4> <p style='position: absolute;top: 280px;font-size: 18px;font-style: italic;'>— Name, Title</p> </div> </div> <div class='item'> <img style='height: 165%' 'intractive-img/modern-slide03.jpg'> <div class='slider_text' style='top: 100px;left: 900px;'> <h5 style='position: absolute;left: 0;top: 0;'>TITLE GOES HERE</h5> <div class='after_style' style='position: absolute;top: 35px;left: 0;'></div> <h4 style='position: absolute;top: 70px;left: 0;'>“Share the amazing things customers are saying about your business. Double click, or click Edit Text to make it yours.” </h4> <p style='position: absolute;top: 280px;font-size: 18px;font-style: italic;'>— Name, Title</p> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "InteractiveTestimonialSlate",
+                "elementName": "Interactive.TestimonialSlate",
+                "style": {
+                    "top": 1282,
+                    "left": 1,
+                    "width": 280,
+                    "height": 303,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='interactive_slider testimonial_slate componentElement' width='500' height='380' style='position: absolute;top:0;bottom: 0;left: 0;right: 0;max-width: 500px;margin: auto;height: 380px;'> <div class='owl-carousel owl-theme'> <div class='item'> <div class='' style='background: url('images/intractive-img/slider_BG.jpg');background-size: cover;background-repeat: no-repeat;background-position: center;position: absolute;left: 0;right: 0;top: 0;bottom: 0; border-radius: 10px;'> <div style='position: absolute;border-radius: 10px;opacity: 0.8;top: 50px;left: 0;right:0;background: #fff;width: 80%;margin: auto;height: 370px;'> <div class='slider_title_box'> <h3 style='position: absolute;left: 0;right:0;top: 50px;color: #0c17de;'>Title goes here</h3> <h5 style='position: absolute;left: 0;right:0;top: 80px;'>Now add a bit more info here.</h5> <p style='position: absolute;left: 0;top: 190px;padding: 0 25px;'>customers are saying about your business. Double click, or click Edit Text to make it yours.”</p> </div> </div> </div> </div> <div class='item'> <div class='' style='background: url('images/intractive-img/slider_BG.jpg');background-size: cover;background-repeat: no-repeat;background-position: center;position: absolute;;left: 0;right: 0;top: 0;bottom: 0;'> <div style='position: absolute;border-radius: 10px;opacity: 0.8;top: 50px;left: 0;right:0;background: #fff;width: 80%;margin: auto;height: 370px;'> <div class='slider_title_box box2'> <h3 style='position: absolute;left: 0;right:0;top: 50px;color: #ffd614;'>Title goes here</h3> <h5 style='position: absolute;left: 0;right:0;top: 80px;'>Now add a bit more info here.</h5> <p style='position: absolute;left: 0;top: 190px;padding: 0 25px;'>customers are saying about your business. Double click, or click Edit Text to make it yours.”</p> </div> </div> </div> </div> <div class='item'> <div class='' style='background: url('images/intractive-img/slider_BG.jpg');background-size: cover;background-repeat: no-repeat;background-position: center;position: absolute;;left: 0;right: 0;top: 0;bottom: 0;'> <div style='position: absolute;border-radius: 10px;opacity: 0.8;top: 50px;left: 0;right:0;background: #fff;width: 80%;margin: auto;height: 370px;'> <div class='slider_title_box box3'> <h3 style='position: absolute;left: 0;right:0;top: 50px;color: #44f292;'>Title goes here</h3> <h5 style='position: absolute;left: 0;right:0;top: 80px;'>Now add a bit more info here.</h5> <p style='position: absolute;left: 0;top: 190px;padding: 0 25px;'>customers are saying about your business. Double click, or click Edit Text to make it yours.”</p> </div> </div> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

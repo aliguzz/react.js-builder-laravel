@@ -1,0 +1,107 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "LightBoxPromotion",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 735,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "LightBoxPromotionSectionOne",
+                "elementName": "LightBoxPromotion.SectionOne",
+                "style": {
+                    "top": 7,
+                    "left": 0,
+                    "width": 280,
+                    "height": 130,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section fullSizeElement='1' class='fullSizeElement promotion_sec componentElement' height='125' width='100' style='position: fixed;left: 0;bottom: 0; width: 100%;height: 125px;'> <div class='promotion_sec_one'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='40' style='position: absolute;left:932px;top: 0;height: 40px;width: 40px;'> <span class='bar'></span> <span class='bar'></span> </div> <h1 class='componentElement' height='40' width='800' style='position: absolute;left: 90px;top: 40px;text-align: center;width: 800px;height: 40px;'><span>50% Discount</span> on Summer Collection Items >></h1> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxPromotionSectionTwo",
+                "elementName": "LightBoxPromotion.SectionTwo",
+                "style": {
+                    "top": 140,
+                    "left": 0,
+                    "width": 280,
+                    "height": 170,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='promotion_sec sec-two componentElement' height='330' width='100' style='position: fixed;right:0;bottom: 0; width: 560px;height: 330px;'> <div class='promotion_sec_two'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='30' style='position: absolute;left: 500px;top: 0;height: 40px;width: 30px;'> <span class='bar'></span> <span class='bar'></span> </div> <h1 class='componentElement' height='50' width='540' style='position: absolute;left: 0;top: 50px;text-align: center;width: 540px;height: 50px;'>30% <span> Discount, </span></h1> <p class='componentElement' height='30' width='540' style='position: absolute;left: 0;top: 120px;text-align: center;width: 540px;height: 30px;'>Mover faster, Sale Gonna End Today</p> <button class='componentElement' height='44' width='170' type='button' style='position: absolute;left: 185px;top: 200px;width: 170px;height: 44px;'>Shop Now</button> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxPromotionSectionThree",
+                "elementName": "LightBoxPromotion.SectionThree",
+                "style": {
+                    "top": 310,
+                    "left": 0,
+                    "width": 280,
+                    "height": 155,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='promotion_sec sec_three componentElement' bakgroundsrc='[BASEURL]/element_images/lightbox-images/02.jpg' height='345' width='650' style='position: absolute;left: 165px;top: 200px; width: 650px;height: 345px;background: url('images/lightbox-promotion-img/02.jpg') no-repeat center;background-size: cover;margin-left: calc((100% - 980px) * 0.5);'> <div class='promotion_sec_three'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='40' style='position: absolute;left: 564px;top: 0;height: 40px;width: 40px;'> <span class='bar'></span> <span class='bar'></span> </div> <p class='componentElement' height='30' width='325' style='position: absolute;left: 152px;top: 90px;width: 325px;height: 30px;'>Submit Your Email and get flat 10% Discount</p> <form class='componentElement' height='44' width='450' style='position: absolute;left: 90px;top: 160px;width: 450px;height: 44px;'> <input type='email' placeholder='Email Address'> <button type='submit'>Send</button> </form> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "LightBoxPromotionSectionFour",
+                "elementName": "LightBoxPromotion.SectionFour",
+                "style": {
+                    "top": 464,
+                    "left": 0,
+                    "width": 280,
+                    "height": 255,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='promotion_sec componentElement' bakgroundsrc='[BASEURL]/element_images/lightbox-images/04.png' height='515' width='650' style='position: absolute;left: 165px;top: 200px; width: 650px;height: 515px;background: url('images/lightbox-promotion-img/04.png') no-repeat center;background-size: cover; margin-left: calc((100% - 980px) * 0.5);'> <div class='promotion_sec_six'> <div class='box_text'> <div class='Close_Btn componentElement' height='40' width='40' style='position: absolute;left: 582px;top: 0;height: 40px;width: 40px;'> <span class='bar'></span> <span class='bar'></span> </div> <h5 class='componentElement' height='35' width='82' style='position: absolute;left: 274px;top: 80px;width: 82px;height: 35px;'>Up To</h5> <h1 class='componentElement' height='100' width='410' style='position: absolute;left: 110px;top: 136px;width: 467px;height: 100px;'>50% Discount</h1> <p class='componentElement' height='35' width='400' style='position: absolute;left: 115px;top: 240px;width: 400px;height: 35px;'> on Summer Collection Items</p> <button class='componentElement' height='43' width='161' type='submit' style='position: absolute;left: 234px;top: 330px;width: 161px;height: 43px;'>Check It Out </button> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

@@ -1,0 +1,10 @@
+<?php namespace App;
+
+use Illuminate\Database\Eloquent\Model as Eloquent;
+
+class Audios extends Eloquent {
+
+    protected $primaryKey = 'id';
+
+    protected $fillable = ['user_id', 'display_name','file_name','created_at'];
+}

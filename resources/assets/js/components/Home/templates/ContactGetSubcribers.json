@@ -1,0 +1,127 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "ContactGetSubcribers",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 1065,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ContactGetSubcribersSectionOne",
+                "elementName": "ContactGetSubcribers.SectionOne",
+                "style": {
+                    "top": 7,
+                    "left": 0,
+                    "width": 280,
+                    "height": 175,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section deletable='1'  width='860' height='410'  class='componentElement event_sec' style='position: absolute;left: 0;top:0;width: 860px;height: 410px;'><div class='event_sec_one'><div class='img_wrap componentElement'><img src='[BASEURL]/element_images/event_images/01.jpg' alt=''></div><div class='event_detail componentElement' style='position: absolute;top: 103px;left: 0;text-align: center;width: 100%;'><h2 class='componentElement' style='position: absolute;left: 0;top: 0;width: 100%;'>MY EVENT</h2><p class='componentElement' style='position: absolute;left: 202px;top: 50px;width: 455px;'>22 Jun, 3:03 PM – 01:11 PM | Control Panda Office</p><a class='componentElement' style='position: absolute;left: 300px;top: 140px;width: 200px;' href='#'>Register Now</a></div></div>    </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactGetSubcribersSectionOne",
+                "elementName": "ContactGetSubcribers.SectionOne",
+                "style": {
+                    "top": 200,
+                    "left": 0,
+                    "width": 280,
+                    "height": 185,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='event_sec componentElement' width='900' height='580' style='position: absolute;left: 0;top: 0;width: 900px;height: 580px;'> <div class='event_sec_two'> <ul> <li> <div class='img_wrap'> <img src='[BASEURL]/element_images/event_images/03.jpg' alt=''> </div> <div class='event_detail'> <h2>Great Business Meetup</h2> <span>Mon, 09 Jan | Mountain View</span> <p> 09 Jan Mountain View 09-Jan-2023, 11:30 AM Mountain View, 500 Terry Francois Blvd, San Francisco</p> <a href='#' style='position: absolute;bottom: 35px;left: 50%;transform: translateX(-50%);'>Register Now</a> </div> </li> <li> <div class='img_wrap'> <img src='[BASEURL]/element_images/event_images/02.jpg' alt=''> </div> <div class='event_detail'> <h2>City Networking Good Event</h2> <span>Mon, 09 Jan | Mountain View</span> <p> 09 Jan Mountain View 09-Jan-2023, 11:30 AM Mountain View, 500 Terry Francois Blvd, San Francisco</p> <a href='#' style='position: absolute;bottom: 35px;left: 50%;transform: translateX(-50%);'>Register Now</a> </div> </li> <li> <div class='img_wrap'> <img src='[BASEURL]/element_images/event_images/01.jpg' alt=''> </div> <div class='event_detail'> <h2>Sunset Rooftop Party</h2> <span>Mon, 09 Jan | Mountain View</span> <p> 09 Jan Mountain View 09-Jan-2023, 11:30 AM Mountain View, 500 Terry Francois Blvd, San Francisco</p> <a href='#' style='position: absolute;bottom: 35px;left: 50%;transform: translateX(-50%);'>Register Now</a> </div> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactGetSubcribersSectionOne",
+                "elementName": "ContactGetSubcribers.SectionOne",
+                "style": {
+                    "top": 400,
+                    "left": 0,
+                    "width": 280,
+                    "height": 320,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='event_sec componentElement' height='1070' width='900' style='position: absolute;left: 0;right: 0;min-height: 1070px;min-width: 900px;width: 900px;height: 1070px;'> <div class='event_sec_three'> <ul> <li> <div class='img_wrap'> <img src='[BASEURL]/element_images/event_images/03.jpg' alt=''> </div> <div class='event_detail'> <span>Mon, 09 Jan | Mountain View</span> <h2>Great Business Meetup</h2> <a href='#'>Register Now</a> </div> </li> <li> <div class='img_wrap'> <img src='[BASEURL]/element_images/event_images/02.jpg' alt=''> </div> <div class='event_detail'> <span>Mon, 09 Jan | Mountain View</span> <h2>City Networking Good Event</h2> <a href='#'>Register Now</a> </div> </li> <li> <div class='img_wrap'> <img src='[BASEURL]/element_images/event_images/01.jpg' alt=''> </div> <div class='event_detail'> <span>Mon, 09 Jan | Mountain View</span> <h2>Sunset Rooftop Party</h2> <a href='#'>Register Now</a> </div> </li> </ul> </div> </section> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactGetSubcribersSectionOne",
+                "elementName": "ContactGetSubcribers.SectionOne",
+                "style": {
+                    "top": 737,
+                    "left": 0,
+                    "width": 280,
+                    "height": 150,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='event_sec componentElement' height='420' widht='920' style='position: absolute;left: 0;right: 0;min-height: 420px;min-width: 920px;width: 920px;height: auto;'> <div class='event_sec_four'> <ul> <li> <div class='table-cell'> <h2 class='title_head'>09 <b>Mon Jan</b> Great Business Meetup <i class='fa fa-angle-down'></i> <span>/&nbsp; Mountain View</span></h2> </div> <div class='table-cell'> <a href='#'>Register Now</a> </div> <p >09-Jan-2023, 11:30 AM1 1 <br> Mountain View, 500 Terry Francois Blvd, San Francisco</p> </li> <li> <div class='table-cell'> <h2 class='title_head'>09 <b>Mon Jan</b> City Networking Good Event <i class='fa fa-angle-down'></i> <span>/&nbsp; Flatiron District</span></h2> </div> <div class='table-cell'> <a href='#'>Register Now</a> </div> <p >09-Jan-2023, 11:30 AM1 1 <br> Flatiron District, 235 W 23rd St, New York</p> </li> <li> <div class='table-cell'> <h2 class='title_head'>17 <b>Mon Jan</b> Sunset Rooftop Party <i class='fa fa-angle-down'></i> <span>/&nbsp; West Village</span></h2> </div> <div class='table-cell'> <a href='#'>Register Now</a> </div> <p >09-Jan-2023, 11:30 AM1 1 <br> Mountain View, 500 Terry Francois Blvd, San Francisco</p> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactGetSubcribersSectionOne",
+                "elementName": "ContactGetSubcribers.SectionOne",
+                "style": {
+                    "top": 900,
+                    "left": 0,
+                    "width": 280,
+                    "height": 145,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": " <section class='event_sec componentElement' width='860' height='425' style='position: absolute;left: 0;right: 0;min-height: 425px;min-width: 860px;width: 860px;height: 425px;'> <div class='event_sec_five'> <ul> <li> <div class='event_detail'> <h2>Great Event</h2> <span>19 Jul, 7:15 PM – 11:15 PM | <br> Control Panda Office</span> <a href='#'>Register Now</a> </div> <div class='img_wrap'> <img src='[BASEURL]/element_images/event_images/01.jpg' alt=''> </div> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

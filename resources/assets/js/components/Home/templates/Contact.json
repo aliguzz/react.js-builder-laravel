@@ -1,0 +1,334 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Contact",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 2755,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ContactSectionOne",
+                "elementName": "Contact.SectionOne",
+                "style": {
+                    "top": 0,
+                    "left": 0,
+                    "width": 280,
+                    "height": 137,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='contact_sec componentElement' style='position: absolute;left: 0;right: 0;width: 400px;height: 210px;'><div class='contact_form_one'><h4 style='font-family: 'DINNeuzeitGrotesk-BoldCond';'>Join our mailing list</h4><h4 style='font-family: 'DINNeuzeitGrotesk-BoldCond';'>Never miss an update</h4><form action='[SUBMIT_URL]' method='POST'><input type='hidden' name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/><input type='email' placeholder='Email Address' name='email'><button type='submit' class='subscribe_btn'>Subscribe Now</button></form></div>    </section> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactSectionTwo",
+                "elementName": "Contact.SectionTwo",
+                "style": {
+                    "top": 155,
+                    "left": 0,
+                    "width": 278,
+                    "height": 173,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec contact_form_Two_Wrap cnt-f-two componentElement' width='600' height='370' style='position: absolute;left: 0;right: 0;width: 600px;height: 370px;'><div class='contact_form_two'><form action='[SUBMIT_URL]' method='POST'><div class='field-form'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <i class='fa fa-user'></i> <input type='text' placeholder='What's Your Name? *'></div><div class='field-form'><i class='fa fa-envelope-o'></i><input type='email' placeholder='What's Your Email? *'></div><div class='field-form'><i class='fa fa-phone'></i><input type='email' placeholder='What's Your Number?'></div><div class='field-form'><i class='fa fa-comments-o'></i><textarea placeholder='How Can We Help?' rows='6'></textarea></div><button type='submit' class='submit'>Submit</button></form></div>    </section> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactSectionThree",
+                "elementName": "Contact.SectionThree",
+                "style": {
+                    "top": 346,
+                    "left": 0,
+                    "width": 278,
+                    "height": 176,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec contact_form_Three_Wrap  componentElement' width='600' height='450' style='position: absolute;left: 0;right: 0;width: 600px;height: 450px;'><div class='contact_form_three'><form action='[SUBMIT_URL]' method='POST'><div class='cols_wrap'><div class='col-6'><label>Your Name *</label><input type='text' placeholder=''></div><div class='col-6'><label>Your Email *</label><input type='text' placeholder=''></div></div><label>Your Phone No.</label><input type='email' placeholder=''><label>Ask Us Anything</label><textarea placeholder='' rows='5'></textarea><button type='submit' class='submit'>Get in Touch</button></form></div>    </section> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactSectionFour",
+                "elementName": "Contact.SectionFour",
+                "style": {
+                    "top": 525,
+                    "left": 0,
+                    "width": 278,
+                    "height": 162,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section class='contact_sec contact_form_Four_Wrap componentElement' height='320' width='600' style='position: absolute;left: 0;right: 0;width: 600px;height: 320px;'><div class='contact_form_four'><form action='[SUBMIT_URL]' method='POST'><div class='cols_wrap'><div class='col-6'><input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/><i class='fa fa-user'></i><input type='text' placeholder='your Name *'></div><div class='col-6'><i class='fa fa-envelope-o'></i><input type='text' placeholder='your email *'></div><div class='col-12'><i class='fa fa-phone'></i><input type='email' placeholder='your phone no.'></div><div class='col-12'><i class='fa fa-comments-o'></i><textarea placeholder='Ask us anything...' rows='5'></textarea></div></div><button type='submit' class='submit'>Submit now</button></form></div>    </section> ",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ContactSectionFive",
+                "elementName": "Contact.SectionFive",
+                "style": {
+                    "top": 700,
+                    "left": 0,
+                    "width": 280,
+                    "height": 162,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec contact_form_Five_Wrap componentElement' width='600' height='325' style='position: absolute;left: 0;right: 0;width: 600px;height: 325px;'> <div class='contact_form_five'> <form action='[SUBMIT_URL]' method='POST'> <div class='cols_wrap'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <div class='col-6'> <label for='Name' class='floatLabel'>Name</label> <input type='text' placeholder='your Name *'> </div> <div class='col-6 secondCol'> <label for='Name' class='floatLabel'>Email</label> <input type='text' placeholder='your email *'> </div> <div class='col-12'> <label for='Name' class='floatLabel'>Phone</label> <input type='email' placeholder='Your Phone No.'> </div> <div class='col-12'> <label for='Name' class='floatLabel'>Comment</label> <textarea placeholder='Special request?' rows='5'></textarea> </div> </div> <button type='submit' class='submit'>RSVP</button> </form> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "ContactSectionSix",
+                "elementName": "Contact.SectionSix",
+                "style": {
+                    "top": 880,
+                    "left": 0,
+                    "width": 280,
+                    "height": 155,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section class='contact_sec contact_form_Six_Wrap componentElement ' width='275' height='350' style='position: absolute;left: 0;width: 600px;height: 350px;'> <div class='contact_form_six'> <form action='[SUBMIT_URL]' method='POST'> <div class='cols_wrap'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <div class='col-6'> <input type='text' placeholder='your Name *'> </div> <div class='col-6 secondCol'> <input type='text' placeholder='your email *'> </div> </div> <input type='email' placeholder='Your Phone No.'> <textarea placeholder='Special request?' rows='5'></textarea> <button type='submit' class='submit'>Reply</button> </form> </div> </section> ",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionSeven",
+                "elementName": "Contact.SectionSeven",
+                "style": {
+                    "top": 1050,
+                    "left": 0,
+                    "width": 280,
+                    "height": 155,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' width='600' height='325' style='position: absolute;left: 0;right: 0;top:0;width: 600px;height: 325px;'> <div class='contact_form_seven'> <form action='[SUBMIT_URL]' method='POST'> <div class='group-form'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <i class='material-icons prefix fa fa-user'></i> <input type='text' placeholder='Name *'> </div> <div class='group-form'> <i class='material-icons prefix fa fa-envelope-o'></i> <input type='email' placeholder='Email *'> </div> <div class='group-form'> <i class='material-icons prefix fa fa-address-card'></i> <input type='text' placeholder='Street Addresss'> </div> <div class='group-form'> <i class='material-icons prefix fa fa-building'></i> <input type='text' placeholder='City'> </div> <div class='group-form'> <i class='material-icons prefix fa fa-comments-o'></i> <textarea placeholder='Add a message' rows='5'></textarea> </div> <button type='submit' class='submit componentElement' style='position: absolute;left: 16%;transform: translateX(-50%);bottom: 0;'>Apply</button> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionEight",
+                "elementName": "Contact.SectionEight",
+                "style": {
+                    "top": 1220,
+                    "left": 0,
+                    "width": 280,
+                    "height": 185,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec contact_form_Eight_Wrap componentElement' width='600' height='450' style='position: absolute;left: 0;top:0;width: 600px;height: 450px;'> <div class='contact_form_eight'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <label>What's your name?*</label> <input type='text'> <label>What's your email?*</label> <input type='email'> <label>What's on your mind? Let us know</label> <textarea rows='5'></textarea> <button type='submit' class='submit'>Send</button> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionNine",
+                "elementName": "Contact.SectionNine",
+                "style": {
+                    "top": 1420,
+                    "left": 0,
+                    "width": 280,
+                    "height": 165,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec contact_form_Nine_Wrap componentElement' width='600' height='350' style='position: absolute;left: 0;top:0;width: 600px;height: 350px;'> <div class='contact_form_nine'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <div class='cols_wrap'> <div class='col-6'> <input type='text' placeholder='Your Name *'> </div> <div class='col-6'> <input type='email' placeholder='Your Email *'> </div> </div> <input type='text' placeholder='Your Phone'> <input type='text' placeholder='Which pizza?'> <textarea rows='5' placeholder='Any Special Requests?'></textarea> <button type='submit' class='submit' style='position: absolute;left: 50%;transform: translateX(-50%);bottom: 0;'>Order Now</button> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionTen",
+                "elementName": "Contact.SectionTen",
+                "style": {
+                    "top": 1600,
+                    "left": 0,
+                    "width": 280,
+                    "height": 145,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' height='270' width='600' style='position: absolute;left: 0;right: 0;top:0;width: 600px;height: 270px;'> <div class='contact_form_ten'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <div class='cols_wrap'> <div class='col-6'> <input type='text' placeholder='Name'> </div> <div class='col-6'> <input type='email' placeholder='Email *'> </div> </div> <input type='text' placeholder='Age'> <textarea rows='5' placeholder='Write your answer here'></textarea> <button type='submit' class='submit'>Send</button> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionEleven",
+                "elementName": "Contact.SectionEleven",
+                "style": {
+                    "top": 1770,
+                    "left": 1,
+                    "width": 276,
+                    "height": 169,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' height='330' width='600' style='position: absolute;left: 0;right: 0;top:0;width: 600px;height: 330px;'> <div class='contact_form_eleven'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <label>Your name*</label> <input type='text'> <label>your email*</label> <input type='email'> <label>tell us how we are doing</label> <textarea rows='6'></textarea> <button type='submit' class='submit'>Send it</button> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionTwelve",
+                "elementName": "Contact.SectionTwelve",
+                "style": {
+                    "top": 1960,
+                    "left": 0,
+                    "width": 280,
+                    "height": 160,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' width='600' height='310' style='position: absolute;left: 0;right: 0;top:0;width: 600px;height: 300px;'> <div class='contact_form_twelve'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <input type='text' placeholder='Name *'> <input type='email' placeholder='Email *'> <input type='text' placeholder='Business'> <textarea placeholder='Tell us more about your project' rows='5'></textarea> <button type='submit' class='submit' style='position: absolute;left: 13%;transform: translateX(-50%);bottom: 0;'>Get a Quote</button> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionThirteen",
+                "elementName": "Contact.SectionThirteen",
+                "style": {
+                    "top": 2140,
+                    "left": 0,
+                    "width": 280,
+                    "height": 138,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' height='300' width='570' style='position: absolute;left: 0;right: 0;top:0;width: 570px;height: 300px;'> <div class='contact_form_thirteen'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <ul> <li> <div class='table-cell'> <label>Name *</label> </div> <div class='table-cell'> <input type='text'> </div> </li> <li> <div class='table-cell'> <label>Email *</label> </div> <div class='table-cell'> <input type='email'> </div> </li> <li> <div class='table-cell'> <label>Phone:</label> </div> <div class='table-cell'> <input type='text'> </div> </li> <li> <div class='table-cell'> <label>Message:</label> </div> <div class='table-cell'> <textarea rows='6'></textarea> </div> </li> <button type='submit' class='submit'>Get in touch</button> </ul> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionFourteen",
+                "elementName": "Contact.SectionFourteen",
+                "style": {
+                    "top": 2295,
+                    "left": 0,
+                    "width": 280,
+                    "height": 150,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' height='290' width='600' style='position: absolute;left: 0;right: 0;top:0;width: 600px; height: 290px;'> <div class='contact_form_fourteen'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <div class='cols_wrap'> <div class='col-6'> <input type='text' placeholder='Your Name *'> <input type='text' placeholder='Company*'> <input type='email' placeholder='Email *'> <input type='text' placeholder='Phone*'> </div> <div class='col-6'> <textarea rows='5' placeholder='place your order'></textarea> </div> </div> <button type='submit' class='submit'>Order Now</button> </form></div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionFifteen",
+                "elementName": "Contact.SectionFifteen",
+                "style": {
+                    "top": 2465,
+                    "left": 0,
+                    "width": 280,
+                    "height": 220,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' widht='400' height='270' style='position: absolute;left: 0;right: 0;top:0;width: 400px;height: 270px;'> <div class='contact_form_fifteen'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <input type='text' placeholder='Contact Email *'> <input type='text' placeholder='1st Guest'> <input type='email' placeholder='2st Guest'> <textarea rows='5' placeholder='Add a Note'></textarea> <button type='submit' class='submit'>Reserve</button> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+            ,{
+                "name": "ContactSectionSixteen",
+                "elementName": "Contact.SectionSixteen",
+                "style": {
+                    "top": 2700,
+                    "left": 0,
+                    "width": 280,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='contact_sec componentElement' width='620' height='270' style='position: absolute;left: 0;right: 0;top:0;width: 620px;height: 270px;'> <div class='contact_form_sixteen'> <form action='[SUBMIT_URL]' method='POST'> <input type='hidden'name='page_name' value='[PAGE_NAME]'/> <input type='hidden' name='project_id' value='[PROJECT_ID]'/> <input type='hidden' name='form_name' value='[FORM_NAME]'/> <ul> <li> <div class='table-cell'> <input type='text' placeholder='Contact Email *'> </div> <div class='table-cell'> <button type='submit' class='submit'>Reserve</button> </div> </li> </ul> </form> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

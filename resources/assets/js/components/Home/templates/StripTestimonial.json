@@ -1,0 +1,126 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "StripTestimonial",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 650,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "TestimonialSectionOne",
+                "elementName": "Testimonial.SectionOne",
+                "style": {
+                    "top": 0,
+                    "left": 0,
+                    "width": 280,
+                    "height": 80,
+                    "transform": {
+ 
+                    }
+                },
+                "html": "<section class='testimonial_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='450' width='100' style='position: absolute;left: 0;top: 0;height: 450px;width: 100%;'> <div class='testimonial_sec_one'> <ul> <li> <div class='testimonial_box_wrap'> <div class='img_wrap'> <img src='[BASEURL]/element_images/testmonial_images/01.jpg' alt=''> </div> </div> </li> <li> <div class='testimonial_box_wrap'> <p class='componentElement' height='240' width='264' style='position: absolute;left: 109px;top: 100px;width: 264px;height: 240px;'>“Testimonials work great. Showing your reviews in quotes has a powerful effect on customers and makes them trust you.” </p> </div> </li> <li> <div class='testimonial_box_wrap'> <div class='img_wrap'> <img src='[BASEURL]/element_images/testmonial_images/02.jpg' alt=''> </div> </div> </li> <li> <div class='testimonial_box_wrap'> <p class='componentElement' height='240' width='264' style='position: absolute;left: 109px;top: 100px;width: 264px;height: 240px;'>“Testimonials work great. Showing your reviews in quotes has a powerful effect on customers and makes them trust you.” </p> </div> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "TestimonialSectionTwo",
+                "elementName": "Testimonial.SectionTwo",
+                "style": {
+                    "top": 79,
+                    "left": 0,
+                    "width": 280,
+                    "height": 124,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='testimonial_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='665' width='100' bakgroundsrc='[BASEURL]/element_images/testmonial_images/03.jpg'  style='position: absolute;left: 0;right: 0;top: 0;height: 665px;background-position:center;background-repeat:no-repeat;background-size: cover;'> <div class='testimonial_sec_two' style='position: absolute;left: 0;right: 0;width: 100%;height: 100%;margin: 0 auto;z-index: 999;'> <ul> <li> <div class='img_wrap componentElement' height='200' width='200' style='position: absolute;left: 217px;top: 80px;height: 200px;width: 200px;'> <img src='[BASEURL]/element_images/testmonial_images/04.jpg' alt=''> </div> <h3 class='name componentElement' height='31' width='100' style='position: absolute;left: 0;top: 330px;height: 31px;width: 100%'>Name, Title</h3> <p class='componentElement' height='120' width='300' style='position: absolute;left: 167px;top: 390px;width: 300px;height: 120px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p> <i height='30' width='28' class='fa fa-quote-right componentElement' style=' position: absolute;left: 303px;top: 520px;width: 28px;height: 30px;'></i> </li> <li> <div class='img_wrap componentElement' height='200' width='200' style='position: absolute;left: 217px;top: 80px;height: 200px;width: 200px;'> <img src='[BASEURL]/element_images/testmonial_images/05.jpg' alt=''> </div> <h3 class='name componentElement' height='31' width='100' style='position: absolute;left: 0;top: 330px;height: 31px;width: 100%'>Name, Title</h3> <p class='componentElement' height='120' width='300' style='position: absolute;left: 167px;top: 390px;width: 300px;height: 120px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p> <i height='30' width='28' class='fa fa-quote-right componentElement' style=' position: absolute;left: 303px;top: 520px;width: 28px;height: 30px;'></i> </li> <li> <div class='img_wrap componentElement' height='200' width='200' style='position: absolute;left: 217px;top: 80px;height: 200px;width: 200px;'> <img src='[BASEURL]/element_images/testmonial_images/06.jpg' alt=''> </div> <h3 class='name componentElement' height='31' width='100' style='position: absolute;left: 0;top: 330px;height: 31px;width: 100%'>Name, Title</h3> <p class='componentElement' height='120' width='300' style='position: absolute;left: 167px;top: 390px;width: 300px;height: 120px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p> <i height='30' width='28' class='fa fa-quote-right componentElement' style=' position: absolute;left: 303px;top: 520px;width: 28px;height: 30px;'></i> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "TestimonialSectionThree",
+                "elementName": "Testimonial.SectionThree",
+                "style": {
+                    "top": 204,
+                    "left": 0,
+                    "width": 280,
+                    "height": 150,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='testimonial_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='630' width='100' style='position: absolute;left: 0;top: 0;height: 630px;width:100%;background: #f4ff61;'> <div class='testimonial_sec_three' style='position: absolute;left: 0;height: 100%;width: 980px;margin-left: calc((100% - 980px) * 0.5)'> <h1 class='componentElement' height='75' width='485' style='position: absolute;left: 248px;z-index: 99;top: 50px;width: 485px;height: 75px;'>WHAT PEOPLE SAY</h1> <ul class='componentElement' height='630' width='980' style='position: absolute;left: 0;width: 980px;top: 180px;height: 630px;'> <li> <div class='img_wrap' > <img src='[BASEURL]/element_images/testmonial_images/07.jpg' alt=''> </div> <div class='overlay' style='position: absolute;left: 0;right: 0;top: 0;bottom: 0;'> <h3 class='name componentElement' height='20' width='100' style='position: absolute;left: 0;top: 60px;height: 20px;width: 100%;'>Name, Title</h3> <p class='componentElement' height='150' width='250' style='position: absolute;left: 28px;top: 110px;height: 150px;width: 250px;'>Share the amazing things customers are saying about your business. Double click, or click Edit Text to make it yours.</p> <i class='fa fa-quote-right componentElement' height='30' width='28' style='position: absolute;left: 140px;top: 270px;width: 28px;height: 30px;'></i> </div> </li> <li> <div class='img_wrap' > <img src='[BASEURL]/element_images/testmonial_images/08.jpg' alt=''> </div> <div class='overlay' style='position: absolute;left: 0;right: 0;top: 0;bottom: 0;'> <h3 class='name componentElement' height='20' width='100' style='position: absolute;left: 0;top: 60px;height: 20px;width: 100%;'>Name, Title</h3> <p class='componentElement' height='150' width='250' style='position: absolute;left: 28px;top: 110px;height: 150px;width: 250px;'>Share the amazing things customers are saying about your business. Double click, or click Edit Text to make it yours.</p> <i class='fa fa-quote-right componentElement' height='30' width='28' style='position: absolute;left: 140px;top: 270px;width: 28px;height: 30px;'></i> </div> </li> <li> <div class='img_wrap' > <img src='[BASEURL]/element_images/testmonial_images/09.jpg' alt=''> </div> <div class='overlay' style='position: absolute;left: 0;right: 0;top: 0;bottom: 0;'> <h3 class='name componentElement' height='20' width='100' style='position: absolute;left: 0;top: 60px;height: 20px;width: 100%;'>Name, Title</h3> <p class='componentElement' height='150' width='250' style='position: absolute;left: 28px;top: 110px;height: 150px;width: 250px;'>Share the amazing things customers are saying about your business. Double click, or click Edit Text to make it yours.</p> <i class='fa fa-quote-right componentElement' height='30' width='28' style='position: absolute;left: 140px;top: 270px;width: 28px;height: 30px;'></i> </div> </li> </ul> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "TestimonialSectionFour",
+                "elementName": "Testimonial.SectionFour",
+                "style": {
+                    "top": 357,
+                    "left": 0,
+                    "width": 280,
+                    "height": 130,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='testimonial_sec_wrap componentElement fullSizeElement' fullSizeElement='1' style='position: absolute;left: 0;top: 0;height: 660px;width:100%;'> <div class='testimonial_sec_four'> <div class='inner_box'> <img src='[BASEURL]/element_images/testmonial_images/10.jpg' alt=''> </div> <div class='inner_box detail'> <i class='fa fa-quote-left componentElement' style='position: absolute;left: 250px;top: 150px;'></i> <h2 class='componentElement' style='position: absolute;left: 250px;top: 200px;'>Share the amazing things customers are saying about your business. Double click, or click Edit Text to make it yours.</h2> <p class='componentElement' style='position: absolute;left: 250px;top: 400px;'>Name, Title</p> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "TestimonialSectionFive",
+                "elementName": "Testimonial.SectionFive",
+                "style": {
+                    "top": 493,
+                    "left": 0,
+                    "width": 280,
+                    "height": 162,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='testimonial_sec_wrap componentElement fullSizeElement ' fullSizeElement='1' height='660' width='100' style='position: absolute;left: 0;top: 0;height: 660px;width: 100%;background: #795548;'> <div class='testimonial_sec_five' style='position: absolute;left: 0;right: 0;top: 0;height: 660px;width: 980px;margin-left: calc((100% - 980px) * 0.5)'> <h1 class='componentElement' height='70' width='451' style='position: absolute;left: 265px;top: 100px;width: 451px;height: 70px;'>TESTIMONIALS</h1> <p class='componentElement' height='60' width='490' style='position: absolute;left: 245px;top: 230px;width: 490px;height: 60px;'>“DOUBLE CLICK HERE OR CLICK EDIT TEXT TO ADD SOME POSITIVE FEEDBACK ABOUT YOUR SERVICES'</p> <span class='componentElement' height='22' width='142' style='position: absolute;left: 419px;top: 310px;width: 142px;height: 22px;'>NAME / JOB / TITLE</span> <p class='componentElement' height='60' width='490' style='position: absolute;left: 245px;top: 380px;width: 490px;height: 60px;'>“DOUBLE CLICK HERE OR CLICK EDIT TEXT TO ADD SOME POSITIVE FEEDBACK ABOUT YOUR SERVICES'</p> <span class='componentElement' height='22' width='142' style='position: absolute;left: 419px;top: 460px;width: 142px;height: 22px;'>NAME / JOB / TITLE</span> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

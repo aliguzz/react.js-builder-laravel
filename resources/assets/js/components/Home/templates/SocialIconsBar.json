@@ -1,0 +1,127 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Gallary",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 270,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [
+            {
+                "name": "SocialIconsBar4",
+                "elementName": "SocialIcons.Bar4",
+                "style": {
+                    "top": 5,
+                    "left": 0,
+                    "width": 270,
+                    "height": 45,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='social_sqaure_wrap componentElement' socialbarmain='1' style='position: absolute;top: 60px;left: 10px;'> <a href='#' class='facebook_square' socialbar='1' facebook='1'><i class='fa fa-facebook'></i></a> <a href='#' class='twitter_square' socialbar='1' twitter='1'><i class='fa fa-twitter'></i></a> <a href='#' class='googlePlus_square' socialbar='1' googleplus='1'><i class='fa fa-google-plus'></i></a> <a href='#' class='youtube_square' socialbar='1' youtube='1'><i class='fa fa-youtube'></i></a> <a href='#' class='pinterest_square' socialbar='1' pinterest='1'><i class='fa fa-pinterest'></i></a> <a href='#' class='instagram_square' socialbar='1' instagram='1'><i class='fa fa-instagram'></i></a> </div> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "SocialIconsBar5",
+                "elementName": "SocialIcons.Bar5",
+                "style": {
+                    "top": 60,
+                    "left": 0,
+                    "width": 280,
+                    "height": 55,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='social_round_wrap componentElement' socialbarmain='1' style='position: absolute;top: 120px;left: 10px;'> <a href='#' class='facebook_round' socialbar='1' facebook='1'><i class='fa fa-facebook'></i></a> <a href='#' class='twitter_round' socialbar='1' twitter='1'><i class='fa fa-twitter'></i></a> <a href='#' class='googlePlus_round' socialbar='1' googleplus='1'><i class='fa fa-google-plus'></i></a> <a href='#' class='youtube_round' socialbar='1' youtube='1'><i class='fa fa-youtube'></i></a> <a href='#' class='pinterest_round' socialbar='1' pinterest='1'><i class='fa fa-pinterest'></i></a> <a href='#' class='instagram_round' socialbar='1' instagram='1'><i class='fa fa-instagram'></i></a> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "SocialIconsBar6",
+                "elementName": "SocialIcons.Bar6",
+                "style": {
+                    "top": 120,
+                    "left": 0,
+                    "width": 275,
+                    "height": 50,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='social_shadow_style componentElement' socialbarmain='1' style='position: absolute;top: 190px;left: 10px;'> <a href='#' class='facebook' socialbar='1' facebook='1'><i class='fa fa-facebook'></i></a> <a href='#' class='twitter' socialbar='1' twitter='1'><i class='fa fa-twitter'></i></a> <a href='#' class='googlePlus' socialbar='1' googleplus='1'><i class='fa fa-google-plus'></i></a> <a href='#' class='youtube' socialbar='1' youtube='1'><i class='fa fa-youtube'></i></a> <a href='#' class='pinterest' socialbar='1' pinterest='1'><i class='fa fa-pinterest'></i></a> <a href='#' class='linkedin' socialbar='1' linkedin='1'><i class='fa fa-linkedin'></i></a> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "SocialIconsBar7",
+                "elementName": "SocialIcons.Bar7",
+                "style": {
+                    "top": 180,
+                    "left": 0,
+                    "width": 240,
+                    "height": 37,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='social_default_color componentElement' socialbarmain='1' style='position: absolute;top: 260px;left: 10px;'> <a href='#' class='facebook' socialbar='1' facebook='1'><i class='fa fa-facebook'></i></a> <a href='#' class='twitter' socialbar='1' twitter='1'><i class='fa fa-twitter'></i></a> <a href='#' class='googlePlus' socialbar='1' googleplus='1'><i class='fa fa-google-plus'></i></a> <a href='#' class='youtube' socialbar='1' youtube='1'><i class='fa fa-youtube'></i></a> <a href='#' class='pinterest' socialbar='1' pinterest='1'><i class='fa fa-pinterest'></i></a> <a href='#' class='instagram' socialbar='1' instagram='1'><i class='fa fa-instagram'></i></a> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "SocialIconsBarMessenger",
+                "elementName": "SocialIcons.BarMessenger",
+                "style": {
+                    "top": 217,
+                    "left": 0,
+                    "width": 120,
+                    "height": 41,
+                    "transform": {
+
+                    }
+                },
+                "html": "<a href='[MESSAGEUSFBMESSENGER]' fbmessenger='1' target='_blank' class='Message-btn componentElement'><svg version='1.1' id='Capa_1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 512.05 512.05' style='enable-background:new 0 0 512.05 512.05; width: 17px; position: relative; top: 3px;' xml:space='preserve'><path style=' fill:#2196F3;' d='M256.025,0.05C117.67-2.678,3.184,107.038,0.025,245.383c0.361,70.423,31.544,137.157,85.333,182.613v73.387c0,5.891,4.776,10.667,10.667,10.667c1.999,0,3.958-0.562,5.653-1.621l59.456-37.141c30.292,11.586,62.459,17.494,94.891,17.429c138.355,2.728,252.841-106.988,256-245.333C508.866,107.038,394.38-2.678,256.025,0.05z'/><path style='fill:#FAFAFA;' d='M424.558,174.983c-3.174-4.254-8.993-5.527-13.653-2.987l-110.933,60.48l-69.013-59.179c-4.232-3.628-10.544-3.387-14.485,0.555l-128,128c-4.153,4.178-4.133,10.932,0.046,15.085c3.341,3.321,8.464,4.057,12.605,1.811l110.933-60.48l69.077,59.2c4.232,3.628,10.544,3.387,14.485-0.555l128-128C427.35,185.148,427.75,179.215,424.558,174.983z'/><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g><g></g></svg> Send Message</a>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

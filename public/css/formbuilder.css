@@ -1,0 +1,24 @@
+.template-textarea-wrap {
+  display: block !important;
+}
+
+.form-rendered .build-wrap {
+  display: none;
+}
+
+.render-wrap {
+  display: none;
+}
+
+.form-rendered .render-wrap {
+  display: block;
+}
+
+#edit-form {
+  display: none;
+  float: right;
+}
+
+.form-rendered #edit-form {
+  display: block;
+}

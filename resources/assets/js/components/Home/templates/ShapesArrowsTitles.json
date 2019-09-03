@@ -1,0 +1,1171 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Shapes",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 544,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ShapesArrows1",
+                "elementName": "Shapes.Arrows1",
+                "style": {
+                    "top": 9,
+                    "left": 12,
+                    "width": 26,
+                    "height": 42,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"62.41419982910156 7.193414688110352 56.116600036621094 189.11758422851562\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M115.413 196.311a3.118 3.118 0 0 1-2.742-1.627l-49.875-91.441a3.11 3.11 0 0 1 0-2.986L112.67 8.819a3.122 3.122 0 0 1 4.232-1.246 3.118 3.118 0 0 1 1.246 4.232L69.087 101.75l49.062 89.948a3.118 3.118 0 0 1-2.736 4.613z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows2",
+                "elementName": "Shapes.Arrows2",
+                "style": {
+                    "top": 9,
+                    "left": 59,
+                    "width": 26,
+                    "height": 42,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:35%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"62.41419982910156 7.193414688110352 56.116600036621094 189.11758422851562\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M115.413 196.311a3.118 3.118 0 0 1-2.742-1.627l-49.875-91.441a3.11 3.11 0 0 1 0-2.986L112.67 8.819a3.122 3.122 0 0 1 4.232-1.246 3.118 3.118 0 0 1 1.246 4.232L69.087 101.75l49.062 89.948a3.118 3.118 0 0 1-2.736 4.613z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows3",
+                "elementName": "Shapes.Arrows3",
+                "style": {
+                    "top": 9,
+                    "left": 95,
+                    "width": 44,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"symbol-3\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:40%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"13.538254737854004 9.013167381286621 179.1625213623047 84.59596252441406\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M189.808 62.082c-.469 0-.944-.113-1.385-.356L103.12 15.2 17.817 61.726a2.883 2.883 0 0 1-3.925-1.153 2.887 2.887 0 0 1 1.156-3.922l86.688-47.286a2.9 2.9 0 0 1 2.769 0l86.688 47.286a2.886 2.886 0 0 1 1.153 3.922 2.874 2.874 0 0 1-2.538 1.509z\"><\/path> <path d=\"M189.808 93.608c-.469 0-.944-.113-1.385-.356L103.12 46.723 17.817 93.252a2.883 2.883 0 0 1-3.925-1.153 2.887 2.887 0 0 1 1.156-3.922l86.688-47.289a2.9 2.9 0 0 1 2.769 0l86.688 47.289a2.886 2.886 0 0 1 1.153 3.922 2.874 2.874 0 0 1-2.538 1.509z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows4",
+                "elementName": "Shapes.Arrows4",
+                "style": {
+                    "top": 9,
+                    "left": 144,
+                    "width": 44,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"symbol-4\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:45%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"13.538254737854004 9.013167381286621 179.1625213623047 84.59596252441406\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M189.808 62.082c-.469 0-.944-.113-1.385-.356L103.12 15.2 17.817 61.726a2.883 2.883 0 0 1-3.925-1.153 2.887 2.887 0 0 1 1.156-3.922l86.688-47.286a2.9 2.9 0 0 1 2.769 0l86.688 47.286a2.886 2.886 0 0 1 1.153 3.922 2.874 2.874 0 0 1-2.538 1.509z\"><\/path> <path d=\"M189.808 93.608c-.469 0-.944-.113-1.385-.356L103.12 46.723 17.817 93.252a2.883 2.883 0 0 1-3.925-1.153 2.887 2.887 0 0 1 1.156-3.922l86.688-47.289a2.9 2.9 0 0 1 2.769 0l86.688 47.289a2.886 2.886 0 0 1 1.153 3.922 2.874 2.874 0 0 1-2.538 1.509z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows5",
+                "elementName": "Shapes.Arrows5",
+                "style": {
+                    "top": 7,
+                    "left": 193,
+                    "width": 37,
+                    "height": 42,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:53%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"45.87022399902344 4.749670028686523 111.49113464355469 192.6333465576172\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M156.124 46.421L103.09 5.431a3.245 3.245 0 0 0-4.003.019L47.109 46.44a3.252 3.252 0 0 0-.54 4.568c1.112 1.411 3.233 1.655 4.644.54L98 14.711V194.13c0 1.798 1.202 3.253 3 3.253s3-1.455 3-3.253V14.63l47.969 36.937c.591.457 1.379.68 2.077.68.972 0 1.976-.435 2.618-1.264 1.1-1.42.883-3.463-.54-4.562z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows6",
+                "elementName": "Shapes.Arrows6",
+                "style": {
+                    "top": 7,
+                    "left": 240,
+                    "width": 37,
+                    "height": 42,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:57%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"45.87022399902344 4.749670028686523 111.49113464355469 192.6333465576172\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M156.124 46.421L103.09 5.431a3.245 3.245 0 0 0-4.003.019L47.109 46.44a3.252 3.252 0 0 0-.54 4.568c1.112 1.411 3.233 1.655 4.644.54L98 14.711V194.13c0 1.798 1.202 3.253 3 3.253s3-1.455 3-3.253V14.63l47.969 36.937c.591.457 1.379.68 2.077.68.972 0 1.976-.435 2.618-1.264 1.1-1.42.883-3.463-.54-4.562z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows7",
+                "elementName": "Shapes.Arrows7",
+                "style": {
+                    "top": 63,
+                    "left": 5,
+                    "width": 41,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"a-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:62%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"1.025195837020874 55.113433837890625 194.44482421875 76.1065673828125\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M192.549 91H66V58.034a2.94 2.94 0 0 0-1.507-2.544 2.944 2.944 0 0 0-2.957.044L2.437 91.243a2.922 2.922 0 0 0 .032 5.022l59.094 34.556c.456.267.965.399 1.474.399.501 0 1.024-.129 1.474-.387A2.938 2.938 0 0 0 66 128.3V97h126.549c1.613 0 2.921-1.387 2.921-3s-1.308-3-2.921-3zM60 123.207L9.544 93.703 60 63.213v59.994z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows8",
+                "elementName": "Shapes.Arrows8",
+                "style": {
+                    "top": 63,
+                    "left": 52,
+                    "width": 41,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"a-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:130%;left:70%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"1.025195837020874 55.113433837890625 194.44482421875 76.1065673828125\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M192.549 91H66V58.034a2.94 2.94 0 0 0-1.507-2.544 2.944 2.944 0 0 0-2.957.044L2.437 91.243a2.922 2.922 0 0 0 .032 5.022l59.094 34.556c.456.267.965.399 1.474.399.501 0 1.024-.129 1.474-.387A2.938 2.938 0 0 0 66 128.3V97h126.549c1.613 0 2.921-1.387 2.921-3s-1.308-3-2.921-3zM60 123.207L9.544 93.703 60 63.213v59.994z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows9",
+                "elementName": "Shapes.Arrows9",
+                "style": {
+                    "top": 63,
+                    "left": 97,
+                    "width": 41,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"a-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:30%;transform: rotate(270deg); width:35px;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"45.87022399902344 4.749670028686523 111.49113464355469 192.6333465576172\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M156.124 46.421L103.09 5.431a3.245 3.245 0 0 0-4.003.019L47.109 46.44a3.252 3.252 0 0 0-.54 4.568c1.112 1.411 3.233 1.655 4.644.54L98 14.711V194.13c0 1.798 1.202 3.253 3 3.253s3-1.455 3-3.253V14.63l47.969 36.937c.591.457 1.379.68 2.077.68.972 0 1.976-.435 2.618-1.264 1.1-1.42.883-3.463-.54-4.562z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows10",
+                "elementName": "Shapes.Arrows10",
+                "style": {
+                    "top": 63,
+                    "left": 143,
+                    "width": 41,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"a-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:35%;transform: rotate(-270deg);width:35px;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"45.87022399902344 4.749670028686523 111.49113464355469 192.6333465576172\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M156.124 46.421L103.09 5.431a3.245 3.245 0 0 0-4.003.019L47.109 46.44a3.252 3.252 0 0 0-.54 4.568c1.112 1.411 3.233 1.655 4.644.54L98 14.711V194.13c0 1.798 1.202 3.253 3 3.253s3-1.455 3-3.253V14.63l47.969 36.937c.591.457 1.379.68 2.077.68.972 0 1.976-.435 2.618-1.264 1.1-1.42.883-3.463-.54-4.562z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows11",
+                "elementName": "Shapes.Arrows11",
+                "style": {
+                    "top": 63,
+                    "left": 191,
+                    "width": 41,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"a-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:40%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"6 38.9296989440918 186.82601928710938 111.04328918457031\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M192.826 86.423c0-.661-.241-1.241-.573-1.758-.039-.061-.022-.14-.065-.199l-32.119-44.163a3.324 3.324 0 0 0-4.65-.735c-1.489 1.083-1.818 3.117-.735 4.603L182.958 83H50.595C24.891 83 6 103.51 6 130.583v16.06c0 1.84 1.66 3.33 3.5 3.33s3.5-1.489 3.5-3.33v-16.06C13 107.305 28.686 89 50.595 89h132.363l-28.273 39.249c-1.083 1.486-.754 3.755.735 4.838.592.429 1.275.731 1.954.731 1.031 0 2.045-.428 2.696-1.325l32.119-44.136c.043-.059.026-.126.065-.187.33-.518.572-1.086.572-1.747z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows12",
+                "elementName": "Shapes.Arrows12",
+                "style": {
+                    "top": 63,
+                    "left": 237,
+                    "width": 41,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"a-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:45%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"14 9.499363899230957 184 108.51663208007812\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M14.489 57.608a3.3 3.3 0 0 1-.187-.345c-.03-.065-.056-.132-.082-.199a3.245 3.245 0 0 1-.115-.371c-.016-.065-.034-.128-.046-.195a3.198 3.198 0 0 1-.058-.577l-.001-.01.001-.01a3.3 3.3 0 0 1 .058-.577c.012-.066.03-.13.046-.195a3.245 3.245 0 0 1 .197-.57 3.3 3.3 0 0 1 .187-.345c.033-.054.062-.11.099-.162.013-.018.021-.038.034-.056L46.01 10.84a3.252 3.252 0 0 1 4.546-.717c1.453 1.057 1.774 3.263.718 4.717L23.644 53h129.355C178.119 53 198 72.61 198 99.069v15.693c0 1.797-1.703 3.254-3.5 3.254s-3.5-1.457-3.5-3.254V99.069C191 76.32 174.409 59 152.999 59H23.644l27.63 38.072c1.057 1.454.735 3.53-.718 4.587a3.26 3.26 0 0 1-1.911.644 3.24 3.24 0 0 1-2.635-1.33L14.622 57.821c-.013-.018-.022-.035-.034-.053-.036-.053-.066-.106-.099-.16z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows13",
+                "elementName": "Shapes.Arrows13",
+                "style": {
+                    "top": 111,
+                    "left": 1,
+                    "width": 46,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"b-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:52%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"11.779767036437988 11.775777816772461 175.6592254638672 106.2242202758789\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M14.464 87h170.29c1.482 0 2.685-1.312 2.685-2.794 0-.932-.476-1.808-1.196-2.289L101.298 12.39a2.682 2.682 0 0 0-3.399-.014l-85.135 69.65c-.878.718-1.209 2.018-.828 3.086S13.33 87 14.464 87zm85.135-69.504L177.215 81H21.982l77.617-63.504z\"><\/path> <path d=\"M184.733 112H14.464c-1.482 0-2.684 1.518-2.684 3s1.202 3 2.684 3h170.27c1.482 0 2.684-1.518 2.684-3s-1.202-3-2.685-3z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows14",
+                "elementName": "Shapes.Arrows14",
+                "style": {
+                    "top": 111,
+                    "left": 49,
+                    "width": 46,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"b-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:57%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"11.779767036437988 11.775777816772461 175.6592254638672 106.2242202758789\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M14.464 87h170.29c1.482 0 2.685-1.312 2.685-2.794 0-.932-.476-1.808-1.196-2.289L101.298 12.39a2.682 2.682 0 0 0-3.399-.014l-85.135 69.65c-.878.718-1.209 2.018-.828 3.086S13.33 87 14.464 87zm85.135-69.504L177.215 81H21.982l77.617-63.504z\"><\/path> <path d=\"M184.733 112H14.464c-1.482 0-2.684 1.518-2.684 3s1.202 3 2.684 3h170.27c1.482 0 2.684-1.518 2.684-3s-1.202-3-2.685-3z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows15",
+                "elementName": "Shapes.Arrows15",
+                "style": {
+                    "top": 111,
+                    "left": 96,
+                    "width": 46,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"b-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:63%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.456000328063965 41.28799819946289 191.54400634765625 114.69400024414062\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M193 41.288c-1.828 0-3 1.482-3 3.311v50.673l-39.431-50.824c-1.117-1.446-3.275-1.713-4.722-.595-1.447 1.118-1.753 3.035-.635 4.482L181.361 95H7.767c-1.829 0-3.311 1.671-3.311 3.5s1.482 3.5 3.311 3.5h173.648l-36.22 45.916a3.293 3.293 0 0 0 .55 4.636c.607.479 1.33.705 2.048.705.979 0 2.104-.436 2.757-1.265L190 102.145v50.526c0 1.828 1.172 3.311 3 3.311s3-1.482 3-3.311V44.599c0-1.829-1.172-3.311-3-3.311z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows16",
+                "elementName": "Shapes.Arrows16",
+                "style": {
+                    "top": 111,
+                    "left": 142,
+                    "width": 46,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"b-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:68%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.456000328063965 41.28799819946289 191.54400634765625 114.69400024414062\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M193 41.288c-1.828 0-3 1.482-3 3.311v50.673l-39.431-50.824c-1.117-1.446-3.275-1.713-4.722-.595-1.447 1.118-1.753 3.035-.635 4.482L181.361 95H7.767c-1.829 0-3.311 1.671-3.311 3.5s1.482 3.5 3.311 3.5h173.648l-36.22 45.916a3.293 3.293 0 0 0 .55 4.636c.607.479 1.33.705 2.048.705.979 0 2.104-.436 2.757-1.265L190 102.145v50.526c0 1.828 1.172 3.311 3 3.311s3-1.482 3-3.311V44.599c0-1.829-1.172-3.311-3-3.311z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows17",
+                "elementName": "Shapes.Arrows17",
+                "style": {
+                    "top": 111,
+                    "left": 188,
+                    "width": 46,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"b-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:145%;left:73%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"10.57699966430664 54.33726501464844 186.43301391601562 110.42573547363281\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M162.147 75H145.35l-14.958-19.573c-.899-1.167-2.577-1.463-3.741-.563-1.167.899-1.385 2.691-.485 3.859L138.615 75H45.44c-19.224 0-34.863 15.277-34.863 34.5 0 19.224 15.64 34.5 34.863 34.5h25.185l14.958 19.619c.525.683 1.316 1.144 2.115 1.144.568 0 1.141-.129 1.626-.503 1.167-.899 1.384-2.755.485-3.922L77.36 144h84.787c19.224 0 34.863-15.277 34.863-34.5.001-19.223-15.639-34.5-34.863-34.5zm0 64H77.36l12.45-16.121a2.645 2.645 0 0 0-.485-3.722c-1.167-.9-2.843-.713-3.741.456L70.625 139H45.44c-16.282 0-29.527-13.219-29.527-29.5S29.159 80 45.44 80h93.174l-12.449 16.167a2.675 2.675 0 0 0 2.111 4.306c.799 0 1.59-.368 2.115-1.05L145.35 80h16.797c16.281 0 29.527 13.219 29.527 29.5S178.429 139 162.147 139z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows18",
+                "elementName": "Shapes.Arrows18",
+                "style": {
+                    "top": 111,
+                    "left": 237,
+                    "width": 46,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"b-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:160%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"7.500139236450195 9.28872013092041 184.88763427734375 109.00813293457031\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M185.766 92H16.577l11.705-15.043c1.009-1.31.765-3.114-.544-4.122-1.309-1.007-3.188-.727-4.198.582L8.122 93.449a3.008 3.008 0 0 0 0 3.663l15.418 20.015a2.989 2.989 0 0 0 4.198.547c1.31-1.009 1.553-3.032.544-4.341L16.578 98h169.188c1.653 0 2.993-1.347 2.993-3s-1.34-3-2.993-3z\"><\/path> <path d=\"M191.766 30.469l-15.419-20.014a2.992 2.992 0 0 0-4.197-.544c-1.31 1.009-1.554 2.737-.545 4.046L183.31 29H12.519c-1.653 0-2.993 1.347-2.993 3s1.34 3 2.993 3H183.31l-11.705 15.334c-1.009 1.309-.765 3.261.544 4.27.545.419 1.188.659 1.825.659.896 0 1.783-.383 2.373-1.148l15.419-20.001a2.982 2.982 0 0 0 0-3.645z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows19",
+                "elementName": "Shapes.Arrows19",
+                "style": {
+                    "top": 158,
+                    "left": 4,
+                    "width": 44,
+                    "height": 48,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"c-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:160%;left:38%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.960999965667725 10.49947452545166 186.72817993164062 105.50052642822266\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M191.03 11.648a3.038 3.038 0 0 0-4.269-.489L99.538 80.455 12.315 11.16a3.04 3.04 0 0 0-3.78 4.758l89.113 70.796a3.037 3.037 0 0 0 3.78 0l89.113-70.796a3.04 3.04 0 0 0 .489-4.27z\"><\/path> <path d=\"M186.227 110H8c-1.678 0-3.039 1.322-3.039 3s1.36 3 3.039 3h178.227c1.678 0 3.038-1.322 3.038-3s-1.361-3-3.038-3z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows20",
+                "elementName": "Shapes.Arrows20",
+                "style": {
+                    "top": 158,
+                    "left": 49,
+                    "width": 44,
+                    "height": 48,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"c-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:160%;left:45%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.960999965667725 10.49947452545166 186.72817993164062 105.50052642822266\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M191.03 11.648a3.038 3.038 0 0 0-4.269-.489L99.538 80.455 12.315 11.16a3.04 3.04 0 0 0-3.78 4.758l89.113 70.796a3.037 3.037 0 0 0 3.78 0l89.113-70.796a3.04 3.04 0 0 0 .489-4.27z\"><\/path> <path d=\"M186.227 110H8c-1.678 0-3.039 1.322-3.039 3s1.36 3 3.039 3h178.227c1.678 0 3.038-1.322 3.038-3s-1.361-3-3.038-3z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows21",
+                "elementName": "Shapes.Arrows21",
+                "style": {
+                    "top": 158,
+                    "left": 96,
+                    "width": 44,
+                    "height": 48,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"c-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:160%;left:53%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"17 9.338000297546387 148.99899291992188 184.66200256347656\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M91.642 155.771a2.95 2.95 0 0 0 3.986-.029l32.876-30.488a2.954 2.954 0 0 0 .158-4.176c-1.111-1.197-2.745-1.269-3.94-.158L97 146.845V12.293c0-1.632-1.368-2.955-3-2.955s-3 1.323-3 2.955v134.604L61.922 120.89c-1.212-1.091-3.177-.993-4.268.219-1.092 1.213-1.042 3.082.171 4.174l33.817 30.488z\"><\/path> <path d=\"M163 152.032c-1.632 0-3 1.323-3 2.955V188H23v-33.013c0-1.632-1.368-2.955-3-2.955s-3 1.323-3 2.955v35.558c0 1.632 1.823 3.455 3.455 3.455h142.232c1.632 0 3.312-1.823 3.312-3.455v-35.558c.001-1.632-1.367-2.955-2.999-2.955z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows22",
+                "elementName": "Shapes.Arrows22",
+                "style": {
+                    "top": 158,
+                    "left": 142,
+                    "width": 44,
+                    "height": 48,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"c-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:160%;left:60%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"17 9.338000297546387 148.99899291992188 184.66200256347656\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M91.642 155.771a2.95 2.95 0 0 0 3.986-.029l32.876-30.488a2.954 2.954 0 0 0 .158-4.176c-1.111-1.197-2.745-1.269-3.94-.158L97 146.845V12.293c0-1.632-1.368-2.955-3-2.955s-3 1.323-3 2.955v134.604L61.922 120.89c-1.212-1.091-3.177-.993-4.268.219-1.092 1.213-1.042 3.082.171 4.174l33.817 30.488z\"><\/path> <path d=\"M163 152.032c-1.632 0-3 1.323-3 2.955V188H23v-33.013c0-1.632-1.368-2.955-3-2.955s-3 1.323-3 2.955v35.558c0 1.632 1.823 3.455 3.455 3.455h142.232c1.632 0 3.312-1.823 3.312-3.455v-35.558c.001-1.632-1.367-2.955-2.999-2.955z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows23",
+                "elementName": "Shapes.Arrows23",
+                "style": {
+                    "top": 158,
+                    "left": 189,
+                    "width": 44,
+                    "height": 48,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"c-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:160%;left:68%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.832269668579102 21.463537216186523 190.80238342285156 42.44348907470703\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M192.05 39H42V24.161c0-2.073-2.057-3.369-3.853-2.333L6.156 40.353c-1.796 1.037-1.749 3.628.047 4.665l31.922 18.524C39.919 64.579 42 63.283 42 61.21V46h150.05a3.501 3.501 0 1 0 0-7z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows24",
+                "elementName": "Shapes.Arrows24",
+                "style": {
+                    "top": 158,
+                    "left": 236,
+                    "width": 44,
+                    "height": 48,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"c-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:160%;left:73%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.832269668579102 21.463537216186523 190.80238342285156 42.44348907470703\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M192.05 39H42V24.161c0-2.073-2.057-3.369-3.853-2.333L6.156 40.353c-1.796 1.037-1.749 3.628.047 4.665l31.922 18.524C39.919 64.579 42 63.283 42 61.21V46h150.05a3.501 3.501 0 1 0 0-7z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows25",
+                "elementName": "Shapes.Arrows25",
+                "style": {
+                    "top": 215,
+                    "left": 2,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"d-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:170%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"11 2.880659580230713 156.24305725097656 177.11534118652344\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M165.062 45.385L99.817 3.633c-1.468-.939-3.571-1.004-5.098-.167C93.191 4.303 92 5.906 92 7.647V45H65.017c-15.021 0-28.885 5.753-38.862 16.532C16.445 72.023 11 86.009 11 101.246v73.983c0 2.633 2.368 4.767 5 4.767s5-2.134 5-4.767v-73.983C21 74.406 39.767 54 65.017 54H92v37.156c0 1.742 1.191 3.345 2.719 4.181.714.391 1.622.585 2.408.585.895 0 1.848-.252 2.629-.752l65.275-41.757a4.781 4.781 0 0 0 2.212-4.015 4.748 4.748 0 0 0-2.181-4.013zM102 82.447v-66.09L153.636 49.4 102 82.447z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows26",
+                "elementName": "Shapes.Arrows26",
+                "style": {
+                    "top": 215,
+                    "left": 48,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"d-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:170%;left:35%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"11 2.8803107738494873 156 177.11569213867188\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M11 49.399c0 1.625.843 3.139 2.212 4.015l65.275 41.757c.781.5 1.734.752 2.629.752.786 0 1.572-.194 2.286-.585 1.529-.837 2.598-2.44 2.598-4.182V54h27.227C138.477 54 157 74.406 157 101.246v73.983c0 2.633 2.368 4.767 5 4.767s5-2.134 5-4.767v-73.983c0-15.237-5.323-29.223-15.033-39.714C141.99 50.753 128.248 45 113.227 45H86V7.647c0-1.742-1.069-3.345-2.597-4.181-1.527-.837-3.569-.773-5.037.167L13.152 45.385C11.783 46.261 11 47.774 11 49.399zm13.364.001L76 16.356v66.09L24.364 49.4z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows27",
+                "elementName": "Shapes.Arrows27",
+                "style": {
+                    "top": 215,
+                    "left": 95,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"d-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:173%;left:43%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"11.332663536071777 54.70539474487305 182.2113494873047 47.085628509521484\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M188.942 74H25.504l9.2-11.702c1.587-1.985 1.264-4.979-.72-6.566-1.985-1.586-4.88-1.313-6.467.671L12.34 75.359a4.585 4.585 0 0 0 0 5.735l15.176 18.973a4.589 4.589 0 0 0 3.597 1.724 4.587 4.587 0 0 0 2.871-1.009c1.984-1.587 2.307-4.387.72-6.372L25.504 83h163.438c2.541 0 4.602-1.959 4.602-4.5s-2.061-4.5-4.602-4.5z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows28",
+                "elementName": "Shapes.Arrows28",
+                "style": {
+                    "top": 215,
+                    "left": 142,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"d-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:173%;left:48%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"11.332663536071777 54.70539474487305 182.2113494873047 47.085628509521484\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M188.942 74H25.504l9.2-11.702c1.587-1.985 1.264-4.979-.72-6.566-1.985-1.586-4.88-1.313-6.467.671L12.34 75.359a4.585 4.585 0 0 0 0 5.735l15.176 18.973a4.589 4.589 0 0 0 3.597 1.724 4.587 4.587 0 0 0 2.871-1.009c1.984-1.587 2.307-4.387.72-6.372L25.504 83h163.438c2.541 0 4.602-1.959 4.602-4.5s-2.061-4.5-4.602-4.5z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows29",
+                "elementName": "Shapes.Arrows29",
+                "style": {
+                    "top": 215,
+                    "left": 190,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"d-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:173%;left:55%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"18.592275619506836 3.8325095176696777 159.01902770996094 173.49246215820312\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M174.93 70.138a4.838 4.838 0 1 0-9.342 2.513c6.412 23.84-.516 49.482-18.079 66.918-25.164 24.975-64.897 26.86-92.286 5.694l20.181-5.606a4.838 4.838 0 0 0-2.59-9.322l-28.82 8.007c-.127.035-.245.087-.367.132-.079.029-.158.052-.236.085a4.864 4.864 0 0 0-.745.396c-.045.029-.085.066-.129.097a4.766 4.766 0 0 0-.565.465c-.031.029-.066.049-.096.079-.029.029-.048.064-.076.093a4.86 4.86 0 0 0-.471.581c-.027.039-.059.075-.085.114a4.907 4.907 0 0 0-.388.744c-.034.08-.058.162-.088.243a4.851 4.851 0 0 0-.224.857c-.01.062-.029.122-.037.185l-3.623 29.484a4.84 4.84 0 0 0 4.807 5.428 4.838 4.838 0 0 0 4.795-4.248l2.509-20.416c14.361 11.219 31.739 16.849 49.127 16.849 20.36 0 40.722-7.691 56.222-23.075 20.023-19.876 27.918-49.112 20.606-76.297z\"><\/path> <path d=\"M48.696 41.59c25.166-24.979 64.901-26.864 92.289-5.693l-20.182 5.612a4.838 4.838 0 1 0 2.592 9.322l28.817-8.013c.127-.035.245-.087.366-.132.079-.029.158-.052.236-.085.261-.111.51-.242.744-.395.046-.03.088-.067.133-.099.199-.14.385-.293.559-.46.032-.03.069-.051.1-.082.03-.03.05-.066.079-.097.169-.179.324-.369.463-.572.029-.041.063-.079.09-.121.15-.233.277-.482.386-.74.035-.082.06-.166.09-.249a4.926 4.926 0 0 0 .224-.856c.01-.061.029-.119.036-.181l3.631-29.488a4.837 4.837 0 0 0-4.21-5.393c-2.64-.32-5.064 1.559-5.392 4.21l-2.515 20.421C116.055 4.137 70.62 6.199 41.88 34.724c-20.023 19.877-27.919 49.114-20.606 76.301a4.84 4.84 0 0 0 4.668 3.582 4.837 4.837 0 0 0 4.674-6.096c-6.413-23.841.515-49.484 18.08-66.921z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows30",
+                "elementName": "Shapes.Arrows30",
+                "style": {
+                    "top": 215,
+                    "left": 235,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"d-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:173%;left:60%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"18.592248916625977 3.8325042724609375 159.0194854736328 173.49246215820312\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M21.274 70.138a4.838 4.838 0 1 1 9.342 2.513c-6.412 23.84.516 49.482 18.079 66.918 25.164 24.975 64.897 26.86 92.286 5.694l-20.181-5.606a4.838 4.838 0 0 1 2.59-9.322l28.82 8.007c.127.035.245.087.367.132.079.029.158.052.236.085.261.112.511.243.745.396.045.029.085.066.129.097.201.141.389.296.565.465.031.029.066.049.096.079.029.029.048.064.076.093.172.182.329.375.471.581.027.039.059.075.085.114.151.235.278.484.388.744.034.08.058.162.088.243a4.851 4.851 0 0 1 .224.857c.01.062.029.122.037.185l3.623 29.484a4.84 4.84 0 0 1-4.807 5.428 4.838 4.838 0 0 1-4.795-4.248l-2.509-20.416c-14.361 11.219-31.739 16.849-49.127 16.849-20.36 0-40.722-7.691-56.222-23.075-20.023-19.876-27.919-49.112-20.606-76.297z\"><\/path> <path d=\"M147.507 41.59c-25.166-24.979-64.901-26.864-92.289-5.693L75.4 41.509a4.838 4.838 0 1 1-2.592 9.322l-28.817-8.013c-.127-.035-.245-.087-.366-.132-.079-.029-.158-.052-.236-.085a4.763 4.763 0 0 1-.744-.395c-.046-.03-.088-.067-.133-.099a4.763 4.763 0 0 1-.559-.46c-.032-.03-.069-.051-.1-.082-.03-.03-.05-.066-.079-.097a4.706 4.706 0 0 1-.463-.572c-.029-.041-.063-.079-.09-.121a4.855 4.855 0 0 1-.386-.74c-.035-.082-.06-.166-.09-.249a4.926 4.926 0 0 1-.224-.856c-.01-.061-.029-.119-.036-.181L36.856 9.261a4.837 4.837 0 0 1 4.21-5.393c2.64-.32 5.064 1.559 5.392 4.21l2.515 20.421c31.176-24.363 76.612-22.3 105.351 6.225 20.023 19.877 27.919 49.114 20.606 76.301a4.84 4.84 0 0 1-4.668 3.582 4.837 4.837 0 0 1-4.674-6.096c6.412-23.841-.516-49.484-18.081-66.921z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows31",
+                "elementName": "Shapes.Arrows31",
+                "style": {
+                    "top": 269,
+                    "left": 1,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"e-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:173%;left:68%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"10 6 183 183\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M65.602 122.306L24 164.086v-14.94c0-3.672-3.328-6.648-7-6.648s-7 2.977-7 6.648v33.208c0 3.672 3.321 6.646 6.993 6.646h33.208c3.672 0 6.649-2.828 6.649-6.5s-2.977-6.5-6.649-6.5H30.827l43.998-44.145c2.597-2.597 2.686-6.879.089-9.476-2.595-2.598-6.716-2.671-9.312-.073z\"><\/path> <path d=\"M31.139 19h19.062c3.672 0 6.649-2.828 6.649-6.5S53.873 6 50.201 6H16.993C13.321 6 10 8.951 10 12.623v33.208c0 3.672 3.328 6.649 7 6.649s7-2.977 7-6.649V30.58l41.609 41.782c1.298 1.298 2.91 1.947 4.612 1.947s3.359-.649 4.657-1.948c2.596-2.597 2.574-6.942-.023-9.539L31.139 19z\"><\/path> <path d=\"M186.725 6h-33.208c-3.672 0-6.648 2.828-6.648 6.5s2.977 6.5 6.648 6.5h14.941L124.77 62.823c-2.597 2.596-2.597 6.874 0 9.47 1.298 1.298 3 1.982 4.701 1.982s3.365-.632 4.663-1.931L180 26.458v19.373c0 3.672 2.828 6.649 6.5 6.649s6.5-2.977 6.5-6.649V12.623C193 8.951 190.396 6 186.725 6z\"><\/path> <path d=\"M186.5 142.498c-3.672 0-6.5 2.977-6.5 6.648v19.055l-45.865-45.897a6.627 6.627 0 0 0-9.384.001c-2.596 2.597-2.586 6.954.01 9.55L168.773 176h-15.257c-3.672 0-6.648 2.828-6.648 6.5s2.977 6.5 6.648 6.5h33.208c3.672 0 6.275-2.974 6.275-6.646v-33.208c.001-3.671-2.827-6.648-6.499-6.648z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows32",
+                "elementName": "Shapes.Arrows32",
+                "style": {
+                    "top": 269,
+                    "left": 46,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"e-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:173%;left:75%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"5 3 192 192\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M62.635 125.224L19 169.072v-15.68c0-3.854-3.146-6.978-7-6.978s-7 3.124-7 6.978v34.853C5 192.099 7.739 195 11.593 195h34.852c3.854 0 6.978-3.146 6.978-7s-3.124-7-6.978-7H26.113l46.175-46.041c2.725-2.726 2.832-7.077.107-9.801-2.725-2.727-7.036-2.659-9.76.066z\"><\/path> <path d=\"M189.727 3h-34.853c-3.854 0-6.978 3.146-6.978 7s3.124 7 6.978 7h15.681l-45.85 45.895c-2.726 2.725-2.726 7.166-.001 9.891a6.967 6.967 0 0 0 4.935 2.055c1.785 0 3.697-.676 5.059-2.038L183 24.631v20.333c0 3.854 3.146 6.978 7 6.978s7-3.124 7-6.978V10.112C197 6.258 193.58 3 189.727 3z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows33",
+                "elementName": "Shapes.Arrows33",
+                "style": {
+                    "top": 269,
+                    "left": 96,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"e-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"12.648999214172363 5 184.3520050048828 123\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M190.357 5H77.746c-1.578 0-3.098.743-4.249 1.823L14.612 62.099c-1.252 1.174-1.963 2.851-1.963 4.568s.711 3.376 1.963 4.55l58.885 55.153c1.151 1.079 2.671 1.63 4.249 1.63h112.612c3.431 0 6.643-2.663 6.643-6.094V11.498C197 8.067 193.788 5 190.357 5zM184 116H80.202L27.944 67l52.258-49H184v98z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows34",
+                "elementName": "Shapes.Arrows34",
+                "style": {
+                    "top": 269,
+                    "left": 141,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"e-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:35%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"12.648999214172363 5 184.3520050048828 123\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M190.357 5H77.746c-1.578 0-3.098.743-4.249 1.823L14.612 62.099c-1.252 1.174-1.963 2.851-1.963 4.568s.711 3.376 1.963 4.55l58.885 55.153c1.151 1.079 2.671 1.63 4.249 1.63h112.612c3.431 0 6.643-2.663 6.643-6.094V11.498C197 8.067 193.788 5 190.357 5zM184 116H80.202L27.944 67l52.258-49H184v98z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows35",
+                "elementName": "Shapes.Arrows35",
+                "style": {
+                    "top": 269,
+                    "left": 190,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"e-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:42%;width:40px;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"9 11.211250305175781 176.78900146484375 175.78875732421875\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M183.713 13.288c-2.769-2.77-7.378-2.768-10.145 0L23 163.734V60.045c0-3.915-3.085-7.088-7-7.088s-7 3.173-7 7.088v119.779c0 3.915 3.241 7.176 7.155 7.176H150.11c3.915 0 7.088-3.085 7.088-7s-3.173-7-7.088-7H34.288L183.713 23.443c2.768-2.768 2.768-7.388 0-10.155z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows36",
+                "elementName": "Shapes.Arrows36",
+                "style": {
+                    "top": 269,
+                    "left": 237,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"e-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:47%; transform: rotate(270deg);width:40px;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"9 11.211250305175781 176.78900146484375 175.78875732421875\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M183.713 13.288c-2.769-2.77-7.378-2.768-10.145 0L23 163.734V60.045c0-3.915-3.085-7.088-7-7.088s-7 3.173-7 7.088v119.779c0 3.915 3.241 7.176 7.155 7.176H150.11c3.915 0 7.088-3.085 7.088-7s-3.173-7-7.088-7H34.288L183.713 23.443c2.768-2.768 2.768-7.388 0-10.155z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows37",
+                "elementName": "Shapes.Arrows37",
+                "style": {
+                    "top": 325,
+                    "left": 2,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:53%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"17 7 174.94400024414062 174.94400024414062\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M144.005 75.172c-1.245-1.245-3.424-1.245-4.669 0l-34.864 35.175-34.864-35.175c-1.245-1.245-3.424-1.245-4.669 0l-2.49 2.49c-1.245 1.245-1.245 3.424 0 4.669l39.533 39.534c1.245 1.245 3.424 1.245 4.669 0l2.49-2.49 37.354-37.354c1.245-1.245 1.245-3.424 0-4.669l-2.49-2.18z\"><\/path> <path d=\"M104.472 7C56.222 7 17 46.222 17 94.472s39.222 87.472 87.472 87.472 87.472-39.222 87.472-87.472S152.721 7 104.472 7zm0 164.671c-42.646 0-77.199-34.553-77.199-77.199s34.553-77.199 77.199-77.199 77.199 34.553 77.199 77.199-34.553 77.199-77.199 77.199z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows38",
+                "elementName": "Shapes.Arrows38",
+                "style": {
+                    "top": 325,
+                    "left": 48,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:58%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"17 7 174.94400024414062 174.94400024414062\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M144.005 75.172c-1.245-1.245-3.424-1.245-4.669 0l-34.864 35.175-34.864-35.175c-1.245-1.245-3.424-1.245-4.669 0l-2.49 2.49c-1.245 1.245-1.245 3.424 0 4.669l39.533 39.534c1.245 1.245 3.424 1.245 4.669 0l2.49-2.49 37.354-37.354c1.245-1.245 1.245-3.424 0-4.669l-2.49-2.18z\"><\/path> <path d=\"M104.472 7C56.222 7 17 46.222 17 94.472s39.222 87.472 87.472 87.472 87.472-39.222 87.472-87.472S152.721 7 104.472 7zm0 164.671c-42.646 0-77.199-34.553-77.199-77.199s34.553-77.199 77.199-77.199 77.199 34.553 77.199 77.199-34.553 77.199-77.199 77.199z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows39",
+                "elementName": "Shapes.Arrows39",
+                "style": {
+                    "top": 325,
+                    "left": 94,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:63%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"10 5 174.75 174.75\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M126.387 77H65.452l15.744-17.08c1.825-1.963 1.711-5.095-.251-6.92s-5.039-1.744-6.859.226l-23.318 25.1a4.84 4.84 0 0 0 0 6.596l23.318 25.111a4.824 4.824 0 0 0 3.555 1.551 4.84 4.84 0 0 0 3.304-1.297c1.963-1.825 2.076-5.131.251-7.093L65.452 86h60.935C133.223 86 141 92.051 141 99.251v.602c0 7.198-7.777 13.146-14.613 13.146H99.381c-2.683 0-4.854 1.819-4.854 4.5s2.171 4.5 4.854 4.5h27.006C139.433 122 151 111.835 151 99.854v-.602C151 87.27 139.433 77 126.387 77z\"><\/path> <path d=\"M97.375 5C49.199 5 10 44.196 10 92.375s39.199 87.375 87.375 87.375 87.375-39.196 87.375-87.375C184.751 44.196 145.552 5 97.375 5zm0 165.043c-42.825 0-77.667-34.842-77.667-77.667S54.55 14.709 97.375 14.709s77.667 34.842 77.667 77.667c.001 42.824-34.841 77.667-77.667 77.667z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows40",
+                "elementName": "Shapes.Arrows40",
+                "style": {
+                    "top": 325,
+                    "left": 141,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:68%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"10 5 174.75 174.75\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M68.364 77h60.935l-15.744-17.08c-1.825-1.963-1.711-5.095.251-6.92s5.039-1.744 6.859.226l23.318 25.1a4.84 4.84 0 0 1 0 6.596l-23.318 25.111a4.824 4.824 0 0 1-3.555 1.551 4.84 4.84 0 0 1-3.304-1.297c-1.963-1.825-2.076-5.131-.251-7.093L129.299 86H68.364C61.528 86 54 92.051 54 99.251v.602C54 107.052 61.528 113 68.364 113H95.37c2.683 0 4.854 1.819 4.854 4.5s-2.171 4.5-4.854 4.5H68.364C55.318 122 44 111.835 44 99.854v-.602C44 87.27 55.318 77 68.364 77z\"><\/path> <path d=\"M10 92.375c0 48.179 39.199 87.375 87.375 87.375s87.375-39.196 87.375-87.375C184.751 44.196 145.552 5 97.375 5S10 44.196 10 92.375zm9.708 0c0-42.825 34.842-77.667 77.667-77.667s77.667 34.842 77.667 77.667-34.842 77.667-77.667 77.667S19.708 135.2 19.708 92.375z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows41",
+                "elementName": "Shapes.Arrows41",
+                "style": {
+                    "top": 325,
+                    "left": 189,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:73%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"7 9 171.3800048828125 166.48199462890625\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M59.583 92.523l34.459-33.178c1.22-1.185 1.22-3.259 0-4.443l-2.44-2.37c-1.22-1.185-3.354-1.185-4.574 0L48.3 90.153c-1.22 1.185-1.22 3.259 0 4.443l2.44 2.37 36.594 35.548c1.22 1.185 3.354 1.185 4.574 0l2.135-2.37c1.22-1.185 1.22-3.259 0-4.443l-34.46-33.178z\"><\/path> <path d=\"M126.603 54.901l-2.44-2.37c-1.22-1.185-3.354-1.185-4.574 0L80.862 90.153c-1.22 1.185-1.22 3.259 0 4.443l2.44 2.37 36.594 35.548c1.22 1.185 3.354 1.185 4.574 0l2.135-2.37c1.22-1.185 1.22-3.259 0-4.443l-34.46-33.178 34.459-33.178c1.219-1.185 1.219-3.259-.001-4.444z\"><\/path> <path d=\"M92.69 9C45.423 9 7 46.325 7 92.241s38.423 83.241 85.69 83.241c47.267 0 85.69-37.325 85.69-83.241C178.379 46.325 139.956 9 92.69 9zm0 156.707c-41.778 0-75.627-32.882-75.627-73.466S50.912 18.776 92.69 18.776s75.627 32.882 75.627 73.466-33.85 73.465-75.627 73.465z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows42",
+                "elementName": "Shapes.Arrows42",
+                "style": {
+                    "top": 325,
+                    "left": 235,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:185%;left:78%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"7 9 171.3800048828125 166.48199462890625\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M59.583 92.523l34.459-33.178c1.22-1.185 1.22-3.259 0-4.443l-2.44-2.37c-1.22-1.185-3.354-1.185-4.574 0L48.3 90.153c-1.22 1.185-1.22 3.259 0 4.443l2.44 2.37 36.594 35.548c1.22 1.185 3.354 1.185 4.574 0l2.135-2.37c1.22-1.185 1.22-3.259 0-4.443l-34.46-33.178z\"><\/path> <path d=\"M126.603 54.901l-2.44-2.37c-1.22-1.185-3.354-1.185-4.574 0L80.862 90.153c-1.22 1.185-1.22 3.259 0 4.443l2.44 2.37 36.594 35.548c1.22 1.185 3.354 1.185 4.574 0l2.135-2.37c1.22-1.185 1.22-3.259 0-4.443l-34.46-33.178 34.459-33.178c1.219-1.185 1.219-3.259-.001-4.444z\"><\/path> <path d=\"M92.69 9C45.423 9 7 46.325 7 92.241s38.423 83.241 85.69 83.241c47.267 0 85.69-37.325 85.69-83.241C178.379 46.325 139.956 9 92.69 9zm0 156.707c-41.778 0-75.627-32.882-75.627-73.466S50.912 18.776 92.69 18.776s75.627 32.882 75.627 73.466-33.85 73.465-75.627 73.465z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows43",
+                "elementName": "Shapes.Arrows43",
+                "style": {
+                    "top": 378,
+                    "left": 2,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"7.463001251220703 3 127.83299255371094 186\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M9.756 96.615L66.2 153.06c1.298 1.298 3.244 2.271 5.19 2.271 1.946 0 3.893-.649 5.19-2.271l56.445-56.445c1.298-1.298 2.271-3.244 2.271-5.19 0-1.946-.973-3.568-2.271-5.19l-3.244-3.244c-2.92-2.92-7.847-2.92-10.442 0L81 120.945V10.65C81 6.433 77.879 3 73.662 3h-4.866C64.578 3 61 6.433 61 10.65v110.295L23.537 82.991c-2.92-2.92-7.702-2.92-10.297 0l-3.527 3.244c-1.298 1.298-2.25 3.244-2.25 5.19.001 1.946.671 3.893 2.293 5.19z\"><\/path> <path d=\"M127.511 169H15.595C11.378 169 8 172.2 8 176.417v4.866C8 185.5 11.378 189 15.595 189h111.916c4.217 0 7.489-3.5 7.489-7.717v-4.866c0-4.217-3.596-7.417-7.489-7.417z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows44",
+                "elementName": "Shapes.Arrows44",
+                "style": {
+                    "top": 378,
+                    "left": 49,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:37%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"7.463001251220703 3 127.83299255371094 186\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M9.756 96.615L66.2 153.06c1.298 1.298 3.244 2.271 5.19 2.271 1.946 0 3.893-.649 5.19-2.271l56.445-56.445c1.298-1.298 2.271-3.244 2.271-5.19 0-1.946-.973-3.568-2.271-5.19l-3.244-3.244c-2.92-2.92-7.847-2.92-10.442 0L81 120.945V10.65C81 6.433 77.879 3 73.662 3h-4.866C64.578 3 61 6.433 61 10.65v110.295L23.537 82.991c-2.92-2.92-7.702-2.92-10.297 0l-3.527 3.244c-1.298 1.298-2.25 3.244-2.25 5.19.001 1.946.671 3.893 2.293 5.19z\"><\/path> <path d=\"M127.511 169H15.595C11.378 169 8 172.2 8 176.417v4.866C8 185.5 11.378 189 15.595 189h111.916c4.217 0 7.489-3.5 7.489-7.717v-4.866c0-4.217-3.596-7.417-7.489-7.417z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows45",
+                "elementName": "Shapes.Arrows45",
+                "style": {
+                    "top": 378,
+                    "left": 95,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:43%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"12.390000343322754 5.9800004959106445 176.2215118408203 188.04100036621094\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M110.561 99.82l75.072-75.072c3.97-3.97 3.97-10.106 0-13.715l-2.166-2.166c-1.805-1.805-4.331-2.887-6.858-2.887-2.526 0-5.053 1.083-6.858 2.887L85.296 92.962c-2.166 1.805-2.887 4.331-2.887 6.858s1.083 5.053 2.887 6.858l84.456 84.456c1.805 1.805 4.331 2.887 6.858 2.887 2.526 0 5.053-1.083 6.858-2.887l2.166-2.166c3.97-3.97 3.97-10.106 0-13.715L110.561 99.82z\"><\/path> <path d=\"M40.542 99.82l75.072-75.072c3.97-3.97 3.97-10.106 0-13.715l-2.166-2.166c-1.805-1.805-4.331-2.887-6.858-2.887-2.526 0-5.053 1.083-6.858 2.887L15.277 92.962c-1.805 1.805-2.887 4.331-2.887 6.858s1.083 5.053 2.887 6.858l84.456 84.456c1.805 1.805 4.331 2.887 6.858 2.887s5.053-1.083 6.858-2.887l2.166-2.166c3.97-3.97 3.97-10.106 0-13.715L40.542 99.82z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows46",
+                "elementName": "Shapes.Arrows46",
+                "style": {
+                    "top": 378,
+                    "left": 143,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:48%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"12.390000343322754 5.9800004959106445 176.2215118408203 188.04100036621094\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M110.561 99.82l75.072-75.072c3.97-3.97 3.97-10.106 0-13.715l-2.166-2.166c-1.805-1.805-4.331-2.887-6.858-2.887-2.526 0-5.053 1.083-6.858 2.887L85.296 92.962c-2.166 1.805-2.887 4.331-2.887 6.858s1.083 5.053 2.887 6.858l84.456 84.456c1.805 1.805 4.331 2.887 6.858 2.887 2.526 0 5.053-1.083 6.858-2.887l2.166-2.166c3.97-3.97 3.97-10.106 0-13.715L110.561 99.82z\"><\/path> <path d=\"M40.542 99.82l75.072-75.072c3.97-3.97 3.97-10.106 0-13.715l-2.166-2.166c-1.805-1.805-4.331-2.887-6.858-2.887-2.526 0-5.053 1.083-6.858 2.887L15.277 92.962c-1.805 1.805-2.887 4.331-2.887 6.858s1.083 5.053 2.887 6.858l84.456 84.456c1.805 1.805 4.331 2.887 6.858 2.887s5.053-1.083 6.858-2.887l2.166-2.166c3.97-3.97 3.97-10.106 0-13.715L40.542 99.82z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows47",
+                "elementName": "Shapes.Arrows47",
+                "style": {
+                    "top": 378,
+                    "left": 190,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:53%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"6.442679405212402 47.49680709838867 187.1136474609375 105.00750732421875\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M174.476 51.261l-74.704 74.193L25.578 50.75c-4.287-4.316-11.566-4.341-15.882-.054s-4.341 11.565-.055 15.882l82.107 82.673c4.287 4.316 11.566 4.341 15.882.055l82.673-82.107c4.316-4.287 4.341-11.566.055-15.882s-11.235-4.342-15.882-.056z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows48",
+                "elementName": "Shapes.Arrows48",
+                "style": {
+                    "top": 378,
+                    "left": 234,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"f-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:58%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"6.442679405212402 47.49680709838867 187.1136474609375 105.00750732421875\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M174.476 51.261l-74.704 74.193L25.578 50.75c-4.287-4.316-11.566-4.341-15.882-.054s-4.341 11.565-.055 15.882l82.107 82.673c4.287 4.316 11.566 4.341 15.882.055l82.673-82.107c4.316-4.287 4.341-11.566.055-15.882s-11.235-4.342-15.882-.056z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows49",
+                "elementName": "Shapes.Arrows49",
+                "style": {
+                    "top": 436,
+                    "left": 2,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"g-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:63%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"5.982002258300781 4.933990478515625 188.55599975585938 188.55599975585938\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M100.26 4.934c-52.064 0-94.278 42.213-94.278 94.278 0 52.064 42.214 94.278 94.278 94.278 52.065 0 94.278-42.214 94.278-94.278-.001-52.065-42.213-94.278-94.278-94.278zM72.974 143.896a3.903 3.903 0 0 1-2.623-1.001 3.93 3.93 0 0 1-.292-5.547l30.782-34.207-30.782-34.204a3.927 3.927 0 0 1 5.839-5.253l33.145 36.831a3.932 3.932 0 0 1 0 5.256L75.898 142.6a3.933 3.933 0 0 1-2.924 1.296zm66.494-38.124L106.324 142.6c-.775.859-2.849 1.296-3.923 1.296-.936 0-.871-.326-1.623-1.001a3.93 3.93 0 0 1-.292-5.547l30.782-34.207-30.782-34.203a3.927 3.927 0 0 1 5.839-5.253l33.145 36.831a3.934 3.934 0 0 1-.002 5.256z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows50",
+                "elementName": "Shapes.Arrows50",
+                "style": {
+                    "top": 436,
+                    "left": 48,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"g-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:68%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"5.982002258300781 4.933990478515625 188.55599975585938 188.55599975585938\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M100.26 4.934c-52.064 0-94.278 42.213-94.278 94.278 0 52.064 42.214 94.278 94.278 94.278 52.065 0 94.278-42.214 94.278-94.278-.001-52.065-42.213-94.278-94.278-94.278zM72.974 143.896a3.903 3.903 0 0 1-2.623-1.001 3.93 3.93 0 0 1-.292-5.547l30.782-34.207-30.782-34.204a3.927 3.927 0 0 1 5.839-5.253l33.145 36.831a3.932 3.932 0 0 1 0 5.256L75.898 142.6a3.933 3.933 0 0 1-2.924 1.296zm66.494-38.124L106.324 142.6c-.775.859-2.849 1.296-3.923 1.296-.936 0-.871-.326-1.623-1.001a3.93 3.93 0 0 1-.292-5.547l30.782-34.207-30.782-34.203a3.927 3.927 0 0 1 5.839-5.253l33.145 36.831a3.934 3.934 0 0 1-.002 5.256z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows51",
+                "elementName": "Shapes.Arrows51",
+                "style": {
+                    "top": 436,
+                    "left": 95,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"g-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:73%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.628997802734375 5.067999839782715 190.86399841308594 190.864013671875\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M4.629 100.5c0 52.624 42.808 95.432 95.432 95.432 52.616 0 95.432-42.808 95.432-95.432S152.678 5.068 100.061 5.068c-52.624 0-95.432 42.808-95.432 95.432zm39.763 7.619c0-12.966 10.547-23.524 23.524-23.524h70.743L119.01 63.439a3.975 3.975 0 0 1 .21-5.615 3.957 3.957 0 0 1 5.615.21l25.846 27.834c.171.17.249.388.373.582.14.221.295.396.396.644.179.459.28.932.287 1.414 0 .027.016.039.016.062s-.016.039-.016.062a4.06 4.06 0 0 1-.287 1.421c-.101.241-.256.427-.396.637-.124.194-.202.415-.373.582l-25.846 27.834a3.927 3.927 0 0 1-2.904 1.274c-.979 0-1.942-.35-2.71-1.064a3.975 3.975 0 0 1-.21-5.615l19.649-21.156H67.916c-8.59 0-15.571 6.99-15.571 16.239 0 8.582 6.982 15.571 15.571 15.571h32.145a3.976 3.976 0 1 1 0 7.952H67.916c-12.977.004-23.524-10.551-23.524-24.188z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows52",
+                "elementName": "Shapes.Arrows52",
+                "style": {
+                    "top": 436,
+                    "left": 142,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"g-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:195%;left:78%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"6.900000095367432 6.900000095367432 286.20001220703125 286.20001220703125\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M150 6.9C71.1 6.9 6.9 71.1 6.9 150S71.1 293.1 150 293.1c78.9 0 143.1-64.2 143.1-143.1S228.9 6.9 150 6.9zm48.2 190.8H150c-3.3 0-6-2.7-6-6s2.7-6 6-6h48.2c12.9 0 23.4-10.5 23.4-23.4 0-13.9-10.5-24.4-23.4-24.4H92.1l29.5 31.7c2.2 2.4 2.1 6.2-.3 8.4-1.2 1.1-2.6 1.6-4.1 1.6-1.6 0-3.2-.6-4.4-1.9L74 135.9c-.3-.3-.4-.6-.6-.9-.2-.3-.4-.6-.6-1-.3-.7-.4-1.4-.4-2.1v-.2c0-.7.2-1.4.4-2.1.2-.4.4-.6.6-1 .2-.3.3-.6.6-.9l38.8-41.8c2.2-2.4 6-2.6 8.4-.3 2.4 2.2 2.6 6 .3 8.4L92 125.7h106.1c19.5 0 35.3 15.8 35.3 35.3.1 20.9-15.7 36.7-35.2 36.7z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows53",
+                "elementName": "Shapes.Arrows53",
+                "style": {
+                    "top": 436,
+                    "left": 188,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"g-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.568000793457031 3.497999906539917 191.864013671875 191.86399841308594\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M108.494 94.815v29.995l43.969-25.38-43.969-25.381v20.766z\"><\/path> <path d=\"M60.528 74.049v50.761l39.972-23.069v-4.623L60.528 74.049z\"><\/path> <path d=\"M100.5 3.498c-52.978 0-95.932 42.954-95.932 95.932s42.954 95.932 95.932 95.932 95.932-42.954 95.932-95.932c0-52.979-42.954-95.932-95.932-95.932zm61.956 99.398l-55.96 32.305a4.014 4.014 0 0 1-1.999.531c-.687 0-1.374-.18-1.999-.531a4.015 4.015 0 0 1-1.999-3.466v-20.766l-41.97 24.232a4.014 4.014 0 0 1-1.999.531c-.687 0-1.374-.18-1.999-.531a4.015 4.015 0 0 1-1.999-3.466v-64.61c0-1.429.765-2.748 1.999-3.466a4.012 4.012 0 0 1 3.997 0l41.97 24.232V67.125c0-1.429.765-2.748 1.999-3.466a4.012 4.012 0 0 1 3.997 0l55.96 32.305c1.242.718 1.999 2.038 1.999 3.466s-.755 2.747-1.997 3.466z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows54",
+                "elementName": "Shapes.Arrows54",
+                "style": {
+                    "top": 436,
+                    "left": 235,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"g-symbol-2\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:35%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"4.568000793457031 3.497999906539917 191.864013671875 191.86399841308594\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M108.494 94.815v29.995l43.969-25.38-43.969-25.381v20.766z\"><\/path> <path d=\"M60.528 74.049v50.761l39.972-23.069v-4.623L60.528 74.049z\"><\/path> <path d=\"M100.5 3.498c-52.978 0-95.932 42.954-95.932 95.932s42.954 95.932 95.932 95.932 95.932-42.954 95.932-95.932c0-52.979-42.954-95.932-95.932-95.932zm61.956 99.398l-55.96 32.305a4.014 4.014 0 0 1-1.999.531c-.687 0-1.374-.18-1.999-.531a4.015 4.015 0 0 1-1.999-3.466v-20.766l-41.97 24.232a4.014 4.014 0 0 1-1.999.531c-.687 0-1.374-.18-1.999-.531a4.015 4.015 0 0 1-1.999-3.466v-64.61c0-1.429.765-2.748 1.999-3.466a4.012 4.012 0 0 1 3.997 0l41.97 24.232V67.125c0-1.429.765-2.748 1.999-3.466a4.012 4.012 0 0 1 3.997 0l55.96 32.305c1.242.718 1.999 2.038 1.999 3.466s-.755 2.747-1.997 3.466z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows55",
+                "elementName": "Shapes.Arrows55",
+                "style": {
+                    "top": 492,
+                    "left": 2,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"h-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:40%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"6.226997375488281 5.83599853515625 189 189\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M100.727 5.836c-52.192 0-94.5 42.309-94.5 94.501 0 52.191 42.309 94.499 94.5 94.499s94.5-42.309 94.5-94.499-42.309-94.501-94.5-94.501zm33.933 97.98l-5.306 5.306-39.877 39.877a4.919 4.919 0 0 1-6.958 0l-1.827-1.827a4.922 4.922 0 0 1 0-6.959l36.397-36.397a4.92 4.92 0 0 0 0-6.959L80.691 60.46a4.922 4.922 0 0 1 0-6.959l1.827-1.827a4.919 4.919 0 0 1 6.958 0l39.877 39.877 5.306 5.306a4.92 4.92 0 0 1 .001 6.959z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows56",
+                "elementName": "Shapes.Arrows56",
+                "style": {
+                    "top": 492,
+                    "left": 49,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"h-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:45%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"5.7960052490234375 4.21099853515625 187.5 187.5\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M193.296 97.961c0-51.778-41.973-93.75-93.751-93.75-51.776 0-93.749 41.973-93.749 93.75s41.973 93.75 93.749 93.75 93.751-41.973 93.751-93.75zM91.169 134.078L53.916 96.822a11.808 11.808 0 0 1-3.47-8.376c0-3.032 1.157-6.063 3.47-8.376 4.626-4.627 12.126-4.627 16.753 0l28.877 28.876 28.877-28.876c4.626-4.627 12.126-4.627 16.754 0 4.626 4.627 4.626 12.126 0 16.753l-37.254 37.255c-4.626 4.626-12.127 4.626-16.754 0z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows57",
+                "elementName": "Shapes.Arrows57",
+                "style": {
+                    "top": 492,
+                    "left": 94,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"h-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:50%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"2.9239959716796875 2.71099853515625 193 193\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M99.423 2.711c-53.295 0-96.499 43.204-96.499 96.5s43.204 96.5 96.499 96.5c53.295 0 96.501-43.204 96.501-96.5 0-53.297-43.204-96.5-96.501-96.5zm39.3 118.315H60.124c-4.625 0-7.136-5.41-4.151-8.943l39.299-46.505c2.171-2.569 6.131-2.569 8.302 0l39.299 46.505c2.987 3.533.476 8.943-4.15 8.943z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows58",
+                "elementName": "Shapes.Arrows58",
+                "style": {
+                    "top": 492,
+                    "left": 142,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"h-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:55%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"2.3109970092773438 2.7109999656677246 193.5 193.5\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M99.061 2.711c-53.435 0-96.75 43.316-96.75 96.751 0 53.433 43.316 96.749 96.75 96.749 53.433 0 96.75-43.316 96.75-96.749S152.494 2.711 99.061 2.711zm39.436 128.801c0 3.772-4.412 5.82-7.293 3.385l-33.326-28.162v24.777c0 3.772-4.412 5.82-7.293 3.385l-37.927-32.05a4.433 4.433 0 0 1 0-6.771l37.927-32.05c2.881-2.435 7.293-.387 7.293 3.385v24.777l33.326-28.162c2.881-2.435 7.293-.387 7.293 3.385v64.101z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows59",
+                "elementName": "Shapes.Arrows59",
+                "style": {
+                    "top": 492,
+                    "left": 189,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"h-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:60%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"5.359493255615234 6.000499725341797 188.24949645996094 188.24899291992188\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M166.04 33.569c-36.758-36.758-96.354-36.758-133.112 0-36.758 36.758-36.758 96.354 0 133.112 36.758 36.758 96.355 36.758 133.113 0 36.758-36.758 36.757-96.354-.001-133.112zm-25.025 81.885l-34.033 34.033c-3.045 3.045-8.26 1.202-8.716-3.079l-4.043-37.961a5.122 5.122 0 0 0-4.551-4.551l-37.961-4.043c-4.282-.456-6.124-5.671-3.08-8.716l34.033-34.033a5.122 5.122 0 0 1 4.165-1.472l46.186 4.92a5.121 5.121 0 0 1 4.551 4.551l4.92 46.186a5.119 5.119 0 0 1-1.471 4.165z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesArrows60",
+                "elementName": "Shapes.Arrows60",
+                "style": {
+                    "top": 492,
+                    "left": 237,
+                    "width": 44,
+                    "height": 46,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1'  id=\"h-symbol-1\" class=\"componentElement\" width='60' height='64' style=\"position: absolute;top:210%;left:65%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"29 29 142 142\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M100 29c-39.2 0-71 31.8-71 71s31.8 71 71 71 71-31.8 71-71-31.8-71-71-71zm36.6 96.2c0 3-2.4 5.4-5.4 5.4l-54.6-.1c-3 0-5.4-2.4-5.4-5.4V70.6c0-3 2.4-5.4 5.4-5.4h10.7c3 0 5.4 2.4 5.4 5.4v32.9c0 3 2.4 5.4 5.4 5.4l33 .1c3 0 5.4 2.4 5.4 5.4l.1 10.8z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

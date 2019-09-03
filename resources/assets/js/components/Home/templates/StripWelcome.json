@@ -1,0 +1,144 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "StripWelcome",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 930,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "WelcomeSectionOne",
+                "elementName": "Welcome.SectionOne",
+                "style": {
+                    "top": 0,
+                    "left": 0,
+                    "width": 280,
+                    "height": 135,
+                    "transform": {
+ 
+                    }  
+                },
+                "html": "<section class='welcome_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='500' width='100' style='position: absolute;left: 0;top: 0;overflow: hidden;width: 100%;'> <div class='welcome_sec_one'> <div class='sec_one_video'> <video height='500' width='100' src='[BASEURL]/element_images/welcome_images/file.mp4' playsinline loop muted autoplay></video> <div class='video_text' height='290' width='980' style='position: absolute;left: 0;top: 109px;height: 290px;width: 980px;margin-left: calc((100% - 980px) * 0.5);'> <h1 class='componentElement' height='200' width='515' style='position: absolute;left: 233px;top: 0;width: 515px;height:200px;margin: 0;margin-left: calc((100% - 980px) * 0.5);'>Comming <span>Brand</span></h1> <button class='video_readMore componentElement' height='48' width='173' style='position: absolute;left: 404px;top: 240px;width: 173px;margin-left: calc((100% - 980px) * 0.5);'>Read More</button> </div> </div> </div> </section> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "WelcomeSectionTwo",
+                "elementName": "Welcome.SectionTwo",
+                "style": {
+                    "top": 140,
+                    "left": 0,
+                    "width": 280,
+                    "height": 180,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='welcome_sec_wrap componentElement fullSizeElement' height='730' width='100' fullSizeElement='1' style='position: absolute;left: 0;top: 0;height: 730px; width:100%;background: #ca98ff;'> <div class='welcome_sec_two' style='position: absolute;left: 0;top:0;margin-left: calc((100% - 980px) *0.5);width: 980px;height: 730px;'> <div class='sec_text'> <h1 class='componentElement' height='115' width='415' style='position: absolute;left: 0;top:120px;font-size: 100px;z-index: 9;margin-bottom: 0;width: 415px;height: 115px;'>Your <span>Title.</span></h1> <p class='componentElement' height='150' width='420' style='position: absolute;left: 0;top: 323px;z-index: 9;width: 420px;height: 150px;'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> </div> <div class='img_wrap componentElement' height='600' width='490' style='position: absolute;left: 490px;top: 60px;width: 490px;height: 600px;;'> <img src='[BASEURL]/element_images/welcome_images/02.jpg'> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "WelcomeSectionThree",
+                "elementName": "Welcome.SectionThree",
+                "style": {
+                    "top": 325,
+                    "left": 0,
+                    "width": 280,
+                    "height": 165,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='welcome_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='700' width='100' style='position: absolute;left: 0;top: 0;height: 700px;width: 100%;'> <div class='welcome_sec_three' style='position: absolute;left: 0;top: 0;height: 700px;width: 100%;'> <img src='[BASEURL]/element_images/welcome_images/03.jpg'> <div class='overlay_box componentElement' height='360' width='528' style='position: absolute;left: 226px;top: 170px;margin-left: calc((100% - 980px) * 0.5);width: 528px;height: 360px;'> <h1 class='componentElement' height='102' width='100' style='position: absolute;top:50px;left: 0;text-align: center;width: 100%;height: 102px;'>Fresh Eat</h1> <h3 class='componentElement' height='32' width='100' style='position: absolute;left: 0;top:190px;width: 100%;'>Local Cousin</h3> <a href='#' class='componentElement' height='22' width='106' style='position: absolute;left: 211px;top: 250px;width: 106px;height: 22px;'>Order Online ></a> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "WelcomeSectionFour",
+                "elementName": "Welcome.SectionFour",
+                "style": {
+                    "top": 490,
+                    "left": 0,
+                    "width": 280,
+                    "height": 122,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='welcome_sec_wrap componentElement fullSizeElement' fullSizeElement='1' width='100' height='500' style='position: absolute;left: 0;top: 0;height: 500px;width: 100%;overflow: hidden;'> <div class='welcome_sec_four'> <div class='sec_four_video'> <video src='[BASEURL]/element_images/welcome_images/04.mp4' playsinline loop muted autoplay></video> <div class='video_text' style='position: absolute;left: 0;top: 0;z-index: 99;;width: 980px;height: 500px;margin-left: calc((100% - 980px) * 0.5);'> <h4 class='componentElement' height='58' width='100' style='position: absolute;left: 0;top: 110px;'>25 years of</h4> <h1 class='componentElement' height='100' width='100' style='position: absolute;left: 0;top: 130px;text-align: center;'>COMBINED EXPERIENCE</h1> <p class='componentElement' height='27' width='100' style='position: absolute;left: 0;top: 250px;text-align: center;'>'Lorem ipsum dolor sit amet, consectetur adipiscing elit</p> <h5 class='componentElement' height='53' width='125' style='position: absolute;left: 182px;top: 300px;width: 125px;margin-left: calc((100% - 490px)* 0.5);'><a href='#'>Scroll Down <br> <i class='fa fa-chevron-down'></i></a></h5> </div> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "WelcomeSectionFive",
+                "elementName": "Welcome.SectionFive",
+                "style": {
+                    "top": 618,
+                    "left": 0,
+                    "width": 280,
+                    "height": 150,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='welcome_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='650' width='100' style='position: absolute;left: 0;top: 0;height: 650px;width: 100%;'> <div class='welcome_sec_five'> <div class='sec_five_video'> <video src='[BASEURL]/element_images/welcome_images/05.mp4' playsinline loop muted autoplay></video> <div class='video_text' style='position: absolute;left: 0;top: 0;z-index: 99;;width: 980px;height: 650px;margin-left: calc((100% - 980px) * 0.5);'> <h3 class='componentElement' height='66' width='100' style='position: absolute;left: 0;top: 200px;width: 100%;height: 66px;'>Here is the Title</h3> <h1 class='componentElement' height='100' width='100' style='position: absolute;left: 0;top: 330px;text-align: center;width: 100%;height: 100px;'>TEXT GOES HERE.</h1> </div> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, {
+                "name": "WelcomeSectionSix",
+                "elementName": "Welcome.SectionSix",
+                "style": {
+                    "top": 770,
+                    "left": 0,
+                    "width": 280,
+                    "height": 142,
+                    "transform": {
+
+                    }
+                },
+                "html": "<section class='welcome_sec_wrap componentElement fullSizeElement' fullSizeElement='1' height='600' width='100' style='position: absolute;left: 0;top: 0;height: 600px;width: 100%;'> <div class='welcome_sec_six' style='position: absolute;left: 0;top: 0;height: 600px;'> <img src='[BASEURL]/element_images/welcome_images/06.jpg'> <div class='text_wrap' style='position: absolute;left: 0;top: 0;width: 980px;height: 600px;margin-left: calc((100% - 980px) * 0.5)'> <h3 class='componentElement' height='97' width='115' style='position: absolute;left: 187px;top: 140px;color: #fff;    font-family: Niconne;font-size: 80px;margin: 0;height: 97px;width: 115px;margin-left: calc((100% - 490px) * 0.5);'>The</h3> <h1 class='componentElement' height='341' width='695' style='position: absolute;left: 142px;top: 220px;color: #fff;font-size: 250px;margin: 0;text-transform: uppercase;width: 695px;height: 341px;'>Joint</h1> </div> </div> </section>",
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

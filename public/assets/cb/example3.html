@@ -1,0 +1,67 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Classic Example</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">  
+
+    <link href='http://fonts.googleapis.com/css?family=Marcellus+SC|Open+Sans:300,600,800' rel='stylesheet' type='text/css'>
+    <link href="http://34.217.146.254/public/cb/assets/classic/content.css" rel="stylesheet" type="text/css" />
+
+    <link href="scripts/contentbuilder.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+<br />
+<br />
+<br />
+
+<div id="contentarea" class="container">
+
+    <!-- This is just a sample content -->
+    <div class="row clearfix">
+        <div class="column full display">
+            <h1>The Cafe</h1>
+            <p>Fresh roasted coffee, exclusive teas &amp; light meals</p>
+        </div>
+    </div>
+    <div class="row clearfix">
+        <div class="column half">
+            <img src="assets/cafe.jpg">  
+        </div>
+        <div class="column half">
+            <p>Welcome to the website of the Cafe on the Corner. We are situated, yes you've guessed it, on the corner of This Road and That Street in The Town.</p>
+            <p>We serve freshly brewed tea and coffee, soft drinks and a section of light meals and tasty treats and snacks. We are open for breakfast, lunch and afternoon tea from 8 am to 5 pm and unlike any other cafe in the town, we are open 7 days per week.</p>
+       </div>
+    </div>
+    <div class="row clearfix">
+        <div class="column full">
+            <p>A truly family run business, we aim to create a cosy and friendly atmosphere in the cafe with Mum and Auntie doing the cooking and Dad and the (grown-up) children serving front of house. We look forward to welcoming you to the Cafe on the Corner very soon.</p>
+        </div>
+    </div>
+
+</div>
+
+<script src="scripts/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script src="scripts/jquery-ui.min.js" type="text/javascript"></script>
+<script src="scripts/contentbuilder.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+    jQuery(document).ready(function ($) {
+
+        $("#contentarea").contentbuilder({
+            zoom: 0.85,
+            snippetFile: 'http://34.217.146.254/public/cb/assets/classic/snippets.html'
+            });
+
+    });
+
+    function view() {
+        var sHTML = $('#contentarea').data('contentbuilder').html();
+        alert(sHTML);
+    }
+</script>
+
+</body>
+</html>

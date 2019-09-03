@@ -1,0 +1,50 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Images</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content=""> 
+    <style>
+        #files img {cursor: pointer; width:50px}
+    </style> 
+</head>
+<body>
+
+<div id="files">
+    <img src="assets/red.jpg" />
+    <img src="assets/book.jpg" />
+    <img src="assets/flower.jpg" />
+</div>
+
+<script src="scripts/jquery-1.11.1.min.js" type="text/javascript"></script>
+<script>
+    jQuery(document).ready(function ($) {
+
+        //Optional: specify custom height
+        window.frameElement.style.height = '500px';
+
+        $("img").click(function () {
+
+            selectAsset($(this).attr('src'));
+
+        });
+
+    });
+
+    /* 
+    USE THIS FUNCTION TO SELECT CUSTOM ASSET WITH CUSTOM VALUE TO RETURN 
+    An asset can be a file, an image or a page in your own CMS
+    */
+    function selectAsset(assetValue) {
+        //Get selected URL
+        var inp = parent.top.$('#active-input').val();
+        parent.top.$('#' + inp).val(assetValue);
+
+        //Close dialog
+        if (window.frameElement.id == 'ifrFileBrowse') parent.top.$("#md-fileselect").data('simplemodal').hide();
+        if (window.frameElement.id == 'ifrImageBrowse') parent.top.$("#md-imageselect").data('simplemodal').hide();
+    }
+</script>
+</body>
+</html>

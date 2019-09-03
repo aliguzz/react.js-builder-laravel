@@ -1,0 +1,696 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Shapes",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 415,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "ShapesBasic1",
+                "elementName": "Shapes.Basic1",
+                "style": {
+                    "top": 8,
+                    "left": 5,
+                    "width": 81,
+                    "height": 92,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"hexagon\" class=\"componentElement\" width=\"100\" height=\"55\" style=\"position: absolute;top:20%;left:30%;\"><svg height=\"100%\" width=\"100%\"  xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 298.18499755859375 352.0820007324219\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"><g><path d=\"M298.185 264.061l-149.093 88.021L0 264.061V88.021L149.092 0l149.093 88.021v176.04z\"></path></g></svg><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic2",
+                "elementName": "Shapes.Basic2",
+                "style": {
+                    "top": 9,
+                    "left": 93,
+                    "width": 40,
+                    "height": 39,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"square\" class=\"componentElement\" width=\"80\" height=\"80\" style=\"position: absolute;top:16%;left:40%;\"><svg height=\"100%\" width=\"100%\"  xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"1.5 1.5 57 57\"role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px\"><g> <path d=\"M46.5 58.5h-33c-6.6 0-12-5.4-12-12v-33c0-6.6 5.4-12 12-12h33c6.6 0 12 5.4 12 12v33c0 6.6-5.4 12-12 12z\"></path></g></svg><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic3",
+                "elementName": "Shapes.Basic3",
+                "style": {
+                    "top": 11,
+                    "left": 140,
+                    "width": 35,
+                    "height": 35,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"triangle-up\" class=\"componentElement\" width=\"100\" height=\"80\" style=\"position: absolute;top:16%;left:48%;\"><svg height=\"100%\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 334.80499267578125 289.9490051269531\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"><g><path d=\"M167.402 0l167.403 289.949H0L167.402 0z\"></path></g></svg><\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic4",
+                "elementName": "Shapes.Basic4",
+                "style": {
+                    "top": 11,
+                    "left": 186,
+                    "width": 34,
+                    "height": 33,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"star-five\" class=\"componentElement\" width=\"85\" height=\"81\" style=\"position: absolute;top:16%;left:56%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"26.308780670166016 29.474998474121094 147.35842895507812 141.08694458007812\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M170.1 94.5c7-6.8 3.1-18.7-6.5-20.1L133.1 70c-3.8-.6-7.1-3-8.9-6.4L110.6 36c-4.3-8.7-16.8-8.7-21.1 0L75.8 63.6c-1.7 3.5-5 5.9-8.9 6.4l-30.5 4.4c-9.7 1.4-13.5 13.3-6.5 20.1L52 116c2.8 2.7 4 6.6 3.4 10.4l-5.2 30.4c-1.6 9.6 8.4 16.9 17.1 12.4l27.3-14.3c3.4-1.8 7.5-1.8 11 0l27.3 14.3c8.6 4.5 18.7-2.8 17.1-12.4l-5.2-30.4c-.7-3.8.6-7.7 3.4-10.4l21.9-21.5z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic5",
+                "elementName": "Shapes.Basic5",
+                "style": {
+                    "top": 11,
+                    "left": 231,
+                    "width": 34,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"Octagon\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:16%;left:64%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"33.24055862426758 32.73854446411133 134.51864624023438 134.52166748046875\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M162.989 102.465l1.721-2.77c5.894-9.482 2.985-21.947-6.497-27.842l-2.769-1.721a20.218 20.218 0 0 1-9.015-12.576l-.741-3.176c-2.537-10.873-13.408-17.631-24.282-15.094l-3.175.741a20.218 20.218 0 0 1-15.267-2.518l-2.769-1.721c-9.483-5.894-21.948-2.986-27.842 6.497l-1.721 2.769a20.218 20.218 0 0 1-12.576 9.015l-3.175.741c-10.872 2.538-17.63 13.41-15.093 24.283l.741 3.175a20.218 20.218 0 0 1-2.518 15.267l-1.721 2.769c-5.894 9.482-2.986 21.948 6.497 27.842l2.769 1.721a20.218 20.218 0 0 1 9.015 12.576l.741 3.175c2.537 10.873 13.408 17.631 24.282 15.094l3.174-.741a20.218 20.218 0 0 1 15.267 2.518l2.77 1.722c9.483 5.894 21.948 2.985 27.842-6.497l1.721-2.769a20.214 20.214 0 0 1 12.576-9.015l3.175-.741c10.873-2.537 17.631-13.408 15.094-24.282l-.741-3.175a20.217 20.217 0 0 1 2.517-15.267z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic6",
+                "elementName": "Shapes.Basic6",
+                "style": {
+                    "top": 61,
+                    "left": 95,
+                    "width": 38,
+                    "height": 38,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"half-circle\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:16%;left:72%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"2.799999952316284 2.799999952316284 54.400001525878906 54.400001525878906\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M30 2.8C15 2.8 2.8 15 2.8 30S15 57.2 30 57.2 57.2 45 57.2 30H30V2.8z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic7",
+                "elementName": "Shapes.Basic7",
+                "style": {
+                    "top": 64,
+                    "left": 141,
+                    "width": 36,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"tri-angle\" class=\"componentElement\" width=\"85\" height=\"71\" style=\"position: absolute;top:35%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"42.97100067138672 47.69499969482422 311.9939880371094 264.2340087890625\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M120.97 311.929L42.971 179.812 120.97 47.695h155.996l77.999 132.117-77.999 132.117H120.97z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic8",
+                "elementName": "Shapes.Basic8",
+                "style": {
+                    "top": 61,
+                    "left": 185,
+                    "width": 82,
+                    "height": 38,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"full-box\" class=\"componentElement\" width=\"155\" height=\"60\" style=\"position: absolute;top:35%;left:38%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"17.299999237060547 68.19999694824219 165.3000030517578 63.59999084472656\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M182.6 68.2v63.6H17.3V68.2h165.3z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic9",
+                "elementName": "Shapes.Basic9",
+                "style": {
+                    "top": 115,
+                    "left": 7,
+                    "width": 34,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"hexa-shape\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:33%;left:50%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"1.7000000476837158 1.6999998092651367 56.599998474121094 56.599998474121094\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M10 50L1.7 30 10 10l20-8.3L50 10l8.3 20L50 50l-20 8.3L10 50z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic10",
+                "elementName": "Shapes.Basic10",
+                "style": {
+                    "top": 115,
+                    "left": 50,
+                    "width": 35,
+                    "height": 35,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"circle-shape\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:33%;left:58%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 200 200\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M200 100c0 55.228-44.772 100-100 100S0 155.228 0 100 44.772 0 100 0s100 44.772 100 100z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic11",
+                "elementName": "Shapes.Basic11",
+                "style": {
+                    "top": 115,
+                    "left": 97,
+                    "width": 34,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"triangle-right\" class=\"componentElement\" width=\"85\" height=\"83\" style=\"position: absolute;top:33%;left:66%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"1.600000023841858 2 56.79999923706055 56\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M1.6 2l56.8 28L1.6 58V2z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic12",
+                "elementName": "Shapes.Basic12",
+                "style": {
+                    "top": 113,
+                    "left": 141,
+                    "width": 36,
+                    "height": 35,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"box-shape-2\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:33%;left:74%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"15.30499267578125 10.052000045776367 123 123\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M138.305 10.052v123h-123v-123h123z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic13",
+                "elementName": "Shapes.Basic13",
+                "style": {
+                    "top": 113,
+                    "left": 185,
+                    "width": 82,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"long-box\" class=\"componentElement\" width=\"155\" height=\"71\" style=\"position: absolute;top:48%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"18.5 63.106998443603516 163 74.78599548339844\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M181.5 63.107h-163v62.978h129.423l17.206 10.897 1.436.911-.352-1.664-2.141-10.144H181.5V63.107z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic14",
+                "elementName": "Shapes.Basic14",
+                "style": {
+                    "top": 169,
+                    "left": 5,
+                    "width": 36,
+                    "height": 32,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape\" class=\"componentElement\" width=\"85\" height=\"67\" style=\"position: absolute;top:48%;left:43%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 334.6109924316406 266.89300537109375\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M226.09 266.893H0L108.521 0h226.09L226.09 266.893z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic15",
+                "elementName": "Shapes.Basic15",
+                "style": {
+                    "top": 167,
+                    "left": 50,
+                    "width": 34,
+                    "height": 35,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-2\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:48%;left:53%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"49.94200134277344 49.79399871826172 502.115966796875 502.11700439453125\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M552.058 300.853L301 551.911 49.942 300.853 301 49.794l251.058 251.059z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic16",
+                "elementName": "Shapes.Basic16",
+                "style": {
+                    "top": 168,
+                    "left": 95,
+                    "width": 36,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-3\" class=\"componentElement\" width=\"85\" height=\"81\" style=\"position: absolute;top:48%;left:63%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0.5 1.9000000953674316 59 56.19999694824219\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M11.7 58.1L.5 23.4 30 1.9l29.5 21.5-11.2 34.7H11.7z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic17",
+                "elementName": "Shapes.Basic17",
+                "style": {
+                    "top": 167,
+                    "left": 140,
+                    "width": 38,
+                    "height": 38,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-4\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:48%;left:73%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"3.9000000953674316 3.9000000953674316 52.20000076293945 52.19999694824219\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M19.2 56.1L3.9 40.8V19.2L19.2 3.9h21.6l15.3 15.3v21.6L40.8 56.1H19.2z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic18",
+                "elementName": "Shapes.Basic18",
+                "style": {
+                    "top": 168,
+                    "left": 186,
+                    "width": 80,
+                    "height": 83,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-5\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:63%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"35.4269905090332 32.9109992980957 135.17800903320312 135.17701721191406\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M156.114 107.49l14.491-25.101-25.1-14.492-7.502-27.997-27.997 7.502-25.1-14.491-14.492 25.1-27.997 7.502 7.502 27.996-14.492 25.101 25.101 14.492 7.502 27.996 27.996-7.502 25.102 14.492 14.492-25.101 27.997-7.502-7.503-27.995z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic19",
+                "elementName": "Shapes.Basic19",
+                "style": {
+                    "top": 219,
+                    "left": 5,
+                    "width": 82,
+                    "height": 37,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-6\" class=\"componentElement\" width=\"155\" height=\"60\" style=\"position: absolute;top:63%;left:40%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"17.30000114440918 68 165.39999389648438 63.899993896484375\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M168.8 131.9H31.2c-7.6 0-13.9-6.2-13.9-13.9V81.9c0-7.6 6.2-13.9 13.9-13.9h137.6c7.6 0 13.9 6.2 13.9 13.9V118c0 7.7-6.3 13.9-13.9 13.9z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic20",
+                "elementName": "Shapes.Basic20",
+                "style": {
+                    "top": 219,
+                    "left": 96,
+                    "width": 34,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-7\" class=\"componentElement\" width=\"85\" height=\"81\" style=\"position: absolute;top:63%;left:53%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 353.6839904785156 336.3699951171875\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M176.842 0l54.634 110.714 122.208 17.77-88.432 86.194 20.877 121.692-109.287-57.449L67.535 336.37l20.876-121.692L0 128.484l122.189-17.77L176.842 0z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic21",
+                "elementName": "Shapes.Basic21",
+                "style": {
+                    "top": 220,
+                    "left": 141,
+                    "width": 34,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-8\" class=\"componentElement\" width=\"85\" height=\"76\" style=\"position: absolute;top:63%;left:63%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 -0.0001373291015625 337.77197265625 303.50811767578125\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M310.485 21.159C290.731 4.583 271.484-.029 245.926 0c-27.13 2.348-50.615 15.589-77.041 49.05C142.46 15.589 118.975 2.348 91.845 0 66.287-.029 47.038 4.583 27.284 21.159 14.511 31.878 0 60.341 0 87.465c.339 54.573 38.391 136.609 163.485 212.905l5.165 3.138.236-.141.236.141 5.165-3.138c125.094-76.296 163.146-158.332 163.485-212.905-.001-27.124-14.514-55.587-27.287-66.306z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic22",
+                "elementName": "Shapes.Basic22",
+                "style": {
+                    "top": 268,
+                    "left": 5,
+                    "width": 81,
+                    "height": 42,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-9\" class=\"componentElement\" width=\"155\" height=\"72\" style=\"position: absolute;top:78%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"25.650999069213867 69.59200286865234 148.697998046875 68.85999298095703\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M36.113 69.592h127.775c5.769 0 10.461 4.691 10.461 10.46v37.018c0 5.769-4.692 10.462-10.461 10.462H52.175l-15.93 10.089-1.31.831.321-1.518 1.984-9.403h-1.128c-5.768 0-10.461-4.693-10.461-10.462V80.053c.001-5.77 4.694-10.461 10.462-10.461z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic23",
+                "elementName": "Shapes.Basic23",
+                "style": {
+                    "top": 270,
+                    "left": 98,
+                    "width": 27,
+                    "height": 36,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-10\" class=\"componentElement\" width=\"85\" height=\"120\" style=\"position: absolute;top:78%;left:45%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 226.0019989013672 318.3070068359375\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M113.008 318.307c31.188 0 57.608-10.822 79.888-33.101.635-.655.635-.655 1.276-1.277 21.009-21.644 31.83-48.057 31.83-78.624 0-26.75-10.821-56.979-31.83-90.404-2.871-4.121-5.411-8.593-8.278-12.741L114.596 0 35.653 110.138C12.099 143.245 0 174.751 0 205.305c0 31.203 10.828 57.629 33.107 79.901 22.279 22.278 48.706 33.101 79.901 33.101z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic24",
+                "elementName": "Shapes.Basic24",
+                "style": {
+                    "top": 271,
+                    "left": 146,
+                    "width": 27,
+                    "height": 35,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-11\" class=\"componentElement\" width=\"85\" height=\"120\" style=\"position: absolute;top:78%;left:53%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 226.0019989013672 318.3070068359375\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M113.008 318.307c31.188 0 57.608-10.822 79.888-33.101.635-.655.635-.655 1.276-1.277 21.009-21.644 31.83-48.057 31.83-78.624 0-26.75-10.821-56.979-31.83-90.404-2.871-4.121-5.411-8.593-8.278-12.741L114.596 0 35.653 110.138C12.099 143.245 0 174.751 0 205.305c0 31.203 10.828 57.629 33.107 79.901 22.279 22.278 48.706 33.101 79.901 33.101z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic25",
+                "elementName": "Shapes.Basic25",
+                "style": {
+                    "top": 269,
+                    "left": 190,
+                    "width": 28,
+                    "height": 39,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-12\" class=\"componentElement\" width=\"85\" height=\"122\" style=\"position: absolute;top:78%;left:63%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"9.800000190734863 1 40.400001525878906 58\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M30 59L9.8 29.1 30 1l20.2 28.1L30 59z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic26",
+                "elementName": "Shapes.Basic26",
+                "style": {
+                    "top": 267,
+                    "left": 233,
+                    "width": 30,
+                    "height": 40,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-13\" class=\"componentElement\" width=\"85\" height=\"124\" style=\"position: absolute;top:78%;left:73%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"10.800000190734863 2 38.27499771118164 56\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M49 49.2L30 2 11 49.2c-.1.2-.2.4-.2.6 0 2.7 8.6 8.2 19.1 8.2C40.5 58 49 52.5 49 49.8c.1-.2.1-.4 0-.6z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic27",
+                "elementName": "Shapes.Basic27",
+                "style": {
+                    "top": 323,
+                    "left": 6,
+                    "width": 79,
+                    "height": 80,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-14\" class=\"componentElement\" width=\"85\" height=\"84\" style=\"position: absolute;top:95%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"32.35087203979492 33.25888442993164 136.2982635498047 134.4820098876953\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M168.282 88.417c-1.487-7.768-7.206-13.734-14.387-16.027 1.973-7.113-.004-15.049-5.851-20.522-6.282-5.88-15.266-7.267-22.797-4.25-2.558-7.58-9.47-13.383-18.104-14.249-8.039-.806-15.465 2.876-19.69 8.971-6.441-3.869-14.777-4.261-21.758-.321S54.908 53.202 55.136 60.578c-7.523.535-14.498 4.98-17.787 12.179-3.291 7.198-2.039 15.27 2.554 21.145-5.763 4.735-8.746 12.343-7.104 20.082 1.641 7.74 7.479 13.595 14.707 15.75-1.831 7.15.304 15.046 6.259 20.408 5.955 5.362 14.174 6.789 21.306 4.411 2.795 6.865 9.241 12.073 17.262 13.032 8.019.959 15.52-2.58 19.868-8.592 6.364 3.991 14.689 4.543 21.748.74 7.058-3.805 11.009-10.974 10.93-18.353 7.533-.39 14.596-4.701 18.03-11.834 3.434-7.133 2.344-15.226-2.131-21.187 5.856-4.625 8.991-12.173 7.504-19.942\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic28",
+                "elementName": "Shapes.Basic28",
+                "style": {
+                    "top": 323,
+                    "left": 96,
+                    "width": 34,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-15\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:95%;left:40%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"10.305000305175781 4.552000045776367 131.80401611328125 131.5\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M142.109 136.052H10.305V4.552l131.804 131.5z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic29",
+                "elementName": "Shapes.Basic29",
+                "style": {
+                    "top": 330,
+                    "left": 139,
+                    "width": 38,
+                    "height": 22,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-16\" class=\"componentElement\" width=\"85\" height=\"42\" style=\"position: absolute;top:100%;left:50%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0.699999988079071 15.5 58.599998474121094 29\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M30 15.5L.7 30 30 44.5 59.3 30 30 15.5z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic30",
+                "elementName": "Shapes.Basic30",
+                "style": {
+                    "top": 327,
+                    "left": 186,
+                    "width": 35,
+                    "height": 29,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-17\" class=\"componentElement\" width=\"85\" height=\"58\" style=\"position: absolute;top:100%;left:62%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0.800000011920929 9.899999618530273 58.400001525878906 40.19999694824219\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M59.2 50.1H.8L12.5 9.9h35l11.7 40.2z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic31",
+                "elementName": "Shapes.Basic31",
+                "style": {
+                    "top": 324,
+                    "left": 231,
+                    "width": 34,
+                    "height": 33,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-18\" class=\"componentElement\" width=\"85\" height=\"87\" style=\"position: absolute;top:95%;left:72%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"35.39099884033203 33.390892028808594 130.21798706054688 133.21713256835938\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M165.609 164.184a2.428 2.428 0 0 1-2.428 2.424H37.818a2.426 2.426 0 0 1-2.427-2.424V99.589c0-2.326 2.427-4.851 2.427-4.851s59.828-59.485 60.966-60.622c1.138-1.136 2.713-.772 3.452-.034.74.738 60.569 60.656 60.569 60.656s2.663 2.677 2.804 4.851v64.595z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic32",
+                "elementName": "Shapes.Basic32",
+                "style": {
+                    "top": 367,
+                    "left": 96,
+                    "width": 34,
+                    "height": 35,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-19\" class=\"componentElement\" width=\"85\" height=\"85\" style=\"position: absolute;top:110%;left:30%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 323.2950134277344 323.2960205078125\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M161.647 0l57.151 104.497 104.497 57.15-104.497 57.152-57.151 104.497-57.15-104.497L0 161.647l104.497-57.15L161.647 0z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic33",
+                "elementName": "Shapes.Basic33",
+                "style": {
+                    "top": 369,
+                    "left": 143,
+                    "width": 28,
+                    "height": 34,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-20\" class=\"componentElement\" width=\"85\" height=\"104\" style=\"position: absolute;top:110%;left:40%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"6.5 1.2000000476837158 47 57.599998474121094\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M30 1.2L6.5 21.9 30 58.8l23.5-36.9L30 1.2z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic34",
+                "elementName": "Shapes.Basic34",
+                "style": {
+                    "top": 371,
+                    "left": 185,
+                    "width": 36,
+                    "height": 30,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-21\" class=\"componentElement\" width=\"85\" height=\"70\" style=\"position: absolute;top:110%;left:50%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0.9000000357627869 5.900000095367432 58.19999694824219 48.19999694824219\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M59.1 30c0 13.31-13.029 24.1-29.1 24.1S.9 43.31.9 30C.9 16.69 13.929 5.9 30 5.9S59.1 16.69 59.1 30z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "ShapesBasic35",
+                "elementName": "Shapes.Basic35",
+                "style": {
+                    "top": 372,
+                    "left": 232,
+                    "width": 33,
+                    "height": 29,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div deletable='1' id=\"curve-shape-22\" class=\"componentElement\" width=\"85\" height=\"64\" style=\"position: absolute;top:110%;left:60%;\"> <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"1 8.100000381469727 58 43.80000305175781\" role=\"img\" preserveAspectRatio=\"xMidYMid meet\" style=\"stroke-width: 0px;\"> <g> <path d=\"M47 8.1H13L1 23.3l29 28.6 29-28.6L47 8.1z\"><\/path> <\/g> <\/svg> <\/div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

@@ -1,0 +1,432 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "InteractiveTitles",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 1670,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [ 
+            {
+                "name": "InteractiveHoverBox1",
+                "elementName": "Interactive.HoverBox1",
+                "style": {
+                    "top": 12,
+                    "left": 4,
+                    "width": 273,
+                    "height": 170,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hover-box-1 componentElement' moveelementsonadd='1' bannerelem='1'  width='720' height='450' style='position: absolute; left: 0px; top:0;height:450px;width:720px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/birds.jpg'> <div class='overlay' style='position: absolute;top: 0;left: 0;'> <div class='text componentElement' height='141' width='389' style='margin-left: calc((100% - 389px) * .5);position: absolute;top: 152px;left: 0;height:141px; width: 389px;'> <h2 class='componentElement' width='389' height='50' style='width:389px;height:50px;position:absolute;left:0'>Digital Prints</h2> <hr class='componentElement' width='389' height='1' style='border-bottom-color:#fff; width:389px;position: absolute;left: 0;top: 73px; '> <a href='#' class='componentElement' width='80' height='24' style='width:80px;height:24px;position:absolute;left:160px;top:108px'>View All</a> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox2",
+                "elementName": "Interactive.HoverBox2",
+                "style": {
+                    "top": 524,
+                    "left": 5,
+                    "width": 107,
+                    "height": 80,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='main-box-div-2 componentElement' moveelementsonadd='1' bannerelem='1'  width='524' height='341' style='position: absolute;left: 0;width: 524px;height: 341px;'> <div class='hov-box'> <div class='hov-text'> <hr class='componentElement' width='264' height='1' style='left: 0;position: absolute;width: 264px;margin-left: calc((100% - 264px) * .5);'> <h3 class='componentElement' width='264' height='42' style='position: absolute;left: 0;top: 64px;width: 264px;margin-left: calc((100% - 264px) * .5);'>ABOUT</h3> <h2 class='componentElement' width='264' height='45'style='position: absolute;left: 0;top: 138px;padding: 0;line-height: 45px;height: 80px;margin: 0;width: 264px;margin-left: calc((100% - 264px) * .5);text-align: center;'>me</h2> <hr class='componentElement' style='left: 0;position: absolute;width: 264px;margin-left: calc((100% - 264px) * .5);'> </div> <div class='overlay' style='position: absolute;top: 0;left: 0;width: 100%;height: 100%;'> <div class='text componentElement' width='367' height='96' style='position: absolute;top: 72px;left: 0;width: 367px;height: 96px;margin-left: calc((100% - 367px) * .5);'> This is a great place to tell your story and give people more insight into who you are, what you do, and why it’s all about you. </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox3",
+                "elementName": "Interactive.HoverBox3",
+                "style": {
+                    "top": 185,
+                    "left": 4,
+                    "width": 118,
+                    "height": 84,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-3 componentElement' moveelementsonadd='1' bannerelem='1'  width='512' height='360' style='position:absolute;left:0;width:512px;height:360px;'> <div class='hov-box'> <div class='hov-text'> <div class='img-div componentElement' width='180' height='180' style='width:180px;height:180px;left:0;z-index:999;position: absolute;top: 32px;margin-left:calc((100% - 180px) * .5);'> <img src='[BASEURL]/element_images/happy-girl-picture-1.jpg'> </div> <div class='quote-img componentElement' width='187' height='41' style='position:absolute;left:285px;z-index:9999;top:33px;width:187px;height:41px'> <img src='[BASEURL]/element_images/quote-icon.png'> </div> <h2 class='componentElement' width='179' height='38' style='position:absolute;left:0;top:234px;width:179px;height:38px;margin:0;margin-left:calc((100% - 179px) * .5)'>Name, Title</h2> <h3 class='componentElement' width='500' height='40' style='position:absolute;left:0;top:292px;width:500px;height:40px;margin:0;margin-left:calc((100% - 500px) * .5)'>Why We're Great &gt;</h3> </div> <div class='overlay' style='position:absolute;top:0;bottom:0;left:0;right:0;width:100%;height:100%'> <div class='text' style='position:absolute;top:0;left:0;width:100%;height:100%'> <img src='[BASEURL]/element_images/quote-icon-2.png' class='componentElement' width='524' height='341' style='width:72px;height:58px;position:absolute;left:0;top:83px;margin-left:calc((100% - 72px) * .5)'> <h3 class='componentElement' width='128' height='358' style='width:358px;height:128px;position:absolute;left:0;top:152px;margin-left:calc((100% - 358px) * .5)'>This is a great place to tell your story and give people more insight into who you are, what you do, and why it’s all about you. </h3> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox4",
+                "elementName": "Interactive.HoverBox4",
+                "style": {
+                    "top": 270,
+                    "left": 5,
+                    "width": 270,
+                    "height": 125,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-4 componentElement' moveelementsonadd='1' bannerelem='1'  width='816' height='374' style='position: absolute;left: 0;width: 816px;height: 374px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/bg-1.jpg'> <div class='hov-text' style='position: absolute;top: 0;'> <h3 class='componentElement' width='600' height='87' style='position: absolute;left: 0;top: 116px;width: 600px;margin-left: calc((100% - 600px) * .5);'><span class='item-1'>DISCOVER</span> <span class='item-2'>MORE <i class='fa fa-angle-right' aria-hidden='true'></i><br> <span class='item-3'>Tell people what you do and give them a reason to click.</span></span></h3> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox5",
+                "elementName": "Interactive.HoverBox5",
+                "style": {
+                    "top": 398,
+                    "left": 8,
+                    "width": 108,
+                    "height": 125,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-5 componentElement' moveelementsonadd='1' bannerelem='1'  width='475' height='570' style='position:absolute;left:0;width:475px;height:570px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/wo-pic.jpg'> <div class='overlay' style='position:absolute;top:0;bottom:0;left:0;right:0'> <div class='text' style='position:absolute;top:10%;left:10%;width:80%;height:80%'> <h2 class='componentElement' width='49' height='257' style='width:257px;height:49px;position:absolute;top:0;margin-left:calc((100% - 257px) * .5)'>THE BOSS</h2> <hr class='componentElement' width='90' height='1' style='width:90px;height:1px;position:absolute;left:0;margin-left:calc((100% - 90px) * .5);top:63px'> <p class='componentElement' width='256' height='228' style='width:256px;height:228px;left:0;top:83px;position:absolute;margin-left:calc((100% - 256px) * .5)'>THE BOSS This is a great place to tell people more about yourself and peak their interest. For more info, they can follow you on social in a click.</p> <ul class='list-inline componentElement' width='200' height='26' style='width:200px;height:26px;position:absolute;left:0;top:305px;margin-left:calc((100% - 200px) * .5)'> <li><a socialbar='1' href='#'><i class='fa fa-linkedin' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-twitter' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-google-plus' aria-hidden='true'></i></a></li> </ul> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox6",
+                "elementName": "Interactive.HoverBox6",
+                "style": {
+                    "top": 1412,
+                    "left": 5,
+                    "width": 153,
+                    "height": 220,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-6 componentElement' moveelementsonadd='1' bannerelem='1'  width='365' height='539' style='position: absolute;left: 0;width: 365px;height: 539px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/man-p.jpg' align='top'> <div class='hov-text' style='position: absolute; top: 0;'> <div class='text-area' style='position: absolute;left: 0;right: 0;bottom: 0;'><span class='item-1'> <span class='user-name'>John Mikal</span> <span class='fa-icon-right'> <i class='fa fa-angle-right fa-hidden' aria-hidden='true'></i> <i class='fa fa-angle-down fa-visible' aria-hidden='true'></i> </span></span> <br> <div class='item-2'> <hr> <p>T. 123-456-7890</p> <ul class='list-inline'> <li><a socialbar='1' href='#'><i class='fa fa-linkedin' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-twitter' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-google-plus' aria-hidden='true'></i></a></li> </ul> </div></div> </div> </div> </div> ",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox7",
+                "elementName": "Interactive.HoverBox7",
+                "style": {
+                    "top": 610,
+                    "left": 140,
+                    "width": 133,
+                    "height": 193,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-7 componentElement' moveelementsonadd='1' bannerelem='1'  width='365' height='539' style='position: absolute;left: 0;width: 365px;height: 539px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/man-p2.jpg' align='top'> <div class='hov-text' style='position: absolute;top: 0;'> <div class='text-area' style='position: absolute;left: 0;top: 5%;right: 0px;'><span class='item-1'> <span class='user-name hover-hidden'><a href='#' class='componentElement' width='316' height='42' style='position: absolute;left: 0;top: 235px;width: 316px;height: 42px;margin-left: calc((100% - 316px) * .5);'>MENS</a></span> <span class='user-name hover-visible'><a href='#' class='componentElement' width='319' height='42' style='position: absolute;left: 0;top: 235px;width: 319px;height: 42px;margin-left: calc((100% - 316px) * .5);'>Shop MENS</a></span></span> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox8",
+                "elementName": "Interactive.HoverBox8",
+                "style": {
+                    "top": 808,
+                    "left": 195,
+                    "width": 80,
+                    "height": 108,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-8 componentElement' moveelementsonadd='1' bannerelem='1'  width='365' height='539' style='position: absolute;left: 0;width: 365px;height: 539px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/baby.jpg' align='top'> <div class='hov-text' style='position: absolute;top:14px;'> <div class='text-area' style='position: absolute;left: 0;top: 5%;right: 0px;'><span class='item-1'> <span class='user-name hover-hidden'><a href='#' class='componentElement' width='314' height='42' style='position: absolute;left: 0;top: 243px;width: 314px;height: 42px;margin-left: calc((100% - 314px) * .5);'>WOMEN</a></span> <span class='user-name hover-visible'><a href='#' class='componentElement' width='316' height='42' style='position: absolute;left: 0;top: 248px;width: 316px;height: 42px;margin-left: calc((100% - 316px) * .5);'>Shop WOMEN</a></span> </span> <span class='text-top componentElement' width='316' height='29' style='position: absolute;left: 0;top: 26px;width: 316px;height: 29px;margin-left: calc((100% - 316px) * .5);'> 18-16/11 </span> <span class='text-bottom componentElement' width='316' height='29' style='position: absolute;left: 0;top: 431px;width: 316px;height: 29px;margin-left: calc((100% - 316px) * .5);'>Save 50%</span> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox9",
+                "elementName": "Interactive.HoverBox9",
+                "style": {
+                    "top": 495,
+                    "left": 115,
+                    "width": 160,
+                    "height": 110,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hover-box-9 componentElement' moveelementsonadd='1' bannerelem='1'  width='720' height='480' style='position: absolute;left: 0;width: 720px;height: 480px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/music.jpg'> <div class='pic-text'> <h3 class='componentElement' width='342' height='96' style='position: absolute;top: 46px;left: 27px;width: 342px;height: 96px;'>NEW SINGLE <br><span>OUT NOW</span></h3> <h4 class='componentElement' width='158' height='58' style='position: absolute;top: 400px;left: 61px;width: 158px;height: 58px;'>Get It Here <span><i class='fa fa-angle-right' aria-hidden='true'></i></span></h4> </div> <div class='overlay' style='position: absolute;top: 0;bottom: 0;left: 0;right: 0;'> <div class='text componentElement' width='663' height='54' style='position: absolute;left: 0;top: 404px;width: 663px;height: 54px;margin-left: calc((100% - 663px) * .5);'> <audio controls=''> <source src='horse.mp3' type='audio/mpeg'> Your browser does not support the audio element. </audio> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                } 
+            }, 
+            {
+                "name": "InteractiveHoverBox10",
+                "elementName": "Interactive.HoverBox10",
+                "style": {
+                    "top": 808,
+                    "left": 5,
+                    "width": 190,
+                    "height": 108,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hover-box-10 componentElement' moveelementsonadd='1' bannerelem='1'  width='720' height='405' style='position: absolute;left: 0;width: 720px;height: 405px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/mount-v2.jpg'> <div class='pic-text' style='position: absolute;top: 0;z-index: 2;'> <h3 class='componentElement' width='102' height='48' style='position: absolute;top: 117px;left: 0;width: 102px;height: 48px;margin-left: calc((100% - 102px) * .5);'>Wanderlust</h3> <hr class='componentElement' width='67' height='1' style='position: absolute;top: 149px;left: 0;width: 67px;height: 1px;margin-left: calc((100% - 67px) * .5);'> <h4 class='componentElement' width='447' height='159' style='position: absolute;top: 169px;left: 0;width: 447px;height: 159px;margin-left: calc((100% - 447px) * .5);'>5 Stunning Places Every Jetsetter Should Visit</h4> </div> <div class='side-border' style='top: 9%;left: 0;right: 0;position: absolute;z-index: 1;'> </div> <div class='overlay' style='position: absolute;top: 0;bottom: 0;left: 0;right: 0;'> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox11",
+                "elementName": "Interactive.HoverBox11",
+                "style": {    
+                    "top": 610,
+                    "left": 5,
+                    "width": 133,
+                    "height": 193,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-11 componentElement' moveelementsonadd='1' bannerelem='1'  width='365' height='539' style='position:absolute;left:0;width:365px;height:539px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/ice-cream.jpg' align='top'> <div class='hov-text' style='position:absolute;top:0'> <div class='text-area' style='position:absolute;left:0;right:0;height: 120px;width: 274px;> <div class='item-2' style='height:68px'> <p class='componentElement' width='249' height='24' style='width:249px;height:24px;position:absolute;top:9px'>SWEETS</p> <h4 class='componentElement' width='247' height='64' style='width:247px;height:64px;position:absolute;top:52px'>5 Yummy Ways to Serve Ice Cream</h4> </div></div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox12",
+                "elementName": "Interactive.HoverBox12",
+                "style": {
+                    "top": 1070,
+                    "left": 148,
+                    "width": 127,
+                    "height": 183,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-12 hov-layout-11 componentElement' moveelementsonadd='1' bannerelem='1'  width='365' height='539' style='position: absolute;left: 0;width: 365px;height: 539px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/tree-pic.jpg' align='top'> <div class='hov-text' style='position: absolute;top: 0;'> <div class='text-area' style='position: absolute;left: 0;right: 0;min-height:90px;width: 274px;'> <div class='item-2'> <p class='componentElement' width='248' height='24' style='position:absolute;width:248px;height:24px;top:15px'>TRAVEL</p> <h4 class='componentElement' width='248' height='37' style='position:absolute;width:248px;height:37px;top:39px'>Gilligan's Island</h4> <a href='#' class='hover-btn componentElement' width='145' height='35' style='width:145px;height:35px;position:absolute;margin-left:calc((100% - 127px) * .5);left:0;top:77px'>Book Now!</a> </div> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox13",
+                "elementName": "Interactive.HoverBox13",
+                "style": {
+                    "top": 1070,
+                    "left": 4,
+                    "width": 143,
+                    "height": 92,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hover-box-13 componentElement' moveelementsonadd='1' bannerelem='1'  width='400' height='250' style='position:absolute;left:0;width:400px;height:250px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/old-home.jpg'> <div class='overlay' style='position:absolute;top:0;bottom:0;left:0;right:0'> <div class='text' style='position:absolute;top:50%;left:50%;height:54px;z-index: 2;'> <h2 class='componentElement' width='216' height='29' style='width:216px;height:29px;position:absolute;top:0'>GROUP TOURS</h2> <a href='#' class='componentElement' width='216' height='29' style='width:216px;height:29px;position:absolute;top:25px;left:0'>Book Now</a> </div> <div class='bottom-line' style='left:48%;position:absolute;bottom:42px;z-index: 1;'> <span>+</span> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox14",
+                "elementName": "Interactive.HoverBox14",
+                "style": {
+                    "top": 1164,
+                    "left": 5,
+                    "width": 143,
+                    "height": 90,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hover-box-14 componentElement' moveelementsonadd='1' bannerelem='1'  width='400' height='250' style='position:absolute;left:0;width:400px;height:250px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/black-home.jpg'> <div class='text-content' style='position:absolute;top:0;left:0'> <div class='text' style='position:absolute;top:25%;left:50%;width:336px;height:250px'> <h2 class='componentElement' width='157' height='30' style='position:absolute;width:157px;height:30px;margin:0;top:108px'>LUXURY SPA</h2> <hr class='componentElement' width='56' height='0' style='position:absolute;top:56%;width:56px;height:0;margin:0;top:148px'> </div> <div class='bottom-data' style='position:absolute;left: 32px;height:65px;top: 118px;width:275px;'> <span class='componentElement' width='275' height='56' style='width:275px;height:56px;position:absolute;left:0;top:0'>Use catchy, fun text to tell <br> people what you offer.</span> <a href='#' class='componentElement' width='88' height='35' style='width:88px;height:35px;position:absolute;left:0;top:58px'>Read More <i class='fa fa-angle-right' aria-hidden='true'></i></a> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox15",
+                "elementName": "Interactive.HoverBox15",
+                "style": {
+                    "top": 1413,
+                    "left": 160,
+                    "width": 110,
+                    "height": 110,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hov-layout-15 componentElement' moveelementsonadd='1' bannerelem='1'  width='360' height='360' style='position: absolute;left: 0;width: 360px;height: 360px;'> <div class='hov-box'> <video autoplay='' muted='' loop='' id='myVideo'> <source src='[BASEURL]/element_images/hoverVideos/rain.mp4' type='video/mp4'> </video> <div class='content ' style='position: absolute;top: 0;left: 0;'> <h2 class='componentElement' width='350' height='43' style='position: absolute;top: 165px;left: 5px;width: 350px;height: 43px;'>FOLLOW US</h2> </div> <div class='overlay' style='position: absolute;top: 0;bottom: 0;left: 0;right: 0;'> <div class='text' style='position: absolute;top: 50%;left: 50%;height: 178px;width: 252px;'> <h3 class='componentElement' width='252' height='32' style='width:252px;height:32px;position:absolute;left:0;top:29'>FOLLOW US</h3> <hr class='componentElement' width='252' height='0' style='width:252px;height:0;position:absolute;top:74px'> <ul class='componentElement' width='252' height='32' style='width:252px;height:32px;position:absolute;top:125px'> <li><a socialbar='1' href='#'><i class='fa fa-facebook' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-instagram' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-tripadvisor' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-yelp' aria-hidden='true'></i></a></li> </ul> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox16",
+                "elementName": "Interactive.HoverBox16",
+                "style": {
+                    "top": 1525,
+                    "left": 160,
+                    "width": 110,
+                    "height": 110,
+                    "z-index": 1,
+                    "transform": {
+
+                    } 
+                },
+                "html": "<div class='hov-layout-16 hov-layout-15 componentElement' moveelementsonadd='1' bannerelem='1'  width='360' height='360' style='position: absolute;left: 0;width: 360px;height: 360px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/QGZDjNz.gif'> <div class='overlay componentElement' width='180' height='180' style='position: absolute;top: 100px;left: 0;right: 0;width: 180px;height: 180px;'> <div class='text' style='position: absolute;top: 50%;left: 50%;height: 146;width: 126;'> <h3 class='componentElement' style='height:146;width:126;position:absolute;top:-33px'>BUY NOW</h3> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox17",
+                "elementName": "Interactive.HoverBox17",
+                "style": {
+                    "top": 920,
+                    "left": 5,
+                    "width": 270,
+                    "height": 150,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hover-box-17 componentElement' moveelementsonadd='1' bannerelem='1'  width='800' height='432' style='position: absolute;left: 0;width: 800px;height: 432px;'> <div class='hov-box'> <div style='text-align:center' > <video id='video1' onmouseover='this.play()' onmouseout='this.pause()'> <source src='[BASEURL]/element_images/hoverVideos/file.mp4' type='video/mp4'> <source src='[BASEURL]/element_images/hoverVideos/file.mp4' type='video/ogg'> Your browser does not support HTML5 video. </video> <div class='side-border' style='position: absolute;top: 7%;left: 0;right: 0;'> </div> <div class='content'> <h2 class='componentElement' width='600' height='53' style='position: absolute;top: 172px;left: 0;width: 600px;height: 53px;margin: 0;margin-left: calc((100% - 600px) * .5);'>IT,S YOUR <strong>STORY</strong></h2> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox18",
+                "elementName": "Interactive.HoverBox18",
+                "style": {
+                    "top": 400,
+                    "left": 113,
+                    "width": 162,
+                    "height": 88,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='hover-box-18 componentElement' moveelementsonadd='1' bannerelem='1'  width='760' height='400' style='position:absolute;left:0;width:760px;height:400px;'> <div class='hov-box'> <img src='[BASEURL]/element_images/giphy.gif'> <div class='pic-text' style='position:absolute;top:0'> <h3 class='componentElement' width='297' height='105' style='width:297px;height:105px;position:absolute;left:0;top:153px;margin-left:calc((100% - 297px) * .5);z-index: 2;'>SALE !</h3> <div class='hide-text' style='position:absolute;top:90%;left:0;right:0'> <h2 class='componentElement' width='335' height='105' style='width:335px;height:105px;position:absolute;left:0;top:60px;margin-left:calc((100% - 335px) * .5);margin-top:0;z-index: 2;'>50% OFF</h2> <a href='#' class='componentElement' width='135' height='105' style='width:135px;height:105px;position:absolute;left:0;top:165px;margin-left:calc((100% - 135px) * .5);margin-top:0;z-index: 2;'>BUY NOW</a> </div> </div> <div class='side-border' style='position:absolute;top:8.5%;left:0;right:0;z-index: 1;'> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox19",
+                "elementName": "Interactive.HoverBox19",
+                "style": {
+                    "top": 185,
+                    "left": 124,
+                    "width": 152,
+                    "height": 84,
+                    "z-index": 1,
+                    "transform": {
+
+                    } 
+                },
+                "html": "<div class='hover-box-19 componentElement' moveelementsonadd='1' bannerelem='1'  width='768' height='400' style='position:absolute;left:0;width:768px;height:400px;'> <div class='hov-box'> <div class='img-overlay'> <img src='[BASEURL]/element_images/bri.jpg'> </div> <div class='pic-text' style='position:absolute;top:0;z-index: 2;'> <h3 class='componentElement' width='332' height='52' style='width:332px;height:52px;position:absolute;margin-left:calc((100% - 332px) * .5);left:0'>MY BIG EVENT</h3> <div class='hide-text' style='position:absolute;top:61%;left:0;right:0'> <h2 class='componentElement' width='545' height='44' style='width:545px;height:44px;position:absolute;margin-left:calc((100% - 545px) * .5);left:0;top:0'>This is a great place to tell people more about your special day and get them excited to celebrate.</h2> <a href='#' class='componentElement' width='115px' height='41' style='width:115px;height:41px;position:absolute;margin-left:calc((100% - 115px) * .5);left:0;top:47px'>More Info &gt;</a> </div> </div> <div class='side-border' style='position:absolute;top:7.5%;left:4%;right:4%;z-index: 1;'> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }, 
+            {
+                "name": "InteractiveHoverBox20",
+                "elementName": "Interactive.HoverBox20",
+                "style": {
+                    "top": 1255,
+                    "left": 5,
+                    "width": 270,
+                    "height": 152,
+                    "z-index": 1,
+                    "transform": {
+
+                    }
+                },
+                "html": " <div class='hover-box-20 componentElement' moveelementsonadd='1' bannerelem='1'  width='960' height='540' style='position:absolute;left:0;width:960px;height:540px;'> <div class='hov-box'> <div style='text-align:center'> <video id='video1' onmouseover='this.play()' onmouseout='this.pause()'> <source src='[BASEURL]/element_images/hoverVideos/cook.mp4' type='video/mp4'> <source src='[BASEURL]/element_images/hoverVideos/cook.mp4' type='video/ogg'> Your browser does not support HTML5 video. </video> <div class='content componentElement' width='365' height='486' style='position:absolute;top:27px;left:25px;width:365px;height:486px'> <h2 class='componentElement' width='365' height='49' style='position:absolute;top:27px;left:0;width:365px;height:49px'>Contact Us</h2> <div class='hide-data'> <hr class='componentElement' width='39' height='0' style='position:absolute;left:0;top:163px;width:39px;height:0;margin-left:calc((100% - 39px) * .5)'> <p class='componentElement' width='307' height='128' style='position:absolute;top:225px;left:25px;width:307px;height:128px'>500 Terry Francois Street San Francisco, CA 94158 <br>Open Monday to Friday 12pm to 10pm Saturday to Sunday 12pm to 11pm</p> <a href='#' class='componentElement' width='365' height='26' style='position:absolute;left:0;width:365px;height:26px;top:416px'>GET IN TOUCH &gt;</a> </div> <div class='show-data'> <form class='cont-form componentElement' width='365' height='358' style='position:absolute;top:23%;width:365px;height:358px'> <ul class='form-style-1'> <li><input type='text' name='field1' class='field-divided' placeholder='First'></li> <li> <input type='email' name='field3' class='field-long' placeholder='Email'> </li> <li> <input type='email' name='field3' class='field-long' placeholder='Subject'> </li> <li> <textarea name='field5' id='field5' class='field-long field-textarea' placeholder='Message'></textarea> </li> <li> <input type='submit' value='Send' class='componentElement' width='154' height='57' style='position:absolute;left:0;top:271px;width:154px;height:57px;margin-left:calc((100% - 154px) * .5)'> </li> </ul> </form> </div> <div class='content-after componentElement' width='30' height='84' style='position: absolute;left: 361px;top: 210px;font-size: 84px;width: 30px;height: 84px;'></div> </div> <div class='social-icon componentElement' width='480' height='77' style='position:absolute;right:0;top:233px;width:480px;height:77px'> <ul> <li><a socialbar='1' href='#'><i class='fa fa-facebook' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-instagram' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-tripadvisor' aria-hidden='true'></i></a></li> <li><a socialbar='1' href='#'><i class='fa fa-yelp' aria-hidden='true'></i></a></li> </ul> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

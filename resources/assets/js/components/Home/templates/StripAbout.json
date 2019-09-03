@@ -1,0 +1,126 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "StripAbout",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 615,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "AboutSectionOne",
+                "elementName": "About.SectionOne",
+                "style": {
+                    "top": 7,
+                    "left": 0,
+                    "width": 280,
+                    "height": 130,
+                    "transform": {
+ 
+                    }
+                },
+                "html": " <div class='componentElement about_sec_one fullSizeElement' fullSizeElement='1'  style='height: 500px;position: absolute;left:0;top:500px;width:100%;'> <div class='left_img'> <img src='[BASEURL]/element_images/aboutStrip_images/about_strip01.jpg'> </div> <div class='right_text_sec'> <div class='right_text_sec_inner'> <h1 class='componentElement' style='font-size: 55px;text-transform: uppercase;margin-top: 0;font-weight: 900;position: absolute;left: 40px;'>Aboutus</h1> <p class='componentElement' style='position: absolute;top: 160px;left: 40px;width: 400px;'>I’m a paragraph. Double click here or click Edit Text to add some text of your own or to change the font. Tell your visitors a bit about your services.</p> <button class='componentElement' type='button' style='background: none;padding: 12px 25px;border: 4px solid #333;position: absolute;top: 300px;cursor: pointer;font-size: 17px;text-transform: uppercase;'>Learn More</button> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "AboutSectionTwo",
+                "elementName": "About.SectionTwo",
+                "style": {
+                    "top": 135,
+                    "left": 0,
+                    "width": 280,
+                    "height": 155,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='componentElement fullSizeElement  about_sec_two' fullSizeElement='1' style='height: 500px;position: absolute;top: 550px;left:0;width:100%;'> <div class='left_img'> <img src='[BASEURL]/element_images/aboutStrip_images/about_strip02.jpg'> </div> <div class='right_text_sec'> <div class='right_text_sec_inner'> <h1 style='font-size: 55px;text-transform: uppercase;margin-top: 0;font-weight: 100;position: absolute;left: 40px;font-style: italic;'>Add Your Title</h1> <h6 style='position: absolute;top: 130px;left:40px;font-size: 16px;'>This is a great place to add a tagline.</h6> <p style='position: absolute;top: 200px;left: 40px;width: 400px;line-height: 30px;'>Tell customers more about you. Add a few words and a stunning pic to grab their attention and get them to click.This space is ideal for writing a detailed description of your business and the types of services that you provide. Talk about your team and your areas of expertise. </p> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "AboutSectionThree",
+                "elementName": "About.SectionThree",
+                "style": {
+                    "top": 295,
+                    "left": 6,
+                    "width": 267,
+                    "height": 100,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='componentElement fullSizeElement about_sec_three' fullSizeElement='1' style='height: 500px;width:100%;position: absolute;top: 1100px;left:0;'> <div class=''> <div class='left_img full_width'> <img src='[BASEURL]/element_images/aboutStrip_images/about_strip03.jpg'> </div> <div class='right_text_sec' style='position: absolute;top: 0;left: 117px;margin-left: calc((100% - 980px) * 0.5);'> <div class='right_text_sec_inner'> <h1 class='componentElement' style='font-size: 55px;text-transform: uppercase;margin-top: 0;position: absolute;left: 0;top:80px;text-align:center;font-style: italic;color: #bc9b5d;font-weight: 700;width:100%;'>About Us</h1> <h6 class='componentElement' style='position: absolute;top: 155px;left:0;text-align: center;font-size: 16px;font-weight: 300;color: #d8d8d8;text-transform: uppercase;width:100%'>This is a great place to add a tagline.</h6> <p class='componentElement' style='position: absolute;top: 200px;text-align: center;width: 400px;color: #bb9324;left: 172px;line-height: 30px;'>Tell customers more about you. Add a few words and a stunning pic to grab their attention and get them to click.This space is ideal for writing a detailed description of your business and the types of services that you provide. Talk about your team and your areas of expertise. </p> <button class='componentElement' type='button' style='position: absolute;top: 400px;left: 320px;background: none;border: none;outline: none;color: #bc9b5d;font-size: 16px;cursor: pointer;'>Book a place ></button> </div> </div> </div> </div>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "AboutSectionFour",
+                "elementName": "About.SectionFour",
+                "style": {
+                    "top": 403,
+                    "left": 0,
+                    "width": 280,
+                    "height": 100,
+                    "transform": {
+
+                    }
+                },
+                "html": "<div class='componentElement fullSizeElement about_sec_four' fullSizeElement='1' style='height: 500px;position: absolute;top: 1650px;left:0;width:100%;'> <div class=''> <div class='left_img full_width'> <img src='[BASEURL]/element_images/aboutStrip_images/about_strip04.jpg'> </div> <div class='right_text_sec' style='position: absolute;left: 465px;top: 0;'> <div class='right_text_sec_inner'> <h1 class='componentElement' style='font-size: 55px;text-transform: uppercase;margin-top: 0;font-weight: 100;position: absolute;left: 40px;top:80px;font-style: italic;color: #ffffff;font-weight: 700;'>About Us</h1> <p class='componentElement' style='position: absolute;top: 200px;left: 40px;width: 400px;margin: auto;line-height: 30px;'>Tell customers more about you. Add a few words and a stunning pic to grab their attention and get them to click.This space is ideal for writing a detailed description of your business and the types of services that you provide. Talk about your team and your areas of expertise. </p> <button type='button' class='read_more componentElement' style='position: absolute;top: 400px;left: 40px;width:187px;'>Read More</button> </div> </div> </div> </div>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "AboutSectionFive",
+                "elementName": "About.SectionFive",
+                "style": {
+                    "top": 510,
+                    "left": 0,
+                    "width": 280,
+                    "height": 90,
+                    "transform": {
+
+                    }
+                },
+                "html": " <div class='componentElement fullSizeElement about_sec_six' fullSizeElement='1' style='height: 500px;position: absolute;top: 2650px;left: 0;width: 100%;'><div class='left_img'><img src='[BASEURL]/element_images/aboutStrip_images/about_strip06.jpg'></div><div class='right_text_sec'><div class='right_text_sec_inner'><div class='sqaure componentElement' style='position: absolute;left: 531px;top: 150px;'></div><h1 class='componentElement' style='font-size: 55px;text-transform: uppercase;margin-top: 0;font-weight: 100;position: absolute;left: 411px;top: 240px;text-align: center;width:290px'><span>Our</span> Firm</h1><p class='componentElement' style='position: absolute;top: 320px;left: 357px;text-align: center;width: 400px;line-height: 30px;'>I'm a paragraph. Click here to add your own text and edit me. It's easy. </p></div></div></div>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}

@@ -1,0 +1,102 @@
+
+/*email-setting*/
+.objective-wrap{ margin:0px; padding:0px; width:100%; float:left;}
+.objective-wrap .left-box{ margin:0px; padding:0px 15px; width:40%; float:left; border-right:solid 1px #9e9e9e;}
+.objective-wrap .left-box li{ line-height:50px; font-family: 'Lato', sans-serif; color:#000; list-style:none; text-align:right; font-size:16px; font-weight:400;}
+.objective-wrap .right-box{ margin:0px 0px; padding:0px 15px; width:60%; float:right;}
+.objective-wrap .right-box li{ line-height:50px; margin-bottom:13px; font-family: 'Lato', sans-serif; color:#000; list-style:none; text-align:left; font-size:16px; font-weight:400;}
+
+.objective-wrap .right-box .select-box{ margin:0px auto; width:300px;}
+.objective-wrap .right-box .select-box li{ margin:0px; line-height:30px;}
+.objective-wrap .right-box #form-box{
+  position:relative;
+  top:15px;
+  width:100%;
+  margin:0; height:40px;
+  padding:0px; text-indent:10px;
+  background:#fff;
+  border:solid 1px #9e9e9e;
+  border-radius:5px;
+  color:#000;
+}
+
+.objective-wrap .right-box #form-box li{
+  line-height:50px;
+  list-style-type:none;
+  font-size:14px;
+  padding:0px; margin-bottom:0px;
+}
+
+.objective-wrap .right-box label{
+  position:relative;
+  display:block;
+  width:100%;
+  padding:0px;
+  line-height:40px;
+  transition:background 0.3s;
+  cursor:pointer;
+}
+
+.objective-wrap .right-box label:after{
+  content:"";
+  position:absolute;
+  display:block;
+  top:50%;
+  right:5px;
+  width:0;
+  height:0;
+  border-top:4px solid #818181;
+  border-bottom:0 solid #818181;
+  border-left:4px solid transparent;
+  border-right:4px solid transparent;
+  transition:border-bottom .1s, border-top .1s .1s;
+  }
+
+.objective-wrap .right-box label:hover,
+input:checked ~ label{}
+
+.objective-wrap .right-box input:checked ~ label:after{
+  border-top:0 solid #818181;
+  border-bottom:4px solid #818181;
+  transition:border-top .1s, border-bottom .1s .1s;
+}
+
+/*hide the inputs*/
+.objective-wrap .right-box input{display:none}
+
+/*show the second levele menu of the selected voice*/
+.objective-wrap .right-box input:checked ~ ul.submenu{
+  max-height:300px;
+  transition:max-height 0.5s ease-in;
+}
+.objective-wrap .right-box input:checked ~ ul.submenu img{ float: right;}
+
+/*style for the second level menu*/
+.objective-wrap .right-box .submenu{
+  max-height:0;
+  padding:0px 10px;
+  margin:0px;
+  border-radius: 5px;
+  overflow:hidden;
+  list-style-type:none;
+  background:#fff;
+  transition:max-height 0.5s ease-out;
+  position:relative;
+  min-width:100%;}
+  .objective-wrap .right-box .submenu li a i{ float:right; position:relative; top:5px;}
+  .objective-wrap .right-box .submenu li a b{ float:right; position:relative; top:5px; right: -43px;}
+  .objective-wrap .right-box .submenu li a{
+  display:block;
+  padding:0px;
+  color:#000;
+  text-decoration:none;
+  box-shadow:0 -1px rgba(0,0,0,.1) inset;
+  transition:background .3s;
+  white-space:nowrap;
+}
+.objective-wrap .right-box .submenu li a:hover{}
+
+@media screen and (max-width:767px){
+	.objective-wrap .left-box{ display:none;}
+	.objective-wrap .right-box{ width:100%;}
+}

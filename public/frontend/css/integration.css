@@ -1,0 +1,110 @@
+@import url("../fonts/futura.css");
+html { overflow-x: hidden }
+a { outline: 0; }
+/*body, html { height: 100%; font-family: 'Futura PT Book'; color: #5c5c5c; font-size: 20px; font-weight: 400;letter-spacing:1px; }*/
+.img-responsive { display: inline-block; max-width: 100%; height: auto; }
+.clear5 { height: 5px; clear: both; }
+.clear10 { height: 10px; clear: both; }
+.clear15 { height: 15px; clear: both; }
+.clear20 { height: 20px; clear: both; }
+.clear25 { height: 25px; clear: both; }
+.clear30 { height: 30px; clear: both; }
+.clear35 { height: 35px; clear: both; }
+.clear40 { height: 40px; clear: both; }
+.clear45 { height: 45px; clear: both; }
+.clear50 { height: 50px; clear: both; }
+.clear55 { height: 55px; clear: both; }
+.clear60 { height: 60px; clear: both; }
+.clear65 { height: 45px; clear: both; }
+.clear70 { height: 70px; clear: both; }
+.clear75 { height: 45px; clear: both; }
+.clear80 { height: 80px; clear: both; }
+.clear85 { height: 45px; clear: both; }
+.clear90 { height: 90px; clear: both; }
+.clear95 { height: 45px; clear: both; }
+.clear100{ height: 100px; clear: both; }
+.top-header{width: 100%; background: url(../images/top-back.jpg) no-repeat center top; background-size: cover; padding:10px 0 35px 0; min-height:310px;}
+.top-header h1{font-size: 56px;color:#fff;font-weight:600;padding:0;margin:0;}
+.top-header p{font-size: 30px;color:#fff;font-weight:400;}
+.top-header .logo{padding:20px 15px;}
+.btn-flow{text-transform:uppercase;background-color: rgb(109, 64, 227);font-size: 20px;color:#fff; text-align:center;display:block;font-weight:700;border: 1px solid rgba(0,0,0,0.13);border-bottom: 3px solid rgba(0,0,0,0.13);box-shadow: inset 0 -1px -1px 0 rgba(0,0,0,0.22);border-radius: 134px;padding: 13px 35px;margin-bottom:10px;}
+.btn-flow:hover {box-shadow: 0 -133px 133px 0 rgba(255,255,255,0.12) inset;color:#fff;}
+.btn-control{text-transform:uppercase;letter-spacing:1px;background-color: rgb(246, 246, 246);font-size: 20px;color:rgb(96, 96, 96); text-align:center;display:block;font-weight:700;border: 1px solid rgba(0,0,0,0.13);border-bottom: 3px solid rgba(0,0,0,0.13);box-shadow: inset 0 -1px -1px 0 rgba(0,0,0,0.22);border-radius: 134px;padding: 13px 35px;margin-bottom:10px;}
+.btn-control:hover {box-shadow: 0 -133px 133px 0 rgba(255,255,255,0.8) inset;color:rgb(96, 96, 96);}
+.below-header{width: 100%; padding:50px 0 70px 0;}
+.below-header h2{font-size:45px;font-weight:700;color: rgb(45, 45, 45);}
+.panda-steps{width: 100%; padding:20px 0;background-color: rgb(47, 47, 47);color: #fff;}
+.panda-steps h1{font-size:45px;font-weight:700;color: #fff;}
+.panda-steps p{font-size:17px;}
+.btn-freedemo{color: rgb(109, 64, 227);background-color: rgb(255, 255, 255);font-size: 15px;border-bottom: 3px solid rgba(0,0,0,0.2);border-left: none !important;border-right: none !important;padding: 13px 35px;font-weight:700;}
+.btn-freedemo i{font-size: 13px; margin-left:10px;}
+.btn-freedemo:hover {background-color: #ebebeb!important;color: rgb(109, 64, 227);}
+.panda-flow-section{width: 100%; padding:20px 0;}
+.panda-flow-section h1{font-size:45px;font-weight:700;color: rgb(45, 45, 45);}
+.panda-flow-section .gray-div{padding:40px 30px 30px 30px;background-color: rgb(96, 96, 96);border-width: 3px;border-style: solid;-webkit-box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;-moz-box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;border-color: rgba(0,0,0,0.7);border-radius: 20px;}
+.panda-flow-section .gray-div input{margin-bottom:10px;width:100%;height:50px;font-size: 16px;padding: 12px 18px;border-radius:5px;}
+.panda-flow-section .gray-div .btn-heatmap{margin-bottom:10px;width:100%;line-height:37px;color:#fff;display:block;border-radius:5px;font-weight: 700;background-color: rgb(109, 64, 227);font-size: 20px;border: 1px solid rgba(0,0,0,0.2);    box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);}
+.panda-flow-section .gray-div .btn-heatmap:hover {box-shadow: inset 0 2px 2px 0 rgba(255,255,255,0.22), 0 233px 233px 0 rgba(255,255,255,0.12) inset;}
+.panda-flow-section .snapshots-div{margin:0 20px;padding:30px;background-color: rgb(255, 255, 255);outline: none;margin-top: 20px;border-color: rgb(45, 45, 45);border-width: 3px;border-style: solid;-webkit-box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;-moz-box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;border-radius: 25px;}
+.panda-flow-section .snapshots-div h1{font-size: 35px;font-weight:600}
+.panda-flow-section .snapshots-div p{font-size: 25px;}
+.panda-flow-section .snapshots-div hr{border-color: rgb(109, 64, 227);border-top-width: 2px;border-top-style: dashed !important;}
+.panda-flow-section .snapshots-div img{max-height:250px;margin:auto;}
+.panda-flow-pricing{width: 100%; padding:20px 0;background-color:rgb(246, 246, 246);color: rgb(45, 45, 45);}
+.panda-flow-pricing h1{font-size:45px;font-weight:700;color: rgb(45, 45, 45);}
+.panda-flow-pricing p{font-size:17px;}
+.panda-flow-pricing .pricing-div{-webkit-box-shadow: 0 1px 5px rgba(0,0,0,0.2);-moz-box-shadow: 0 1px 5px rgba(0,0,0,0.2);box-shadow: 0 1px 5px rgba(0,0,0,0.2);padding:30px 15px;margin-bottom:10px;}
+.panda-flow-pricing .pricing-div h1{padding:0;margin:0;}
+.panda-flow-pricing .pricing-div ul{min-height: 245px;text-align:left;list-style:none;padding:0;margin:0;font-size:18px;margin-top:10px;font-weight:bold}
+.panda-flow-pricing .pricing-div ul li{line-height:35px;}
+.panda-flow-pricing .pricing-div ul li i{color: rgb(66, 185, 159);}
+.panda-flow-pricing .pricing-div .btn{font-size:16px;margin:45px 0 10px 0;-webkit-box-shadow: 0 0 25px rgba(0,0,0,0.2);-moz-box-shadow: 0 0 25px rgba(0,0,0,0.2);box-shadow: 0 0 25px rgba(0,0,0,0.2), 0 0 15px rgba(0,0,0,0.2), 0 0 3px rgba(0,0,0,0.4);}
+.panda-flow-pricing .pricing-div .btn:hover{box-shadow:none;}
+.panda-flow-pricing .pricing-div .btn i{margin-left:10px;}
+.sitevisits-section{width: 100%; padding:50px 0;background-color:rgb(32, 32, 38);color: rgb(255, 255, 255);}
+.sitevisits-section h1{font-size:34px;font-weight:700;color: rgb(255, 255, 255);margin:0;}
+.sitevisits-section p{font-size:17px;}
+.sitevisits-section input[type=text], .sitevisits-section input[type=email] {margin-bottom: 10px;width: 100%;height: 50px;font-size: 16px;padding: 12px 18px;border-radius: 5px;}
+.sitevisits-section .btn{font-size:16px;background-color:rgb(81, 52, 160)}
+.sitevisits-section .btn:hover{box-shadow:none;box-shadow: 0 -133px 133px 0 rgba(255,255,255,0.12) inset;}
+.sitevisits-section .btn i{margin-left:10px;}
+.faq-section{width: 100%; padding:20px 0;}
+.faq-section p{margin:25px 0;}
+.faq-section h1{font-size:45px;font-weight:700;color: rgb(45, 45, 45);margin:45px 0;}
+.faq-section h2{font-size:25px;font-weight:700;color: rgb(45, 45, 45);}
+.faq-section .btn{text-transform:none;}
+.nofloat{float:none;}
+.conversion-section{width: 100%; padding:40px 0;background-color:rgb(32, 32, 38);color: rgb(255, 255, 255);}
+.conversion-section h1{font-size:34px;font-weight:700;color: rgb(255, 255, 255);margin:0;margin-top:5px;}
+.conversion-section .btn{text-transform:none;font-size:16px;background-color:rgb(81, 52, 160);margin:0;}
+.conversion-section .btn:hover{box-shadow:none;box-shadow: 0 -133px 133px 0 rgba(255,255,255,0.12) inset;}
+.conversion-section .btn i{margin-left:10px;}
+.footer{width: 100%; padding:50px 0 0 0;}
+.footer h2{font-size:25px;font-weight:700;color:rgb(45, 45, 45);margin:0 0 10px 0;}
+.footer ul{margin:0;padding:0;list-style:none;}
+.footer h1{margin:0 0 10px 0;padding:0;font-size:30px;}
+.footer .contactform .form-control{margin-bottom:5px;}
+.footer .contactform input[type=text], .footer .contactform input[type=email] {margin-bottom: 10px;width: 100%;height: 50px;font-size: 16px;padding: 12px 18px;border-radius: 5px;}
+.footer .contactform textarea {margin-bottom: 10px;width: 100%;font-size: 16px;padding: 12px 18px;border-radius: 5px;}
+.footer .btn-send{margin:30px 0;font-weight:700;text-transform:uppercase;color: rgb(255, 255, 255);background-color: rgb(189, 189, 189);font-size: 20px;border-radius: 134px;border: 1px solid rgba(0,0,0,0.13);border-bottom: 3px solid rgba(0,0,0,0.13);box-shadow: inset 0 -1px -1px 0 rgba(0,0,0,0.22);padding: 13px 35px;}
+.footer .btn-send:hover {box-shadow: 0 -133px 133px 0 rgba(255,255,255,0.12) inset;}
+.footer .btn-send i{margin-left:10px;}
+.footer .socialicons{margin:40px 0}
+.footer .socialicons a{margin-right:20px;font-size:16px;}
+.footer .socialicons .facebook{color:#3b5998;}
+.footer .socialicons .twitter{color:#24aadd;}
+.footer .socialicons .google{color:#d23e30;}
+.copyright{width: 100%; padding:30px 0;}
+#heatmap .modal-content{border-color: rgb(28, 28, 28);outline: none;background-color: rgb(71, 71, 71);border-width: 5px;border-style: solid;}
+#heatmap .modal-header{border:none 0;}
+#heatmap .modal-header strong{color:#fff;}
+#heatmap .modal-header button{color:#fff; background:#000; border-radius:100px;border:solid 3px #fff;padding:5px 10px;opacity: 1;margin-top: -35px;margin-right: -35px;}
+#heatmap .modal-content .modal-form{margin:5px; padding:20px; background:#fff;-webkit-box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;-moz-box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;box-shadow: 0 2px 5px 2px rgba(0,0,0,0.4) inset;border-color: rgba(0,0,0,0.7);border-width: 3px;border-style: solid;border-radius: 10px;}
+
+.btn_panda_submit {width:100%;}
+
+@media screen and (max-width:767px){
+    .footer .socialicons{display:none;}
+    .faq-section .btn-freedemo{margin: auto;display: block;width: 200px;}
+    .conversion-section h1{margin-bottom:20px;}
+}

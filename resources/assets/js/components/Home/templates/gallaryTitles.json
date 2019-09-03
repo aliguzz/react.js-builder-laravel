@@ -1,0 +1,357 @@
+{
+    "elementName": "ObjectSchema",
+    "name": "Gallary",
+    "containers": [{
+        "name": "container",
+        "elementName": "Container",
+        "style": {
+            "top": 0,
+            "left": 0,
+            "width": 280,
+            "height": 1060,
+            "position": "relative"
+        },
+        "props": {
+            "startOnNewPage": false,
+            "unbreakable": false
+        },
+        "boxes": [{
+                "name": "CollageClassic",
+                "elementName": "Collage.Classic",
+                "style": {
+                    "top": 30,
+                    "left": 5,
+                    "width": 132,
+                    "height": 100,
+                    "transform": {
+
+                    }
+                },      
+                "html": " <section galleryelement='1' style='z-index:1000;height:655px;width:980px;position:absolute;left:0;top:0;' height='655' width='980' class='componentElement masonry-view grid-chic grid-vintage'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/5.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "CollageMossaic",
+                "elementName": "Collage.Mossaic",
+                "style": {
+                    "top": 30,
+                    "left": 143,
+                    "width": 132,
+                    "height": 105,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000;position: absolute;left: 0;top: 0;width:980px;height:990px' height='990' width='980' class='componentElement grid-3'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "GridSimple",
+                "elementName": "Grid.Simple",
+                "style": {
+                    "top": 139,
+                    "left": 4,
+                    "width": 132,
+                    "height": 105,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  masonry-view componentElement grid-chic grid-polaroid'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/5.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "GridHalf",
+                "elementName": "Grid.half",
+                "style": {
+                    "top": 139,
+                    "left": 143,
+                    "width": 132,
+                    "height": 105,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  grid-full-width componentElement grid-urban grid-cubist'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "Grid2Half",
+                "elementName": "Grid.2half",
+                "style": {
+                    "top": 270,
+                    "left": 3,
+                    "width": 132,
+                    "height": 93,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  college-classic componentElement'> <div class='container'> <div class='main-mas-div'> <div class='grid-layout'> <div class='grid-item span-4 grid-item-1'> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='grid-item grid-item-2'> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='grid-item span-3 grid-item-3'> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='grid-item grid-item-4'> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='grid-item span-5 grid-item-5'> <img src='[BASEURL]/element_images/5.jpg'> </div> <div class='grid-item span-6 grid-item-6'> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='grid-item grid-item-7'> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='grid-item span-7 grid-item-8'> <img src='[BASEURL]/element_images/1.jpg'> </div> </div> </div> </div> </section>"
+                ,
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "CollageClassic",
+                "elementName": "Collage.Classic",
+                "style": {
+                    "top": 270,
+                    "left": 143,
+                    "width": 132,
+                    "height": 60,
+                    "transform": {
+
+                    }
+                },      
+                "html": " <section galleryelement='1' style='z-index:1000;left:0;top:0;width:980px;' height='500' width='980' class='componentElement college-classic college-mosaic'> <div class='main-mas-div'> <div class='grid-layout'> <div class='grid-item   span-4 grid-item-1'> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='grid-item span-2 grid-item-2'> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='grid-item span-3 grid-item-3'> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='grid-item span-3 grid-item-4'> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='grid-item span-5 grid-item-5'> <img src='[BASEURL]/element_images/5.jpg'> </div> <div class='grid-item span-3 grid-item-6'> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='grid-item span-3 grid-item-7'> <img src='[BASEURL]/element_images/3.jpg'> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "CollageMossaic",
+                "elementName": "Collage.Mossaic",
+                "style": {
+                    "top": 370,
+                    "left": 4,
+                    "width": 132,
+                    "height": 108,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000;position: absolute;left: 0;top: 0;width:980px;height:866px;' height='866' width='980' class='componentElement grid-3 grid-floating'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "GridSimple",
+                "elementName": "Grid.Simple",
+                "style": {
+                    "top": 335,
+                    "left": 144,
+                    "width": 132,
+                    "height": 108,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  grid-full-width grid-urban componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> <div class='overlay'> <div class='text'>Hello World</div> </div> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "GridHalf",
+                "elementName": "Grid.half",
+                "style": {
+                    "top": 485,
+                    "left": 4,
+                    "width": 132,
+                    "height": 100,
+                    "transform": {
+
+                    }
+                },
+                "html": "  <section galleryelement='1' style='z-index:1000' height='500' width='1000' class=' masonry-view grid-chic componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/5.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "Grid2Half",
+                "elementName": "Grid.2half",
+                "style": {
+                    "top": 448,
+                    "left": 144,
+                    "width": 132,
+                    "height": 113,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='componentElement grid-3'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <div class='text-div'> <h2>Enter your text here</h2> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> </div> </div> </div> </section>"
+                ,
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "CollageClassic",
+                "elementName": "Collage.Classic",
+                "style": {
+                    "top": 585,
+                    "left": 4,
+                    "width": 132,
+                    "height": 113,
+                    "transform": {
+
+                    }
+                },      
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  masonry-view grid-frame componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/5.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "CollageMossaic",
+                "elementName": "Collage.Mossaic",
+                "style": {
+                    "top": 565,
+                    "left": 144,
+                    "width": 132,
+                    "height": 110,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  grid-full-width componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <div class='text-div'> <h2>Enter your text here</h2> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "GridSimple",
+                "elementName": "Grid.Simple",
+                "style": {
+                    "top": 705,
+                    "left": 4,
+                    "width": 132,
+                    "height": 95,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000;position: absolute;left: 0;top: 0;width:980px;height:835px' height='835' width='980' class='componentElement layout-2'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <div class='text-div'> <h2>Enter your text here</h2> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "GridHalf",
+                "elementName": "Grid.half",
+                "style": {
+                    "top": 682,
+                    "left": 144,
+                    "width": 132,
+                    "height": 95,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  masonry-view componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/3.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/4.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/2.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/5.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> <figure class=''  > <div class='img-div '> <img src='[BASEURL]/element_images/1.jpg'> </div> <div class='btm-text '> <h2>Describe your image</h2> </div> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 60,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "Grid2Half",
+                "elementName": "Grid.2half",
+                "style": {
+                    "top": 805,
+                    "left": 4,
+                    "width": 132,
+                    "height": 125,
+                    "transform": {
+
+                    }
+                },
+                "html": "  <section galleryelement='1' style='z-index:1000' height='500' width='1000' class=' masonry-vertical componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <div class='text-div'> <h2>Enter your text here</h2> </div> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> </div> </div> </div> </section>"
+                ,
+                "props": {
+                    "width": 40,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "CollageClassic",
+                "elementName": "Collage.Classic",
+                "style": {
+                    "top": 785,
+                    "left": 144,
+                    "width": 132,
+                    "height": 255,
+                    "transform": {
+
+                    }
+                },      
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  one-column componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            },
+            {
+                "name": "CollageMossaic",
+                "elementName": "Collage.Mossaic",
+                "style": {
+                    "top": 935,
+                    "left": 4,
+                    "width": 132,
+                    "height": 105,
+                    "transform": {
+
+                    }
+                },
+                "html": " <section galleryelement='1' style='z-index:1000' height='500' width='1000' class='  grid-rounded componentElement'> <div class='container'> <div class='main-mas-div'> <div class='masonry-layout'> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/3.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/4.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/5.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/1.jpg'> </figure> <figure class=''  > <img src='[BASEURL]/element_images/2.jpg'> </figure> </div> </div> </div> </section>",
+                "props": {
+                    "width": 100,
+                    "height": 100,
+                    "strokeWidth": 2
+                }
+            }
+        ],
+        "containers": [
+
+        ]
+    }],
+    "data": {
+
+    },
+    "props": {
+        "context": {
+
+        }
+    }
+}
